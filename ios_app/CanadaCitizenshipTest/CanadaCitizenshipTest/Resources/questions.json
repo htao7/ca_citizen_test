@@ -1,0 +1,4556 @@
+[
+  {
+    "id": 1,
+    "question": "When must a federal election be held according to legislation passed by parliament?",
+    "options": [
+      "When the king wants to replace the prime minister.",
+      "Within four years of the most recent election.",
+      "Within 5 years of the last election.",
+      "The prime minister can call the election any time at his own will."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the federal government responsible for?",
+    "options": [
+      "Highways",
+      "Natural resources",
+      "Education",
+      "Interprovincial trade and communications"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 3,
+    "question": "What was the name of the new country formed at confederation?",
+    "options": [
+      "Britain",
+      "Canada",
+      "Canadian Confederation",
+      "Dominion of Canada"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 4,
+    "question": "Where do more than half of the people in Canada live?",
+    "options": [
+      "Coastal Pacific",
+      "Atlantic Canada",
+      "Prairies",
+      "Central Canada"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 5,
+    "question": "Who brought Quebec into confederation?",
+    "options": [
+      "Sir Louis-Hippolyte La Fontaine",
+      "Sir George-\u00c9tienne Cartier",
+      "Sir Wilfrid Laurier",
+      "Sir John Alexander Macdonald"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "In World War II, how did Canada contribute more to the Allied air effort than any other Commonwealth country?",
+    "options": [
+      "Trained 130,000 Allied air crew.",
+      "Deployed paratroopers in France.",
+      "Provided ammunition.",
+      "Sent 130,000 soldiers to take France back from the Germans."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 7,
+    "question": "How can a party in power be defeated in parliament?",
+    "options": [
+      "If there is a revolution.",
+      "If the king orders the party to resign.",
+      "If a majority of the MPs vote against a major government decision.",
+      "If a minority of the MPs vote against a major government decision."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Which of the following are the responsibilities of provincial government?",
+    "options": [
+      "Education, health care, natural resources and policing.",
+      "National defense, healthcare, citizenship, and firefighting.",
+      "Education, foreign policy, natural resources and policing.",
+      "National defense, foreign policy, highways, and Aboriginal affairs."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "What was the Underground Railroad?",
+    "options": [
+      "An anti-slavery network that helped thousands of slaves escape the United States and settle in Canada.",
+      "A railroad through the Rockies that was mainly through mountain tunnels.",
+      "A network fur traders used to transport beaver pelts to the United States.",
+      "The first underground subway tunnel in Toronto."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "Which region covers more than one-third of Canada?",
+    "options": [
+      "Northern Territories",
+      "South region",
+      "North region",
+      "Southern Territories"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the royal anthem of Canada?",
+    "options": [
+      "Great Canada",
+      "O Canada",
+      "God save the queen (or king)",
+      "O Canada"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "What is the primary role of the police in Canada?",
+    "options": [
+      "To resolve disputes and interpret law.",
+      "To keep people safe and to enforce the law.",
+      "To provide national security intelligence to the government.",
+      "To conduct or support land warfare, peacekeeping, or humanitarian missions."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "Which province has the most bilingual Canadians?",
+    "options": [
+      "British Columbia",
+      "Quebec",
+      "Ontario",
+      "New Brunswick"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Which province is one of the most productive agricultural regions in the world?",
+    "options": [
+      "Manitoba",
+      "Saskatchewan",
+      "British Columbia",
+      "Alberta"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "When is Canada Day?",
+    "options": [
+      "November 11th",
+      "July 1st",
+      "October 1st",
+      "July 4th"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "In what year did Canada become a country?",
+    "options": [
+      "1867",
+      "1687",
+      "1786",
+      "1678"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "The two official languages of Canada are:",
+    "options": [
+      "Inuktitut and English",
+      "French and Inuktitut",
+      "English and French",
+      "Mandarin and English"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 18,
+    "question": "Where is Canada located?",
+    "options": [
+      "Central America",
+      "Europe",
+      "North America",
+      "South America"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "Can you name the five great lakes between Canada and the US?",
+    "options": [
+      "Lake Toronto, Lake Michigan, Lake Mexico, Lake Ontario, Lake St. Louis",
+      "Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario",
+      "Lake Michigan, Lake Victoria, Lake Mexico, Lake Ontario, Lake St. Louis",
+      "None of the above"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "What do you call the king's representative in the provinces?",
+    "options": [
+      "Governor Lieutenant",
+      "King's Governor",
+      "Lieutenant Governor",
+      "Governor General"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "How are members of parliament chosen?",
+    "options": [
+      "Elected by senators",
+      "Elected by the prime minister",
+      "Chosen by the king",
+      "Elected by Canadian citizens"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 22,
+    "question": "In what jobs did the M\u00e9tis first work with European settlers?",
+    "options": [
+      "Supplies, traders, guides, and interpreters",
+      "Taking care of children",
+      "Building housing",
+      "Fishing"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "What does the National Register of Electors contain?",
+    "options": [
+      "Database of landed immigrants",
+      "Database of Canadian citizens at least 18 years of age who are qualified to vote in federal elections and referendums",
+      "Database of all Canadian citizens",
+      "Database of Canadian taxpayers"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "What was the main advantage of the NAFTA agreement?",
+    "options": [
+      "Free trade among Canada, the USA, and Mexico",
+      "Free trade between Canada and China",
+      "Free trade between Canada and the UK",
+      "Free trade between Canada and Japan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 25,
+    "question": "Who are the M\u00e9tis?",
+    "options": [
+      "The distinct Aboriginal people of Atlantic Canada",
+      "A people of mixed Inuit or First Nations ancestry, most of whom live on the prairies",
+      "First Nations people speaking the Michif dialect",
+      "A distinct people of mixed Aboriginal and European ancestry"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 26,
+    "question": "Which act granted for the first time in Canada legislative assemblies elected by the people?",
+    "options": [
+      "The Constitutional Act of 1982",
+      "The Constitutional Act of 1891",
+      "The Constitutional Act of 1791",
+      "The Constitutional Act of 1972"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 27,
+    "question": "Who appoints the judges of the Supreme Court of Canada?",
+    "options": [
+      "The Governor General",
+      "The Prime Minister",
+      "Other judges",
+      "The people"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 28,
+    "question": "What does the crown mean for Canadians?",
+    "options": [
+      "The crown is a symbol of government including parliament, legislatures, courts, police services, and the armed forces",
+      "The crown contains symbols of England, France, Scotland, and Ireland, as well as red maple leaves",
+      "A national motto, \"A Mari Usque Ad Mare\", which in Latin means \"from sea to sea\"",
+      "The crown reflects the Greco-Roman heritage of Western civilization in which democracy originated"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "What did the suffrage movement achieve?",
+    "options": [
+      "Quebec experienced an era of rapid change",
+      "The suffrage movement abolished slavery in Canada",
+      "The suffrage movement led to the introduction of employment insurance",
+      "Women achieved the right to vote"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 30,
+    "question": "When did settlers from France first establish communities on the St. Lawrence River?",
+    "options": [
+      "Late 1600s",
+      "Early 1700s",
+      "Late 1700s",
+      "Early 1600s"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 31,
+    "question": "Which region is known as the industrial and manufacturing heartland of Canada?",
+    "options": [
+      "Atlantic provinces",
+      "Prairie provinces",
+      "Central Canada",
+      "West Coast"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "What types of jobs are provided by service industries?",
+    "options": [
+      "Communications and retail services",
+      "Transportation and education",
+      "Tourism and government",
+      "All answers are correct"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 33,
+    "question": "With which words does the Canadian Charter of Rights and Freedoms begin?",
+    "options": [
+      "Canadian citizens have rights and responsibilities",
+      "O Canada, our home and native land",
+      "Canada is a free country and home of the brave",
+      "Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is not a responsibility of Canadian citizens?",
+    "options": [
+      "Learning to speak both official languages",
+      "Voting in elections",
+      "Obeying the law",
+      "Taking responsibility for oneself and one's family"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "What do Canadians remember on Remembrance Day?",
+    "options": [
+      "Canadian victory in World War I",
+      "Canadian victory in the Battle of Vimy Ridge",
+      "Canadian victory in World War II",
+      "Sacrifices made by Canadian veterans and brave soldiers in wars"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 36,
+    "question": "Why was the Canadian Pacific Railway built?",
+    "options": [
+      "The railway made it possible for immigrants to settle in central Canada",
+      "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the west coast",
+      "To provide a spectacular tourist excursion across precipitous passes and bridges",
+      "So British Columbia could handle the trade of goods worth billions of dollars all around the world"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "Why is trade with other countries important to Canada?",
+    "options": [
+      "Trade with other countries changed the native way of life forever",
+      "To increase trade and enjoy one of the world's highest standards of living",
+      "Canada has become a member of the World Trade Organization",
+      "The French and Aboriginal people collaborated with Canada in the vast fur trade economy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "Which of the following best describes the role of the king in Canada?",
+    "options": [
+      "To make important decisions about how the country is governed",
+      "To peacefully oppose or try to improve government proposals",
+      "To run the federal government departments",
+      "To focus on citizenship and allegiance, be a symbol of Canadian sovereignty and a guardian of constitutional freedoms"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 39,
+    "question": "What does it mean to say Canada is a constitutional monarchy?",
+    "options": [
+      "The sovereign queen or king approves bills before they become law",
+      "The sovereign queen or king represents Canadians in parliament",
+      "Canada's head of state is a hereditary sovereign queen or king who reigns in accordance with the constitution",
+      "The sovereign queen or king is the lawmaker of Canada"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "Remembrance Day is celebrated on:",
+    "options": [
+      "July 1st",
+      "July 4th",
+      "November 11th",
+      "November 20th"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 41,
+    "question": "What are the provinces of central Canada?",
+    "options": [
+      "Ontario and Quebec",
+      "Ontario and Alberta",
+      "Quebec and New Brunswick",
+      "Alberta and Saskatchewan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "Where do the majority of M\u00e9tis live in Canada?",
+    "options": [
+      "Central Canada",
+      "The North",
+      "Prairie provinces",
+      "The Maritimes"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 43,
+    "question": "Which country is Canada's largest trading partner?",
+    "options": [
+      "China",
+      "The United States of America",
+      "The United Kingdom",
+      "Mexico"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "Which two fundamental freedoms are protected by the Canadian Charter of Rights and Freedoms?",
+    "options": [
+      "Freedom of Belief and Freedom of Religion",
+      "Equal employment rights and opportunities",
+      "Basic living rights and obey laws",
+      "Aboriginal people's rights and to volunteer"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 45,
+    "question": "What do the initials MP stand for in Canadian politics?",
+    "options": [
+      "Member of Parliament",
+      "Minister of Parliament",
+      "Member of the Patriots",
+      "Master of the province"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 46,
+    "question": "Which was the last province to join Canada?",
+    "options": [
+      "Prince Edward Island",
+      "Manitoba",
+      "Newfoundland",
+      "Yukon"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "Who are the Aboriginal peoples in Canada?",
+    "options": [
+      "The first settlers of Newfoundland",
+      "The first European settlers to arrive in Canada",
+      "The descendants of the first Australian immigrants to Canada",
+      "The first inhabitants of Canada"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 48,
+    "question": "What does the term responsible government mean?",
+    "options": [
+      "Each person in each electoral district is responsible for voting",
+      "The governor general is responsible for the actions of the prime minister",
+      "The ministers of the crown must have the support of a majority of the elected representatives in order to govern",
+      "All Canadians are responsible for each other"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 49,
+    "question": "Which province is Canada's main producer of pulp and paper?",
+    "options": [
+      "Quebec",
+      "British Columbia",
+      "Saskatchewan",
+      "Ontario"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "What should you do if you do not receive a voter information card before an election?",
+    "options": [
+      "Call your local municipality",
+      "Turn up at your nearest polling station on election day",
+      "You should assume you were not chosen to vote",
+      "Contact Elections Canada"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 51,
+    "question": "What are the parties that are not in power called?",
+    "options": [
+      "Tea parties",
+      "Opposition parties",
+      "Rival parties",
+      "Opponent parties"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is the oldest colony of the British Empire in Canada?",
+    "options": [
+      "Quebec",
+      "Ontario",
+      "Alberta",
+      "Newfoundland and Labrador"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 53,
+    "question": "Who is the king's representative in Canada?",
+    "options": [
+      "The Premier",
+      "The Prime Minister's spouse",
+      "The Governor General of Canada",
+      "The Prime Minister"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "Which of the following are the responsibilities of Canadian citizenship?",
+    "options": [
+      "Protect the Canadian environment and vote in elections",
+      "Obey the law, find work in the government, and serve in the Canadian Army",
+      "Serve in the Canadian Army, obey the law, and take responsibility for oneself and one's family",
+      "Obey the law, serve on a jury, vote in elections, and help others in the community"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 55,
+    "question": "Which region of Canada is known for its fertile agricultural land and energy resources?",
+    "options": [
+      "Central Canada",
+      "Quebec",
+      "Prairie Provinces",
+      "Maritime Provinces"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "Why are the Great Lakes important to Canada?",
+    "options": [
+      "They provide water for irrigation",
+      "They provide fresh water and waterways",
+      "They provide waterways",
+      "They are tourist attractions"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "Which province in Canada is the smallest in land size?",
+    "options": [
+      "British Columbia",
+      "Prince Edward Island",
+      "Alberta",
+      "New Brunswick"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 58,
+    "question": "Who was the first person to draw a map of Canada's east coast?",
+    "options": [
+      "Jean Talon",
+      "George Cartier",
+      "John Cabot (John Kat in transcript)",
+      "Jacques Cartier"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "If you cannot pay for a lawyer, how can you get legal help?",
+    "options": [
+      "Borrow money from the government and pay for the lawyer",
+      "Go to legal aid services in most communities",
+      "Apply for financial aid from the government to pay for legal fees",
+      "Do not go to a court"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "What is a polling station?",
+    "options": [
+      "Place where you vote",
+      "Campaign offices for candidates",
+      "Place where the number of votes is counted",
+      "Member of parliament's constituency"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "What is a cabinet minister?",
+    "options": [
+      "Candidate picked by the prime minister",
+      "MP picked by the premier of each province",
+      "MP selected by the prime minister to run federal departments",
+      "MP selected by the king to make laws"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "Who discovered insulin?",
+    "options": [
+      "Dr. Wilder Penfield",
+      "Matthew Evans and Henry Woodward",
+      "Sir Frederick Banting and Charles Best",
+      "Dr. John A. Hopps"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 63,
+    "question": "What is a major river in Quebec?",
+    "options": [
+      "Hudson's Bay",
+      "Niagara",
+      "Fraser River",
+      "St. Lawrence River"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 64,
+    "question": "Who circled the globe in a wheelchair to raise funds for spinal cord research?",
+    "options": [
+      "Reginald Fessenden",
+      "Rick Hansen",
+      "Terry Fox",
+      "Gerhard Herzberg"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 65,
+    "question": "Who is the father of Manitoba and defender of M\u00e9tis rights?",
+    "options": [
+      "Louis Riel",
+      "Sir Louis-Hippolyte La Fontaine",
+      "Sir John Alexander Macdonald",
+      "Sir William Riel"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 66,
+    "question": "Which of the following is a non-Canadian not allowed to do?",
+    "options": [
+      "Leave the country at will",
+      "Contact his or her MP",
+      "Take the Canada citizenship test",
+      "Vote in federal and provincial elections"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 67,
+    "question": "Why is the north sometimes called the land of the midnight sun?",
+    "options": [
+      "It is closer to the sun",
+      "The northern lights appear at midnight",
+      "It is night most of the time",
+      "Summer daylight can last up to 24 hours"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 68,
+    "question": "One-third of all Canadians live in:",
+    "options": [
+      "Saskatchewan",
+      "Quebec",
+      "Alberta",
+      "Ontario"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 69,
+    "question": "Who can ask you about whom you voted for?",
+    "options": [
+      "No one",
+      "Any other Canadian",
+      "Your local MP",
+      "The prime minister"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 70,
+    "question": "When did the United Empire loyalists come to Canada?",
+    "options": [
+      "Late 1600s",
+      "Early 1600s",
+      "Early 1700s",
+      "Late 1700s"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 71,
+    "question": "What happens when the federal government loses a confidence vote?",
+    "options": [
+      "An election is called",
+      "The official opposition party takes power",
+      "The prime minister loses his job",
+      "The prime minister is no longer the leader of his party"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 72,
+    "question": "What happened at the Battle of the Plains of Abraham?",
+    "options": [
+      "The Voyagers battled with the British for fur trading rights",
+      "Americans fought the United Empire loyalists during the American Revolution",
+      "The British defeated the French, marking the end of France's empire in America",
+      "The French defeated the British in a battle for Quebec"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 73,
+    "question": "Who has the right to apply for a Canadian passport?",
+    "options": [
+      "British citizens",
+      "Canadian citizens",
+      "Any immigrant who has stayed a minimum of 3 years in Canada",
+      "Wealthy citizens"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Who were the group of seven in modern Canada?",
+    "options": [
+      "A group of politicians",
+      "A group of Canadian companies",
+      "A group of cowboys who defended Canada",
+      "A group of Canadian landscape painters in the 1920s"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 75,
+    "question": "What is a responsible government?",
+    "options": [
+      "The government is responsible for the well-being of its people",
+      "The government must take responsibility for any act of war it decides to commit",
+      "A government that is against corruption",
+      "The government must resign if it loses a confidence vote in the assembly"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 76,
+    "question": "What outcome and significance did the War of 1812 with the USA have for Canada?",
+    "options": [
+      "Canada formed part of the United States",
+      "Canada lost a lot of people in the war",
+      "Canada protected its independence from the United States",
+      "Canada became an independent country"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 77,
+    "question": "What level of government passes bylaws?",
+    "options": [
+      "Provincial",
+      "Municipal or local government",
+      "Federal",
+      "Senators"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 78,
+    "question": "What is the meaning of the Canadian coat of arms and motto: \"A Mari Usque Ad Mare\"?",
+    "options": [
+      "From air to land",
+      "From sea to land",
+      "From land to sea",
+      "From sea to sea"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 79,
+    "question": "What are three key facts about Canada's system of government?",
+    "options": [
+      "A federal kingdom, a parliamentary democracy, and a constitutional monarchy",
+      "A federal state, a parliamentary democracy, and a constitutional monarchy",
+      "A socialist country, a parliamentary democracy, and a constitutional monarchy",
+      "A federal country, a constitutional democracy, and a parliamentary monarchy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 80,
+    "question": "In which type of industry did most early European settlers work?",
+    "options": [
+      "Fur trading",
+      "Oil",
+      "Gold mining",
+      "Hunting"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 81,
+    "question": "How is a cabinet minister chosen?",
+    "options": [
+      "By the prime minister",
+      "By the king",
+      "By the voters",
+      "By the senators"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 82,
+    "question": "Who are the Acadians?",
+    "options": [
+      "English-speaking refugees who settled in Ontario",
+      "The descendants of French colonists who began settling in what are now the Maritime Provinces in 1604",
+      "French-speaking Catholics who live in Ontario",
+      "Aboriginal people of the Arctic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 83,
+    "question": "How is the prime minister chosen?",
+    "options": [
+      "The MPs vote on the prime minister",
+      "The governor general with the senators appoints the prime minister",
+      "The king appoints the prime minister",
+      "The leader of the party with the most elected members of parliament"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 84,
+    "question": "What does MNA stand for?",
+    "options": [
+      "Member of the national aid",
+      "Member of the national association",
+      "Member of the national airline",
+      "Member of the National Assembly"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 85,
+    "question": "The amended Constitution of Canada in 1982 was proclaimed by:",
+    "options": [
+      "The Senate",
+      "Queen Elizabeth II",
+      "The people of Canada",
+      "The Prime Minister"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 86,
+    "question": "What is Canada's system of government called?",
+    "options": [
+      "Dictatorship",
+      "Parliamentary government",
+      "Military rule",
+      "Communism"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "What are the colors present in the Canadian flag?",
+    "options": [
+      "Blue and white",
+      "Red and white",
+      "Green and white",
+      "Red and blue"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "From where did the first European settlers in Canada come?",
+    "options": [
+      "Germany",
+      "England",
+      "France",
+      "Iceland"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 89,
+    "question": "Which of the following are not responsibilities of the Governor General?",
+    "options": [
+      "Chooses the opposition party",
+      "Performs the ceremonial duties of the head of state",
+      "Signs bills to make them law after they have been passed by parliament",
+      "A and C"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 90,
+    "question": "How can you contact your member of Parliament?",
+    "options": [
+      "By using social media sites online",
+      "By writing a letter to the House of Commons",
+      "By booking an appointment over the phone",
+      "By waiting outside of the Parliament building"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 91,
+    "question": "Who was Sir George-\u00c9tienne Cartier?",
+    "options": [
+      "A railway lawyer and Montrealer",
+      "The first French Canadian prime minister",
+      "The first head of a responsible government",
+      "Canada's first prime minister"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 92,
+    "question": "Who is the greatest Canadian hockey player?",
+    "options": [
+      "Wayne Gretzky",
+      "Mark Tewksbury",
+      "Donovan Bailey",
+      "Terry Fox"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 93,
+    "question": "Which of the following answers is not true about the relationship between Canada and the USA?",
+    "options": [
+      "Canada and the USA share the longest undefended international border",
+      "Canada and the USA are the largest trading partners in the world",
+      "Canada exports very few goods to the USA",
+      "The relationship between Canada and the USA is the closest and the most extensive in the world"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 94,
+    "question": "On which principles is Canada's constitution based?",
+    "options": [
+      "Multiculturalism, peace and order",
+      "Peace, order, and good government",
+      "War, order, and good government",
+      "Mobility rights, order, and good government"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 95,
+    "question": "What is the significance of hockey?",
+    "options": [
+      "It is the national summer sport",
+      "It is the most popular spectator sport in Canada and also its national winter sport",
+      "Canada won a gold medal in 2008's Olympics in this event",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 96,
+    "question": "What are the two principles upon which Canada is founded?",
+    "options": [
+      "The supremacy of God and the rule of law",
+      "The supremacy of God and freedom of speech",
+      "The supremacy of law and the rule of God",
+      "Mobility right and the rule of law"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 97,
+    "question": "What is celebrated on the 26th of December?",
+    "options": [
+      "Remembrance Day",
+      "Victoria Day",
+      "Boxing Day",
+      "Canada Day"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 98,
+    "question": "Since when has the protocol for the amendment of the Canadian Constitution existed?",
+    "options": [
+      "1962",
+      "1982",
+      "1885",
+      "1972"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 99,
+    "question": "Canada's national winter sport is:",
+    "options": [
+      "Lacrosse",
+      "Basketball",
+      "Hockey",
+      "Golf"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 100,
+    "question": "Who led an armed uprising and seized Fort Garry?",
+    "options": [
+      "John Alexander Macdonald",
+      "Louis Riel",
+      "Sam Steele",
+      "George-\u00c9tienne Cartier"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 101,
+    "question": "What are the main functions of the cabinet?",
+    "options": [
+      "Natural resources",
+      "Navigation",
+      "To prepare the budget and propose new laws to be implemented",
+      "Defense"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 102,
+    "question": "Who can enter and leave the country freely without time constraints?",
+    "options": [
+      "Canadian citizens and landed immigrants",
+      "Commonwealth citizens",
+      "Canadian citizens",
+      "British citizens"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 103,
+    "question": "If the government loses a confidence vote in the assembly, it must:",
+    "options": [
+      "Call for by-elections",
+      "Continue governing",
+      "Do nothing",
+      "Resign"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 104,
+    "question": "Which province was the first to grant voting rights to women?",
+    "options": [
+      "Quebec",
+      "Ontario",
+      "Nova Scotia",
+      "Manitoba"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 105,
+    "question": "What is the great charter of freedom also known as?",
+    "options": [
+      "Habeas Corpus",
+      "Dominion of Canada",
+      "Canadian Constitution",
+      "Magna Carta"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 106,
+    "question": "A member of Parliament from Montreal announces that she will spend her weekend in her electoral district. This means she would be:",
+    "options": [
+      "In her office on Parliament Hill",
+      "In some part of Montreal where she was elected",
+      "Visiting the province of Quebec",
+      "Going on a vacation"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "How is the government formed after a federal election?",
+    "options": [
+      "Each province elects one representative to form the government. The king then chooses the prime minister.",
+      "The governor general picks a party and a prime minister to run the government.",
+      "The party with the most elected representatives becomes the party in power. The leader of this party becomes the prime minister.",
+      "The party with the most elected representatives becomes the party in power. The king chooses the prime minister from this party."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 108,
+    "question": "Who is Canada's head of state?",
+    "options": [
+      "The premier of Canada",
+      "A hereditary sovereign, queen or king",
+      "The governor general",
+      "The prime minister"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "Who chose Ottawa as the capital of Canada?",
+    "options": [
+      "Queen Elizabeth I",
+      "Queen Elizabeth II",
+      "Queen Victoria",
+      "Queen Anne"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "When was the current flag of Canada raised for the first time?",
+    "options": [
+      "1921",
+      "1965",
+      "1949",
+      "1892"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 111,
+    "question": "What are the prime minister and cabinet ministers together called?",
+    "options": [
+      "The government",
+      "The cabinet",
+      "The House of Commons",
+      "The Senate"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "In which province are more than half of Canada's aeronautics and space industry located?",
+    "options": [
+      "Saskatchewan",
+      "Ontario",
+      "Quebec",
+      "Manitoba"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 113,
+    "question": "Who is General Sir Arthur Currie?",
+    "options": [
+      "Canada's greatest soldier in the First World War",
+      "A great frontier hero",
+      "An explorer of Western Canada",
+      "A military leader of the M\u00e9tis in the 19th century"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 114,
+    "question": "Which province was split into two at Confederation?",
+    "options": [
+      "Lower Canada",
+      "Newfoundland",
+      "Upper Canada",
+      "The Province of Canada"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 115,
+    "question": "What are the territories of Northern Canada and their capital cities?",
+    "options": [
+      "Yukon (Whitehorse), Northwest Territories (Yellowknife), and Nunavut (Iqaluit)",
+      "Northwest Territories (Yellowknife) and Alaska (Juneau)",
+      "Northwest Territories (Yellowknife)",
+      "Alaska (Juneau) and Yukon (Whitehorse)"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 116,
+    "question": "What does the word Inuit mean?",
+    "options": [
+      "Eskimo in the Inuktitut language",
+      "Home in English",
+      "\"The people\" in the Inuktitut language",
+      "The Arctic land in the Inuktitut language"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 117,
+    "question": "Which party becomes the official opposition?",
+    "options": [
+      "The party the prime minister selects",
+      "The party with the least votes",
+      "The party with the second most votes",
+      "Any independent candidate"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "Who played an important part in building the Canadian Pacific Railway?",
+    "options": [
+      "Acadian railroad workers",
+      "Afro-American slaves",
+      "American railroad engineers",
+      "Chinese railroad workers"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 119,
+    "question": "Which provinces are connected to Ontario by land?",
+    "options": [
+      "New Brunswick and Quebec",
+      "Alberta and Quebec",
+      "Manitoba and Quebec",
+      "Manitoba and Alberta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 120,
+    "question": "Who do members of parliament represent?",
+    "options": [
+      "Everyone who lives in his or her electoral district",
+      "Everyone who lives in his or her neighborhood",
+      "Everyone who lives in his or her province",
+      "Everyone in northern Canada"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 121,
+    "question": "What is the role of the opposition parties?",
+    "options": [
+      "To ensure reports about the current government are sent to the king",
+      "To supervise the government",
+      "To oppose or try to improve government proposals",
+      "To regulate government proposals"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 122,
+    "question": "On what date did Nunavut become a territory?",
+    "options": [
+      "April 1st, 1999",
+      "May 1st, 1998",
+      "July 1st, 1867",
+      "July 31st, 1820"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 123,
+    "question": "Why is the British North America Act important in Canadian history?",
+    "options": [
+      "It was agreed to by the First Nations and Inuit",
+      "It was written by the British government",
+      "The Aboriginal people signed the act",
+      "It made confederation legal"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 124,
+    "question": "Which of the following statements accurately describes the Quebec flag known as the Fleur-de-lis?",
+    "options": [
+      "It features a white cross with four roses in its quadrants and was adopted in 1948",
+      "It features a white cross with four fleur-de-lis in its quadrants and was adopted in 1948",
+      "It features a blue cross with four thistles and shamrocks and was adopted in 1948",
+      "It features a white cross with four fleur-de-lis and was adopted in 1867"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "Who built the French empire in North America?",
+    "options": [
+      "King Charles II",
+      "Jean Talon, Bishop Laval, and Count Frontenac",
+      "Pierre Le Moyne and Sieur d'Iberville",
+      "Great Britain"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Which province is on the Pacific coast of Canada?",
+    "options": [
+      "Nova Scotia",
+      "Alberta",
+      "New Brunswick",
+      "British Columbia"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 127,
+    "question": "How many Great Lakes are located between Ontario and the United States?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "Which one is Canada's best known symbol and national police force?",
+    "options": [
+      "RCMP (Royal Canadian Mounted Police)",
+      "CIA",
+      "Canadian police",
+      "RCMP"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 129,
+    "question": "Which group of Aboriginal peoples has the largest population in the Northern Territories and Nunavut?",
+    "options": [
+      "Acadians",
+      "M\u00e9tis",
+      "First Nations",
+      "Inuit"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 130,
+    "question": "Where are the Parliament buildings located?",
+    "options": [
+      "Toronto",
+      "Kingston",
+      "London",
+      "Ottawa"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 131,
+    "question": "What forms a jury?",
+    "options": [
+      "Politicians",
+      "Immigrants",
+      "Judges",
+      "Citizens"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 132,
+    "question": "What is the significance of the Quebec Act of 1774?",
+    "options": [
+      "It allowed Quebec to gain independence",
+      "It allowed the French to move into Quebec",
+      "Canada's tolerance of religious tradition under the law",
+      "It gave the French more power"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 133,
+    "question": "Who has the right to be considered first for a job in the federal government?",
+    "options": [
+      "Canadian citizens",
+      "Anyone with the relevant experience",
+      "Anyone with the necessary qualifications",
+      "Foreigners"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 134,
+    "question": "Who are Anglophones?",
+    "options": [
+      "People who were taught English at school",
+      "People who understand but do not speak English",
+      "People who do not speak English as a first language",
+      "People who speak English as a first language"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 135,
+    "question": "Who were the voyageurs?",
+    "options": [
+      "Montreal-based traders who traveled by canoe",
+      "Immigrants to Canada in the 18th century",
+      "Explorers searching for the Northwest Passage",
+      "Geographers who first charted the coastline of British Columbia"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 136,
+    "question": "Which countries fought in the Battle of the Plains of Abraham?",
+    "options": [
+      "British and German",
+      "British and French",
+      "France and China",
+      "America and British"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 137,
+    "question": "When did the Canadian Charter of Rights and Freedoms become part of the Constitution?",
+    "options": [
+      "1892",
+      "1872",
+      "1982",
+      "1782"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 138,
+    "question": "Which group of Aboriginal peoples has the largest population in Canada?",
+    "options": [
+      "Acadians",
+      "First Nations",
+      "Indigenous peoples",
+      "M\u00e9tis"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "Why is the Constitution Act of 1982 important in Canadian history?",
+    "options": [
+      "Canada can modify the Constitution without the approval from the British government",
+      "The Queen or King has more power in Canadian government",
+      "It lets Canadians enjoy more freedom",
+      "It made changes to the Citizenship Act"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 140,
+    "question": "Which province has the most valuable forest industry in Canada?",
+    "options": [
+      "Ontario",
+      "Alberta",
+      "Quebec",
+      "British Columbia"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 141,
+    "question": "Which of the following best describes the sport of lacrosse?",
+    "options": [
+      "The official winter sport",
+      "The second most popular sport in Canada",
+      "The official summer sport",
+      "The most popular sport in Canada"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 142,
+    "question": "What do you call a law before it is passed?",
+    "options": [
+      "A proposed law",
+      "A bill",
+      "A new law",
+      "A proposal of a law"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 143,
+    "question": "Who among these is a Nobel Prize-winning scientist?",
+    "options": [
+      "Gerhard Herzberg",
+      "Marshall McLuhan",
+      "Alexander Graham Bell",
+      "Harold Innis"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 144,
+    "question": "Canadians have rights and fundamental freedoms such as:",
+    "options": [
+      "Thought and belief",
+      "Opinion and expression",
+      "Freedom of religion",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 145,
+    "question": "When did the British North America Act come into effect?",
+    "options": [
+      "1867",
+      "1881",
+      "1901",
+      "1876"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 146,
+    "question": "What is the highest honor available to Canadians?",
+    "options": [
+      "The Queen's Medal",
+      "Elizabeth Cross",
+      "Victoria Medal",
+      "Victoria Cross"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 147,
+    "question": "Which city provides important shipping and air links across the Pacific Ocean?",
+    "options": [
+      "Victoria",
+      "Calgary",
+      "Edmonton",
+      "Vancouver"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 148,
+    "question": "What is Terry Fox's contribution?",
+    "options": [
+      "He inspired people to contribute money for cancer research",
+      "He was the greatest hockey player in Canada",
+      "His discovery of insulin saves millions of people's lives",
+      "He was a brilliant soldier"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 149,
+    "question": "What are three minerals still mined in the territories today?",
+    "options": [
+      "Lead, gold, and zinc",
+      "Silver, lead, and zinc",
+      "Zinc, gold, and bronze",
+      "Zinc, lead, and aluminum"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 150,
+    "question": "What are the regions of Canada?",
+    "options": [
+      "West, North, South, East, and Central",
+      "West Coast, Central, East, Canadian Shield, and South",
+      "Atlantic, North, Central, Prairies, and West Coast",
+      "Rockies, Ontario, Quebec, and Prairies"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 151,
+    "question": "What is the head of the city called?",
+    "options": [
+      "Mayor",
+      "Counselor",
+      "Alderman",
+      "Premier"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 152,
+    "question": "In what sorts of jobs do most Canadians work?",
+    "options": [
+      "Service",
+      "Lumbering",
+      "Farming",
+      "Natural resources"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 153,
+    "question": "What is written on an election ballot?",
+    "options": [
+      "The names of the candidates in your election district",
+      "Who you should vote for",
+      "The date and time you are allowed to vote",
+      "Where you should vote"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 154,
+    "question": "Which province is the only officially bilingual province?",
+    "options": [
+      "Ontario",
+      "Quebec",
+      "Nova Scotia",
+      "New Brunswick"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 155,
+    "question": "Where do most French-speaking Canadians live?",
+    "options": [
+      "Nova Scotia",
+      "Quebec",
+      "Ontario",
+      "New Brunswick"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "Who started the women's suffrage movement in Canada?",
+    "options": [
+      "Agnes Macphail",
+      "Laura Secord",
+      "Dr. Emily Stowe",
+      "Madeleine Parent"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 157,
+    "question": "What will you promise when you take the oath of citizenship?",
+    "options": [
+      "Carry out responsibilities as a Canadian citizen",
+      "Pledge allegiance to the Queen or King",
+      "Promise to obey the Constitution of Canada",
+      "Pledge loyalty to the Queen or King, observe the laws, and fulfill the duties of a Canadian"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 158,
+    "question": "The Quebec Act of 1774:",
+    "options": [
+      "Allowed religious freedom for Catholics",
+      "Is one of the constitutional foundations of Canada",
+      "Permitted Catholics to hold public office",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 159,
+    "question": "What region is called the land of the midnight sun?",
+    "options": [
+      "Central Canada",
+      "The Northern Territories",
+      "The Prairies",
+      "The Maritimes"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 160,
+    "question": "What does it mean for a political party to be in power?",
+    "options": [
+      "To gain the approval of the queen or king",
+      "To have the most elected representatives",
+      "To generate electricity",
+      "To hold the nuclear button"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 161,
+    "question": "Which two provinces produce more than 3/4 of Canadian manufactured goods?",
+    "options": [
+      "Quebec and Manitoba",
+      "British Columbia and Ontario",
+      "Ontario and Quebec",
+      "Alberta and Ontario"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 162,
+    "question": "Give an example of how you can demonstrate responsibility by being involved in your community.",
+    "options": [
+      "Minding your own business",
+      "Throwing a party",
+      "Keeping your property well-maintained",
+      "Volunteering"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 163,
+    "question": "To which of the following communities do the majority of Canadians belong?",
+    "options": [
+      "Christian",
+      "Jewish",
+      "Muslim",
+      "Hindu"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 164,
+    "question": "Which Canadian province is the largest producer of oil and natural gas?",
+    "options": [
+      "Quebec",
+      "Nova Scotia",
+      "Ontario",
+      "Alberta"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 165,
+    "question": "Which is the northeastern province in Canada that has its own time zone?",
+    "options": [
+      "Alberta",
+      "Newfoundland and Labrador",
+      "Nova Scotia",
+      "Prince Edward Island"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 166,
+    "question": "What is the voting procedure in Canada?",
+    "options": [
+      "Whichever way you like",
+      "Online",
+      "Secret ballot",
+      "Open ballot"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 167,
+    "question": "Which is the Canadian province with the largest population?",
+    "options": [
+      "Ontario",
+      "Quebec",
+      "Nova Scotia",
+      "Alberta"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 168,
+    "question": "What do Canadians normally wear on Remembrance Day?",
+    "options": [
+      "A red poppy",
+      "A green shirt",
+      "A black tie",
+      "A white shirt"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 169,
+    "question": "What does CPR stand for?",
+    "options": [
+      "Canadian Pacific Railway",
+      "Canadian People Railway",
+      "Canadian Public Road",
+      "Canadian People Resource"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 170,
+    "question": "How long is the Lieutenant Governor appointed for?",
+    "options": [
+      "3 years",
+      "4 years",
+      "5 years",
+      "6 years"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 171,
+    "question": "What is the fundamental characteristic of Canadian heritage and identity?",
+    "options": [
+      "Multiculturalism",
+      "French culture",
+      "Canadian festivals",
+      "English culture"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 172,
+    "question": "When does Canada celebrate Thanksgiving?",
+    "options": [
+      "The second Monday of October",
+      "The first Friday of October",
+      "The 1st Monday of September",
+      "The first Monday of July"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 173,
+    "question": "What is the symbol of the Canadian government?",
+    "options": [
+      "The Parliament",
+      "The Crown",
+      "The National Flag",
+      "The Snowbirds"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 174,
+    "question": "In the 1960s, Quebec experienced an era of rapid change. What is it called?",
+    "options": [
+      "The East Movement",
+      "The Quiet Revolution",
+      "The Suffrage Movement",
+      "The Industrial Revolution"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 175,
+    "question": "Who invented the worldwide system of standard time zones?",
+    "options": [
+      "Joseph-Armand Bombardier",
+      "Reginald Fessenden",
+      "Sir Sandford Fleming",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 176,
+    "question": "The ancestors of the Aboriginals are believed to have migrated from which of the following continents?",
+    "options": [
+      "Asia",
+      "America",
+      "Europe",
+      "Australia"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 177,
+    "question": "The municipal government is responsible for which of the following?",
+    "options": [
+      "Natural resources",
+      "Currency",
+      "Garbage removal",
+      "Highways"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 178,
+    "question": "Who is a premier?",
+    "options": [
+      "The prime minister is also called the premier",
+      "A premier has a role similar to that of the prime minister in a federal government (but at a provincial level)",
+      "The commissioner",
+      "The governor general"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 179,
+    "question": "Which oceans line Canada's frontiers?",
+    "options": [
+      "The Pacific Ocean in the west",
+      "The Atlantic Ocean in the east",
+      "The Arctic Ocean to the north",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 180,
+    "question": "Who is the head of the government in Canada?",
+    "options": [
+      "The sovereign",
+      "The prime minister",
+      "The premier",
+      "The commissioner"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 181,
+    "question": "What do we need to bring with us for voting?",
+    "options": [
+      "Voter information card, voter's identity, and address proof",
+      "Credit card",
+      "Ballot paper",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 182,
+    "question": "Where have most immigrants come from since the 1970s?",
+    "options": [
+      "Asia",
+      "England",
+      "France",
+      "USA"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 183,
+    "question": "For what product did the first companies formed in Canada compete?",
+    "options": [
+      "Timber trade",
+      "Gold trade",
+      "Fur trade",
+      "Fish trade"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 184,
+    "question": "How many Canadians were killed in World War I from 1914 to 1918?",
+    "options": [
+      "60,000",
+      "170,000",
+      "200,000",
+      "70,000"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 185,
+    "question": "How many Canadians have been awarded the Victoria Cross?",
+    "options": [
+      "96",
+      "500",
+      "2",
+      "1,222"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 186,
+    "question": "Which country was liberated by the Canadian Army in 1944-1945?",
+    "options": [
+      "Germany",
+      "Austria",
+      "The Netherlands",
+      "Japan"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 187,
+    "question": "Who is known as the greatest living Canadian?",
+    "options": [
+      "Dr. Wilder Penfield",
+      "Terry Fox",
+      "Sir John Alexander Macdonald",
+      "Sir Sandford Fleming"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "Which province has the largest population of Aboriginals?",
+    "options": [
+      "Manitoba",
+      "Ontario",
+      "Nova Scotia",
+      "Alberta"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "How large is Canada?",
+    "options": [
+      "About 8 million km\u00b2",
+      "About 10 million km\u00b2",
+      "About 11 million km\u00b2",
+      "About 9 million km\u00b2"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 190,
+    "question": "Where is the most important harbor in Eastern Canada located?",
+    "options": [
+      "Vancouver",
+      "Yellowknife",
+      "Halifax",
+      "Quebec"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 191,
+    "question": "Who is considered Canada's greatest soldier?",
+    "options": [
+      "General Sir Arthur Currie",
+      "Phil Edwards",
+      "Sir John Alexander Macdonald",
+      "Rick Hansen"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 192,
+    "question": "What three oceans border Canada?",
+    "options": [
+      "Hudson, Pacific, and Atlantic",
+      "Atlantic, Arctic, and Bering",
+      "Pacific, Indian, and Atlantic",
+      "Atlantic, Arctic, and Pacific"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 193,
+    "question": "In which act are the responsibilities of the federal and provincial government defined?",
+    "options": [
+      "The Federal Act",
+      "The Government Act",
+      "The Responsibilities Act",
+      "The Constitution Act"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 194,
+    "question": "Which courts are for civil cases involving small sums of money?",
+    "options": [
+      "The Federal Court",
+      "The Small Claims Courts",
+      "A Trial Court",
+      "A Provincial Court"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "What is a voter information card?",
+    "options": [
+      "A list that tells you who the candidates are in your electoral district",
+      "A letter that lets you know the voting schedule",
+      "A form that tells you where and when to vote",
+      "A card to let you register for voting"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 196,
+    "question": "What is the head tax?",
+    "options": [
+      "Race-based entry fee charged for Chinese entering Canada",
+      "Fee charged for anyone entering Canada after 1900",
+      "A tax imposed on beer beginning in 1867",
+      "Fee charged for moving westward in the early 1900s"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "Which of the following are the responsibilities of the federal government?",
+    "options": [
+      "National Defense, Foreign Policy, International Trade, and Aboriginal Affairs",
+      "National Defense, Healthcare, International Trade, and Aboriginal Affairs",
+      "Highways, Policing, International Trade, and Criminal Justice",
+      "Education, Foreign Policy, Recycling Programs, and Aboriginal Affairs"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "In Canada's justice system, what does presumption of innocence mean?",
+    "options": [
+      "The prime minister can determine who is innocent in a court",
+      "Everybody is guilty until proven innocent",
+      "Everyone is innocent until proven guilty",
+      "The judge can determine who is guilty without evidence"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 199,
+    "question": "What does the register of electors contain?",
+    "options": [
+      "A list of all Canadian citizens who are qualified to vote in federal elections and referendums",
+      "A list of people who are willing to vote in elections and referendums",
+      "A list of people who voted for the opposition party in the previous election",
+      "A list of people who are not allowed to vote"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 200,
+    "question": "In the Canadian justice system, what are the roles of the courts and the police?",
+    "options": [
+      "The courts make laws and the police enforce them",
+      "The courts enforce federal laws and the police enforce provincial laws",
+      "The courts enforce laws and the police settle disputes",
+      "The courts settle disputes and the police enforce the laws"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 201,
+    "question": "What is the reason behind the Canada and US border?",
+    "options": [
+      "To improve security",
+      "To maintain distance",
+      "Canada wishes to remain independent of the United States",
+      "To prevent war between the two countries"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 202,
+    "question": "What is the other name for a trial court?",
+    "options": [
+      "The Court of Queen's Bench",
+      "The Federal Court",
+      "The Provincial Court",
+      "The Small Claims Court"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 203,
+    "question": "What is the minimum age for voting in federal, provincial, territorial, and municipal elections?",
+    "options": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 204,
+    "question": "What is the tenure of the Governor General?",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 205,
+    "question": "Postwar, Canada became a more flexible and open society. Which of the following was this based on?",
+    "options": [
+      "Equality of men and women",
+      "Inequality of women",
+      "Inequality of men and women",
+      "Equality of men"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 206,
+    "question": "Which three rights are included in the Canadian Charter of Rights and Freedoms?",
+    "options": [
+      "Freedom of expression rights, property rights, and fair trial rights",
+      "Mobility rights, Aboriginal people's rights, and official language rights",
+      "Aboriginal people's rights, voting rights, and official language rights",
+      "Employment rights, mobility rights, and freedom rights"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 207,
+    "question": "Which of the following are the three founding peoples of Canada?",
+    "options": [
+      "American, French, and British",
+      "Aboriginal, French, and British",
+      "French, American, and Indian",
+      "British, American, and Aboriginal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 208,
+    "question": "To what ocean is Newfoundland closest?",
+    "options": [
+      "Atlantic",
+      "Pacific",
+      "Labrador Sea",
+      "Arctic"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 209,
+    "question": "What UN operation did Canada participate in from 1950 to 1953?",
+    "options": [
+      "Canadian forces defended Hong Kong",
+      "The Canadian Corps captured Vimy Ridge",
+      "Canada participated in the UN operation defending South Korea in the Korean War",
+      "Canadians volunteered to fight in the South African war"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 210,
+    "question": "From whom are the Acadians descended?",
+    "options": [
+      "M\u00e9tis and Inuit",
+      "First Nations who began settling in what are now the Prairie Provinces in 1600s",
+      "British colonists who began settling in what are now the Maritime Provinces in 1604",
+      "French colonists who began settling in what are now the Maritime Provinces in 1604"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 211,
+    "question": "Who has the right to enter and leave Canada at will?",
+    "options": [
+      "Prisoners",
+      "Members of the Commonwealth",
+      "Canadian citizens",
+      "Job seekers"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 212,
+    "question": "What was the significance of June 6th, 1944 invasion of Normandy?",
+    "options": [
+      "Canadians made a significant contribution to the defeat of Nazism and fascism in Europe during the Second World War",
+      "It liberated North Africa from Nazi occupation",
+      "It results in the forcible relocation of Canadians of Japanese origin",
+      "It led to the establishment of the Juno Awards"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 213,
+    "question": "What does equality under the law mean?",
+    "options": [
+      "To be protected against any discrimination",
+      "To be discriminated against",
+      "To be like anyone else in Canada",
+      "To be the same as anywhere in the world"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 214,
+    "question": "What does mobility rights mean?",
+    "options": [
+      "Being able to use any mobile phone service in Canada",
+      "Being able to live and work anywhere in Canada",
+      "Being able to live and fish anywhere in Canada",
+      "Being able to play hockey anywhere in Canada"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 215,
+    "question": "What is the Okanagan Valley famous for?",
+    "options": [
+      "Coal mines",
+      "Lakes and fishing",
+      "Fruit orchards",
+      "Sunrise and sunset"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 216,
+    "question": "When did the name of Canada begin appearing on maps?",
+    "options": [
+      "By the 1750s",
+      "By the 1580s",
+      "By the 1550s",
+      "By the 1650s"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 217,
+    "question": "What is a minority government?",
+    "options": [
+      "The party in power holds less than half of the seats in the House of Commons",
+      "The party in power holds less than half of the seats in the House of Commons and the Senate",
+      "The party in power holds at least half of the seats in the House of Commons",
+      "The party in power holds at least half of the seats in the Senate"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 218,
+    "question": "Where are the Great Lakes?",
+    "options": [
+      "Atlantic Canada",
+      "Manitoba",
+      "Between Ontario and the United States",
+      "Northern Quebec"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 219,
+    "question": "What is the difference between the role of the sovereign and that of the prime minister?",
+    "options": [
+      "The sovereign links Canada to 52 other nations and the prime minister is the guardian of constitutional freedoms",
+      "The sovereign is the symbol of Canadian sovereignty and the prime minister is his aide",
+      "The sovereign is head of state. The prime minister oversees provincial policies",
+      "The sovereign is the guardian of constitutional freedoms. The prime minister selects the cabinet ministers and is responsible for operations and policy of government"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 220,
+    "question": "What is the meaning of the remembrance day poppy?",
+    "options": [
+      "To remember our sovereign Queen Elizabeth II",
+      "To remember the sacrifice of Canadians who have served or died in wars up to the present day",
+      "To honor prime ministers who have died",
+      "To celebrate Confederation"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 221,
+    "question": "You can vote in advance if:",
+    "options": [
+      "You are elderly",
+      "You know you will not be able to vote on election day",
+      "Sick and physically disabled",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 222,
+    "question": "Who signs the bills if it is approved by the provincial parliament?",
+    "options": [
+      "The Mayor",
+      "The Premier",
+      "The members of the provincial parliament",
+      "The Lieutenant Governor"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 223,
+    "question": "What does MPP stand for?",
+    "options": [
+      "Member of the provincial parachute",
+      "Member of the provincial police",
+      "Member of the Provincial Parliament",
+      "Member of the provincial publication"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 224,
+    "question": "How are senators chosen?",
+    "options": [
+      "By the premier of all provinces",
+      "By the governor general of Canada",
+      "Appointed by the governor general on the advice of the prime minister",
+      "Appointed by the king"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 225,
+    "question": "Who was the first prime minister of Canada?",
+    "options": [
+      "Sir John Alexander Macdonald",
+      "Alexander Mackenzie",
+      "Pierre Elliott Trudeau",
+      "Sir John Macdonald"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 226,
+    "question": "Which animal is an official symbol of Canada?",
+    "options": [
+      "The bear",
+      "The moose",
+      "The beaver",
+      "The snowbird"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 227,
+    "question": "What do you mark on a federal election ballot?",
+    "options": [
+      "A check mark",
+      "An X",
+      "A sticker",
+      "A thumbprint"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 228,
+    "question": "What does the blindfolded Lady Justice symbolize?",
+    "options": [
+      "Blind to all considerations other than facts",
+      "The government must respect all of the legal rights a person is entitled to under the law",
+      "Our judicial system is founded on the presumption of innocence in criminal matters",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 229,
+    "question": "When did thousands of miners first come to the Yukon?",
+    "options": [
+      "1870s",
+      "1980s",
+      "1780s",
+      "1890s"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 230,
+    "question": "When is Sir Wilfrid Laurier Day celebrated?",
+    "options": [
+      "12th of November",
+      "20th of November",
+      "22nd of November",
+      "2nd of November"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 231,
+    "question": "What is the significance of the Canadian discovery of insulin?",
+    "options": [
+      "It saved lives of children with sickness",
+      "It saved millions of lives of people with diabetes",
+      "It helped the treatment of heart diseases",
+      "It was an important medicine to save soldiers' lives during World War II"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 232,
+    "question": "Jurisdiction is shared by federal government and provinces over which of the following sectors?",
+    "options": [
+      "Agriculture and immigration",
+      "Interprovincial trade and communications",
+      "Defense and health",
+      "Natural resources"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 233,
+    "question": "What do you call the king's representative in the territories?",
+    "options": [
+      "Commissioner",
+      "Member of the Legislative Assembly",
+      "Sir",
+      "Lieutenant Governor"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 234,
+    "question": "What are the provinces of the Atlantic region?",
+    "options": [
+      "Newfoundland, Nova Scotia, New Brunswick, and Quebec",
+      "Nova Scotia, New Brunswick, Prince Edward Island, and Quebec",
+      "Nova Scotia, Newfoundland, New Brunswick, and Prince Edward Island",
+      "New Brunswick, Nova Scotia, Ontario, and Quebec"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 235,
+    "question": "Why is the Battle of Vimy Ridge important in Canadian history?",
+    "options": [
+      "It was the last battle of the First World War",
+      "It has come to symbolize Canada's becoming as a nation",
+      "It was an important victory in the Boer War",
+      "Out of it was formed the Canadian Corps"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 236,
+    "question": "From where does the name Canada come?",
+    "options": [
+      "From the Inuit word Canada meaning nations",
+      "From Kanata, the First Nations word for village",
+      "From the Inuit word meaning home",
+      "From the First Nations word meaning land"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 237,
+    "question": "What are the three main types of industry in Canada?",
+    "options": [
+      "Natural resources, manufacturing, and services",
+      "Mining services and manufacturing",
+      "Oil, tourism, and manufacturing",
+      "Fishery, tourism, and services"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 238,
+    "question": "Which country lies on Canada's southern border?",
+    "options": [
+      "Central America",
+      "Mexico",
+      "Michigan",
+      "United States of America"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 239,
+    "question": "What are the prairie provinces?",
+    "options": [
+      "Saskatchewan and Manitoba",
+      "Alberta, Manitoba, and British Columbia",
+      "Saskatchewan, Alberta, and Manitoba",
+      "Saskatchewan and Alberta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 240,
+    "question": "Where do English and French have equal status in Canada?",
+    "options": [
+      "In the workplace",
+      "In schools",
+      "In the Parliament of Canada",
+      "At the city hall"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 241,
+    "question": "What is a majority government?",
+    "options": [
+      "The party in power holds at least half of the seats in the House of Commons and the Senate",
+      "The party in power holds at least half of the seats in the House of Commons",
+      "The party in power holds less than half of the seats in the House of Commons",
+      "The party in power holds at least half of the seats in the Senate"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 242,
+    "question": "Which countries fought in the War of 1812?",
+    "options": [
+      "United Kingdom and United States of America",
+      "France and United Kingdom",
+      "Canada and United States of America",
+      "France, Great Britain, and United States of America"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 243,
+    "question": "Name three requirements you must meet in order to vote in a federal election.",
+    "options": [
+      "Canadian citizen at least 21 years old and on the list of electors",
+      "Canadian citizen at least 18 years old and on the voters' list",
+      "Working for the government at least 18 years old and Canadian citizen",
+      "Canadian citizen at least 16 years old and on the list of voters"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 244,
+    "question": "Which two provinces are on the Atlantic coast of Canada?",
+    "options": [
+      "British Columbia and Yukon",
+      "Nova Scotia and New Brunswick",
+      "Newfoundland and British Columbia",
+      "Prince Edward Island and Ontario"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 245,
+    "question": "How many provinces and territories are there in Canada?",
+    "options": [
+      "Eight provinces and three territories",
+      "10 provinces and two territories",
+      "Nine provinces and two territories",
+      "10 provinces and three territories"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 246,
+    "question": "Which of the following statements about residential schools is not true?",
+    "options": [
+      "The federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture",
+      "The schools were poorly funded and inflicted hardship on the students",
+      "The schools were welcomed by the Aboriginal people",
+      "Aboriginal language and cultural practices were mostly prohibited"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 247,
+    "question": "Who have major responsibilities on First Nations reserves?",
+    "options": [
+      "Band chiefs and councilors",
+      "Municipal governments",
+      "Provincial and territorial governments",
+      "Federal government"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 248,
+    "question": "What important trade did the Hudson's Bay Company control?",
+    "options": [
+      "Gold",
+      "Oil",
+      "Fishery",
+      "Fur"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 249,
+    "question": "Who are exempted from the requirement of adequate knowledge of English or French in order to become a Canadian citizen?",
+    "options": [
+      "Anyone who doesn't live in a major city",
+      "Any adult applicants who are 55 years of age and under",
+      "Any adult applicants who are 55 years of age and over",
+      "No one"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 250,
+    "question": "Who played a key role in defending Canada during the war of 1812 and led a group of Shawnee warriors in support of British soldiers and Canadian volunteers?",
+    "options": [
+      "Major General Sir Isaac Brock",
+      "Lieutenant Colonel Charles de Salaberry",
+      "Chief Tecumseh",
+      "Major General Robert Ross"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 251,
+    "question": "Which of the following are the responsibilities of local government?",
+    "options": [
+      "Education, foreign policy and transportation",
+      "Health care, natural resources, and transportation",
+      "National defense, health care, and transportation",
+      "Social and community health, snow removal, and transportation"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 252,
+    "question": "What does the Canadian flag look like?",
+    "options": [
+      "Red with a white maple leaf",
+      "Red and white with a bear",
+      "White with a red border on each end and a red maple leaf in the center",
+      "Red and white with provincial emblems"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 253,
+    "question": "What does confederation mean?",
+    "options": [
+      "The joining of provinces to become a new country",
+      "The United States Confederate Army came to settle in Canada",
+      "The combination of neighborhoods to build a larger community",
+      "The merger of colonies to form a province"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 254,
+    "question": "In what year were the Aboriginal peoples granted the right to vote?",
+    "options": [
+      "1960",
+      "1790",
+      "1950",
+      "1632"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 255,
+    "question": "In which period did Canada's economy and industry experience a boom?",
+    "options": [
+      "1880s",
+      "1890s and early 1900s",
+      "1920s",
+      "1860s"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 256,
+    "question": "What are the three parts of Parliament?",
+    "options": [
+      "The Queen or King, Governor General and Prime Minister",
+      "The Governor General, the Legislative Assembly, and the Senate",
+      "The Queen or King, the House of Commons, and the Senate",
+      "The House of Commons, the Legislative Assembly, and the Senate"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 257,
+    "question": "Which two are Great Lakes?",
+    "options": [
+      "St. Lawrence and Superior",
+      "Ontario and Okanagan",
+      "Michigan and Okanagan",
+      "Huron and Erie"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 258,
+    "question": "What is known as the effort by women to achieve the right to vote?",
+    "options": [
+      "The suffrage motion of women",
+      "The women's voting law",
+      "The election law",
+      "The women's suffrage movement"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 259,
+    "question": "What do political parties do?",
+    "options": [
+      "Follow commands from the king",
+      "Share ideas about how government should work",
+      "Plan for the celebration of Canada Day",
+      "Work with the local governments"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 260,
+    "question": "Who were the United Empire Loyalists?",
+    "options": [
+      "Inuit and First Nations",
+      "French and British settlers",
+      "First Nations and British settlers",
+      "Settlers from the United States during the American Revolution"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 261,
+    "question": "What does the right to a secret ballot mean?",
+    "options": [
+      "No one can watch you vote except the election officer",
+      "The voter should not tell anyone for whom he or she voted",
+      "Only the candidate you vote for can watch your marked ballot",
+      "No one can watch you vote or look at your marked ballot"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 262,
+    "question": "Which province is Canada's largest producer of hydroelectricity?",
+    "options": [
+      "British Columbia",
+      "Manitoba",
+      "Ontario",
+      "Quebec"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 263,
+    "question": "Which territory shares a border with another country?",
+    "options": [
+      "British Columbia",
+      "Alberta",
+      "Northwest Territories",
+      "Yukon Territory"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 264,
+    "question": "Which four provinces first formed Confederation?",
+    "options": [
+      "Ontario, Quebec, Nova Scotia, and New Brunswick",
+      "Ontario, Newfoundland, Quebec, and Nova Scotia",
+      "Ontario, Nova Scotia, New Brunswick, and British Columbia",
+      "Ontario, Quebec, Manitoba, and Nova Scotia"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 265,
+    "question": "When was the Canadian Pacific Railway finished?",
+    "options": [
+      "Late 1600s",
+      "Late 1700s",
+      "Late 1800s",
+      "Early 1700s"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 266,
+    "question": "Who has the right to run as a candidate in federal elections?",
+    "options": [
+      "Any person who is at least 18 years or older",
+      "Any Canadian citizen who is at least 18 years old",
+      "Canadian citizens and landed immigrants",
+      "A Canadian citizen who is 16 years or older"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 267,
+    "question": "Under what conditions can you challenge the function or conduct of a police officer in Canada?",
+    "options": [
+      "Never. Canadians cannot challenge them",
+      "Only their function, not their conduct",
+      "Only their conduct, not their function",
+      "If you consider this measure necessary (Note: The actual phrase is \"if you feel you have been treated unfairly\", answer D is closest in this context or implies the right exists)"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 268,
+    "question": "How does a bill become a law?",
+    "options": [
+      "Must be approved by the governors of each province",
+      "Must be approved by a majority in the House of Commons and Senate and received royal assent",
+      "Must be signed by the Queen or King",
+      "Must be approved by the members of the Parliament"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 269,
+    "question": "Who are the Quebecers?",
+    "options": [
+      "European settlers in the 1600s",
+      "Descendants of the French colonists",
+      "Descendants of the Anglophones",
+      "People of Quebec"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 270,
+    "question": "Fatima is a new immigrant to Canada. Why can she choose to take a job like any man?",
+    "options": [
+      "Because of the equality between French and English",
+      "Because she came from United Kingdom",
+      "Because of the equality of women and men in Canada",
+      "Because she has a university degree"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 271,
+    "question": "Why is British Columbia known as Canada's Pacific gateway?",
+    "options": [
+      "Because billions of dollars in goods are shipped to and from Asia",
+      "Because it has Pacific Ocean on its coastline",
+      "Because many people of Asian origin live there",
+      "Because it attracts many tourists all year round"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 272,
+    "question": "When was the Magna Carta signed?",
+    "options": [
+      "1649",
+      "1215",
+      "1425",
+      "1615"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 273,
+    "question": "What does the Great Charter of Freedom include?",
+    "options": [
+      "Aboriginal people's rights",
+      "Employment rights",
+      "Freedom of conscience and religion",
+      "Freedom from taxes"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 274,
+    "question": "What is Habeas Corpus?",
+    "options": [
+      "The right to live and work anywhere in Canada",
+      "The right for peaceful assembly",
+      "The right to speak freely",
+      "The right to challenge unlawful detention by the state"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 275,
+    "question": "Who invented the snowmobile?",
+    "options": [
+      "Alexander Graham Bell",
+      "Joseph-Armand Bombardier",
+      "Sir Sandford Fleming",
+      "Matthew Evans and Henry Woodward"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 276,
+    "question": "Who out of the following is above the law in Canada?",
+    "options": [
+      "Judges",
+      "Police",
+      "Politicians",
+      "No one"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 277,
+    "question": "What are the three branches of the Canadian government?",
+    "options": [
+      "Executive, Senate and Judicial",
+      "Executive, Legislative, and Monarchy",
+      "Executive, Police, and Judicial",
+      "Executive, Legislative, and Judicial"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 278,
+    "question": "Under Canadian law, why is every person presumed to be innocent until proven guilty?",
+    "options": [
+      "No person or group is above the law",
+      "Men and women are equal under the law",
+      "Freedom of thought, belief, opinion, and expression",
+      "To guarantee the due legal process under the law"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 279,
+    "question": "Who governs Canada on a daily basis at the federal level?",
+    "options": [
+      "The Premier",
+      "The Governor General",
+      "The King",
+      "The Prime Minister"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 280,
+    "question": "What does the Canadian crown symbolize?",
+    "options": [
+      "A Mari Usque Ad Mare",
+      "Symbols of England, France, Scotland, and Ireland",
+      "RCMP",
+      "Canada is a constitutional monarchy"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 281,
+    "question": "Who is awarded the honor of Victoria Cross?",
+    "options": [
+      "Canadian politicians",
+      "Police officers",
+      "Best innovation of the year",
+      "A Canadian showing conspicuous bravery or self-sacrifice"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 282,
+    "question": "Federal elections are carried out to elect:",
+    "options": [
+      "The Premier",
+      "The Prime Minister",
+      "The Member of Parliament",
+      "The Senator"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 283,
+    "question": "What is a part of our heritage under the Canadian legal system?",
+    "options": [
+      "Freedom under law",
+      "Democratic principles and due process",
+      "Rule of law",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 284,
+    "question": "What is Canada's largest city and main financial center?",
+    "options": [
+      "Vancouver",
+      "Toronto",
+      "Montreal",
+      "Calgary"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 285,
+    "question": "Which of the following describe two responsibilities of provincial or territorial government?",
+    "options": [
+      "Policing and citizenship",
+      "Policing and firefighting",
+      "National defense and highways",
+      "Education and healthcare"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 286,
+    "question": "Where do Inuit people live?",
+    "options": [
+      "Ontario",
+      "Reserve land",
+      "In scattered communities across the Arctic",
+      "Prairie provinces"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 287,
+    "question": "Who contributed to the invention of the radio and also sent the world's first wireless voice message?",
+    "options": [
+      "Reginald Fessenden",
+      "Alexander Graham Bell",
+      "Mike Lazaridis",
+      "Matthew Evans"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 288,
+    "question": "Which region was stormed and captured on D-Day, June 6th, 1944 by the Canadian troops?",
+    "options": [
+      "Berlin",
+      "Juno Beach",
+      "London",
+      "Paris"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 289,
+    "question": "Who invented the sport of basketball?",
+    "options": [
+      "Canadians",
+      "French",
+      "Germans",
+      "Americans"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 290,
+    "question": "What are the men who established Canada called?",
+    "options": [
+      "Fathers of Confederation",
+      "Fathers of Dominion of Canada",
+      "Fathers of Canada",
+      "Fathers of Constitution"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 291,
+    "question": "Which of the following describe two responsibilities of federal government?",
+    "options": [
+      "National Defense and Foreign Policy",
+      "National Defense and Firefighting",
+      "Citizenship and maintaining highways",
+      "Healthcare and education"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 292,
+    "question": "In which year was the British Parliament prohibited from buying and selling slaves?",
+    "options": [
+      "1793",
+      "1877",
+      "1807",
+      "1833"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 293,
+    "question": "Who became the first French Canadian prime minister since the formation of Confederation?",
+    "options": [
+      "Sir John Alexander Macdonald",
+      "Sir Wilfrid Laurier",
+      "Sir George-\u00c9tienne Cartier",
+      "Sir Leonard Tilley"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 294,
+    "question": "Which of the following is the highest court of Canada?",
+    "options": [
+      "A provincial court",
+      "The small claims courts",
+      "The Supreme Court",
+      "The federal court"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 295,
+    "question": "Who represents an electoral district?",
+    "options": [
+      "The commissioner",
+      "The governor general",
+      "The lieutenant governor",
+      "A member of parliament"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 296,
+    "question": "Which of the following was invented by Alexander Graham Bell?",
+    "options": [
+      "Blackberry",
+      "Fax machine",
+      "Telephone",
+      "Internet"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 297,
+    "question": "Which sport has the greatest number of registered players in Canada?",
+    "options": [
+      "Lacrosse",
+      "Soccer",
+      "Curling",
+      "Basketball"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 298,
+    "question": "What is celebrated on April 9th?",
+    "options": [
+      "Vimy Day",
+      "Family day",
+      "Thanksgiving Day",
+      "Boxing Day"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 299,
+    "question": "When was employment insurance introduced by the Canadian federal government?",
+    "options": [
+      "1947",
+      "1950",
+      "1940",
+      "1965"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 300,
+    "question": "What information can be found on a voter information card?",
+    "options": [
+      "Confirms that your name is on the voter's list",
+      "States when you vote",
+      "States where you vote",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 301,
+    "question": "Which one of these is the Canadian icon?",
+    "options": [
+      "The national flag",
+      "The crown",
+      "The snowbirds",
+      "The arms"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 302,
+    "question": "What is due process?",
+    "options": [
+      "The government must respect all of the legal rights a person is entitled to under the law",
+      "The rule of law and freedom under the law",
+      "The impartial manner in which the laws are administered",
+      "None of these"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 303,
+    "question": "Who among the following can help you with legal problems?",
+    "options": [
+      "Politicians",
+      "Lawyers",
+      "Members of Parliament",
+      "The police"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 304,
+    "question": "To whom do we profess our loyalty in Canada?",
+    "options": [
+      "The Canadian flag",
+      "A person who represents all Canadians (The Sovereign)",
+      "Geopolitical entities",
+      "The Canadian Constitution"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 305,
+    "question": "What is the last line of our national anthem?",
+    "options": [
+      "God keep our land glorious and free",
+      "The true north strong and free",
+      "O Canada, our home and native land",
+      "O Canada, we stand on guard for thee"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 306,
+    "question": "The arms that can be seen on dollar bills contain symbols of:",
+    "options": [
+      "Scotland and Ireland",
+      "England and France",
+      "Red maple leaves",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 307,
+    "question": "What are the members of the House of Commons also known as?",
+    "options": [
+      "Commissioners",
+      "Members of Parliament or MPs",
+      "Members of the provincial parliament",
+      "None of these"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 308,
+    "question": "Who were the United Empire loyalists?",
+    "options": [
+      "People loyal to the crown",
+      "The commanders of armies",
+      "British colonies",
+      "Aboriginal peoples"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 309,
+    "question": "Which of the following governments provides publicly funded education?",
+    "options": [
+      "City government",
+      "Federal government",
+      "Provincial and territorial governments",
+      "None of these"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 310,
+    "question": "When was Canada's first financial institution opened?",
+    "options": [
+      "Early 16th century",
+      "Late 19th century",
+      "Late 18th and early 19th centuries",
+      "Early 18th century"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 311,
+    "question": "The first leader of a responsible government in Canada in 1849 was:",
+    "options": [
+      "Louis Riel",
+      "Sir John Alexander Macdonald",
+      "Sir Louis-Hippolyte La Fontaine",
+      "Alec Baldwin"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 312,
+    "question": "Who are Francophones?",
+    "options": [
+      "People speaking French as a first language",
+      "People who come from France",
+      "People who are learning French",
+      "People speaking French as a secondary language"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 313,
+    "question": "Who recommended that upper and lower Canada be merged and given a responsible government?",
+    "options": [
+      "Sir Guy Carleton",
+      "Lord Durham",
+      "Sir Louis-Hippolyte La Fontaine",
+      "Sir George-\u00c9tienne Cartier"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 314,
+    "question": "How many Canadians served in World War II?",
+    "options": [
+      "More than 1 million",
+      "Less than 500,000",
+      "About 900,000",
+      "About 500,000"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 315,
+    "question": "What language do more than 3/4 of the people who live in Quebec speak?",
+    "options": [
+      "French is their second language",
+      "French as their first language",
+      "German as their first language",
+      "English as their first language"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 316,
+    "question": "What is the National Police Force of Canada?",
+    "options": [
+      "The Royal Canadian Mounted Police (RCMP)",
+      "The Southeast Mounted Police",
+      "The Military Police",
+      "The Northwest Mounted Police"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 317,
+    "question": "The name Canada became the official name of the country in the year:",
+    "options": [
+      "1799",
+      "1773",
+      "1791",
+      "1867"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 318,
+    "question": "How many levels of government are there in Canada?",
+    "options": [
+      "10",
+      "5",
+      "13",
+      "3"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 319,
+    "question": "When were female Canadian citizens over the age of 21 granted the right to vote in federal elections?",
+    "options": [
+      "1933",
+      "1928",
+      "1818",
+      "1918"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 320,
+    "question": "For how long was the title Dominion of Canada officially used?",
+    "options": [
+      "100 years",
+      "250 years",
+      "50 years",
+      "200 years"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 321,
+    "question": "How many judges serve in the Supreme Court of Canada?",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "5"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 322,
+    "question": "Who was Sir Sam Steele?",
+    "options": [
+      "A great frontier hero, mounted policeman and soldier of the queen",
+      "A military leader of the Metis in the 19th century",
+      "The first prime minister of Canada",
+      "The father of Manitoba"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 323,
+    "question": "The largest religious affiliation in Canada is:",
+    "options": [
+      "Roman Catholic",
+      "Hindu",
+      "Muslim",
+      "Jewish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 324,
+    "question": "Who suggested the name Dominion of Canada in 1864?",
+    "options": [
+      "Sir Leonard Tilley",
+      "Lord Elgin",
+      "La Fontaine",
+      "Sir John Alexander Macdonald"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 325,
+    "question": "What was significant about the Canadian Navy at the end of the Second World War?",
+    "options": [
+      "It was the third largest navy in the world",
+      "It was the fourth largest navy in the world",
+      "It was the largest navy in the world",
+      "It was the second largest navy in the world"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 326,
+    "question": "Which is the most famous invention of Research In Motion (RIM), a wireless communications company?",
+    "options": [
+      "The Canadarm",
+      "The first wireless voice message",
+      "The BlackBerry",
+      "The iPhone"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 327,
+    "question": "What are the Metis people a mixture of?",
+    "options": [
+      "Aboriginal and European ancestry",
+      "European and American ancestry",
+      "American and Indian ancestry",
+      "Inuit and Indian ancestry"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 328,
+    "question": "In 1996 at the Olympic Games, which Canadian became a world record sprinter and double Olympic gold medalist?",
+    "options": [
+      "Wayne Gretzky",
+      "La Fontaine",
+      "Donovan Bailey",
+      "John Cabot"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 329,
+    "question": "Which was the first province in the empire to move towards the abolition of slavery?",
+    "options": [
+      "South Canada",
+      "Upper Canada",
+      "North America",
+      "Lower Canada"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 330,
+    "question": "Which of the following lists contains four rights that Canadians have?",
+    "options": [
+      "The right to go to school, to work, to have a bank account, and to travel",
+      "The right to be educated in either official language, to vote, to apply for a Canadian passport, and to enter and leave Canada freely",
+      "The right to travel, to live anywhere, to work anywhere, and to get married",
+      "The right to have a job, to vote, to drive, and to go to school"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 331,
+    "question": "Which province is connected to mainland Canada by one of the longest continuous multi-span bridges in the world?",
+    "options": [
+      "Prince Edward Island",
+      "Newfoundland and Labrador",
+      "Alberta",
+      "Ontario"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 332,
+    "question": "Who invented the cardiac pacemaker?",
+    "options": [
+      "Gabriel Dumont",
+      "Matthew Evans and Henry Woodward",
+      "Dr. John A. Hopps",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 333,
+    "question": "What is significant about the number of people living in Ontario?",
+    "options": [
+      "They make up two-thirds of all Canadians",
+      "They make up three-quarters of all Canadians",
+      "They make up one-third of all Canadians",
+      "They make up half of all Canadians"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 334,
+    "question": "When asked, who must you tell who you voted for in a federal election?",
+    "options": [
+      "A police officer",
+      "Your employer",
+      "An elections Canada official",
+      "No one"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 335,
+    "question": "Which province has a long history of coal mining, forestry, and agriculture?",
+    "options": [
+      "Nova Scotia",
+      "New Brunswick",
+      "Prince Edward Island",
+      "Ontario"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 336,
+    "question": "Who were the first Aboriginal people living in Canada?",
+    "options": [
+      "American and British",
+      "Spanish",
+      "French and Chinese",
+      "First Nations and Inuits"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 337,
+    "question": "If you are unable to vote on election day, how do you vote?",
+    "options": [
+      "Vote at advance polls",
+      "Forget it",
+      "Vote the next day after the election",
+      "Vote a week later"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 338,
+    "question": "What is the first line of the Canadian national anthem?",
+    "options": [
+      "O Canada, our home and native land",
+      "O Canada, land of our ancestors",
+      "O Canada, we stand on guard for thee",
+      "O Canada, glorious and free"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 339,
+    "question": "What song is Canada's national anthem?",
+    "options": [
+      "God Save the Queen or King",
+      "O Canada",
+      "Oh Canada",
+      "Great Canada"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 340,
+    "question": "Which of the following people is the father of confederation?",
+    "options": [
+      "Stephen Harper",
+      "Pierre Trudeau",
+      "Alexander Mackenzie",
+      "Sir John Alexander Macdonald"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 341,
+    "question": "What is the meaning of the phrase \"the world's longest undefended border\"?",
+    "options": [
+      "Canada exports billions of dollars worth of energy products to the USA",
+      "Canada enjoys close relations with the United States",
+      "Over three-quarters of Canadian exports are destined for the USA",
+      "Millions of Canadians and Americans cross the border every year in safety"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 342,
+    "question": "When was the first representative assembly in Canada elected?",
+    "options": [
+      "1791",
+      "1758",
+      "1889",
+      "1609"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 343,
+    "question": "Which of the following are the provinces responsible for?",
+    "options": [
+      "Defense",
+      "Foreign policy",
+      "Currency",
+      "Education"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 344,
+    "question": "How is Canada ranked in terms of geographical size in the world?",
+    "options": [
+      "It is the largest country on Earth",
+      "It is the second largest country on Earth",
+      "It is the third largest country on Earth",
+      "It is the seventh largest country on Earth"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 345,
+    "question": "When is Labor Day celebrated in Canada?",
+    "options": [
+      "The 1st of July",
+      "The 1st Monday of September",
+      "The 1st of May",
+      "The 3rd Monday of October"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 346,
+    "question": "What did the government do to make immigration to Western Canada easier?",
+    "options": [
+      "Use the Great Lakes and Seaway to prairies",
+      "Built a railway across the prairies",
+      "Built a highway across the prairies",
+      "A and C"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 347,
+    "question": "What are the three main groups of Aboriginal peoples?",
+    "options": [
+      "M\u00e9tis, Inuit, and United Empire Loyalists",
+      "Acadians, M\u00e9tis and First Nations",
+      "Early French settlers, M\u00e9tis and Indian",
+      "M\u00e9tis, First Nations and Inuit"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 348,
+    "question": "Which trade spread across Canada making it important to the economy for over 300 years?",
+    "options": [
+      "Beaver fur trade",
+      "Fisheries",
+      "Lumber",
+      "Gold"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 349,
+    "question": "What does the Governor General perform?",
+    "options": [
+      "After an election, he or she invites the party with the most votes to form the new government",
+      "Signs bills to make them law",
+      "All of the above",
+      "None of the above"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 350,
+    "question": "When was the official languages act passed?",
+    "options": [
+      "1969",
+      "1867",
+      "1982",
+      "2000"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 351,
+    "question": "What does BNA stand for?",
+    "options": [
+      "British National Alliance",
+      "British North America Act",
+      "Black Nation Alliance",
+      "Bank of National Association"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 352,
+    "question": "How many levels of government are there in Canada?",
+    "options": [
+      "10",
+      "5",
+      "13",
+      "3"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 353,
+    "question": "How are laws passed?",
+    "options": [
+      "Signed by the Governor General",
+      "Read by the House of Commons three times",
+      "Read by the Senate three times",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 354,
+    "question": "What does official language rights and minority language educational rights mean?",
+    "options": [
+      "English is more important than French in Canada",
+      "French is more important in Quebec and English is more important in other provinces",
+      "All languages have equal status in Canada's government",
+      "French and English have equal status in Parliament and throughout the government"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 355,
+    "question": "From whom is Canada's tallest mountain named?",
+    "options": [
+      "William Logan",
+      "Louis Riel",
+      "Terry Fox",
+      "Wayne Gretzky"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 356,
+    "question": "Who signs the bills to make them law?",
+    "options": [
+      "The police chief",
+      "The Governor General",
+      "The premier",
+      "The prime minister"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 357,
+    "question": "What is a noble way to contribute to Canada and an excellent career choice?",
+    "options": [
+      "Serve in the regular Canadian forces",
+      "Serve on a jury",
+      "Belong to a union",
+      "Learn both official languages"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 358,
+    "question": "Which province is Canada's leading wheat producer?",
+    "options": [
+      "Manitoba",
+      "New Brunswick",
+      "Alberta",
+      "Saskatchewan"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 359,
+    "question": "What does a member of parliament do?",
+    "options": [
+      "He or she links Canadians to the federal government",
+      "He or she represents the king",
+      "He or she works for the governor general",
+      "He or she liaises with the municipal government"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 360,
+    "question": "Which of the following are Canada's famous writers?",
+    "options": [
+      "Sir Ernest MacMillan and Healey Willan",
+      "Paul Henderson and Mark Tewksbury",
+      "Joy Kogawa, Michael Ondaatje and Rohinton Mistry",
+      "Emily Carr and Louis-Philippe H\u00e9bert"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 361,
+    "question": "Sir Louis-Hippolyte La Fontaine was known for:",
+    "options": [
+      "A champion of democracy and Aboriginal rights",
+      "A champion of democracy and French language rights and the first leader of a responsible government in Canada",
+      "The first head of state",
+      "The first French-speaking prime minister"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 362,
+    "question": "What document made Confederation legal?",
+    "options": [
+      "The Immigration Act",
+      "The British North America Act",
+      "The Citizenship Act",
+      "The Charter of Rights and Freedoms"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 363,
+    "question": "Which port is the largest and busiest in Canada?",
+    "options": [
+      "The Port of Halifax",
+      "The Port of Montreal",
+      "The Port of Vancouver",
+      "The Port of Victoria"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 364,
+    "question": "What did the Canadian Pacific Railway symbolize?",
+    "options": [
+      "Easy access to the west coast",
+      "What can be achieved by working together",
+      "Unity",
+      "Ribbons of steel"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 365,
+    "question": "What part of the Constitution legally protects basic rights and freedom of Canadians?",
+    "options": [
+      "The Canada Charter of Responsibilities",
+      "The Charter of Rights and Freedoms",
+      "The Canadian Charter of Rights and Freedoms",
+      "The Canadian Charter of Rights and Free Will"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 366,
+    "question": "Who started the Marathon of Hope?",
+    "options": [
+      "Rick Hansen",
+      "James Naismith",
+      "Sir Steele",
+      "Terry Fox"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 367,
+    "question": "What are some of the rights and privileges of a Canadian citizen?",
+    "options": [
+      "The right to be a candidate",
+      "The right to vote in federal, provincial, and territorial elections",
+      "The right to enter, remain in, or leave Canada",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 368,
+    "question": "How many votes can a voter have in a federal election?",
+    "options": [
+      "It does not matter",
+      "3",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 369,
+    "question": "How much of Canadian exports are destined for the USA?",
+    "options": [
+      "Over 1/3",
+      "Over 3/4",
+      "2/3",
+      "Half"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 370,
+    "question": "Where do you go to vote?",
+    "options": [
+      "Polling station",
+      "City Hall",
+      "Police station",
+      "Fire station"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 371,
+    "question": "As what have poets and songwriters hailed Canada?",
+    "options": [
+      "Peace, order, and good government",
+      "The great outdoors",
+      "The Great Dominion",
+      "The land of the brave"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 372,
+    "question": "Where did the early European settlers live?",
+    "options": [
+      "Western Canada",
+      "Northwest Canada",
+      "Northern Canada",
+      "Eastern and Central Canada"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 373,
+    "question": "Canadians work hard to respect?",
+    "options": [
+      "Marxism",
+      "Pluralism",
+      "Capitalism",
+      "Individualism"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 374,
+    "question": "Which of the following was a key phrase in the British North America Act, Canada's original constitutional document in 1867?",
+    "options": [
+      "Geopolitical entity",
+      "Trade and communications",
+      "Peace, order, and good government",
+      "Discipline, education, and good public"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 375,
+    "question": "Today, diversity enriches the lives of Canadians. Where is diversity reflected the most?",
+    "options": [
+      "Countryside areas",
+      "Cities",
+      "Towns",
+      "Mountains"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 376,
+    "question": "What does the MLA stand for?",
+    "options": [
+      "Member of Legal Aid",
+      "Member of the Legislative Assembly",
+      "Member of Land Association",
+      "Member of Land Aid"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 377,
+    "question": "Who do provincial members of the legislative or national assemblies represent?",
+    "options": [
+      "Federal and provincial governments",
+      "Everyone who lives in the federal electoral district",
+      "Everyone who lives in the provincial or territorial electoral district",
+      "Everyone who lives in the municipal electoral district"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 378,
+    "question": "What is a ballot?",
+    "options": [
+      "A form that tells you when and where to vote",
+      "A dance",
+      "A form for voting",
+      "A form to count the number of votes"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 379,
+    "question": "Who elects the members to the House of Commons in Ottawa and to the provincial and territorial legislatures?",
+    "options": [
+      "The government employees",
+      "The government",
+      "The prime minister",
+      "The people"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 380,
+    "question": "Name two important documents that describe our rights and freedoms.",
+    "options": [
+      "The Canadian Constitution and English Common Law",
+      "The Civil Code of France and the Canadian Constitution",
+      "The Canadian Charter of Rights and Freedoms and Magna Carta",
+      "Laws passed by Parliament and English Common Law"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 381,
+    "question": "What is the final step before a bill becomes law?",
+    "options": [
+      "Approved by the king",
+      "Approved by the prime minister",
+      "Approved by the Governor General (Royal Assent)",
+      "Approved by a judge"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 382,
+    "question": "When you vote on election day, what do you do?",
+    "options": [
+      "Go to the voting station, tell them who you are, and mark your X",
+      "Go to the voting station, remove one ballot, mark your X, and deposit it",
+      "Go to the voting station, take your voter's card with ID, highlight choice, deposit it",
+      "Go to the voting station, take voter card and ID, mark an X next to candidate, fold ballot, present to official to tear off number, deposit in box"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 383,
+    "question": "Which of the following criteria give a Canadian the right to vote?",
+    "options": [
+      "Owning a house",
+      "Being on an official voters' list",
+      "Having a driver's license",
+      "Being an immigrant"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 384,
+    "question": "Which legal documents protect the rights of Canadians with regards to the official languages?",
+    "options": [
+      "British Charter of Rights and Freedoms",
+      "Canadian Constitution and Official Languages Act",
+      "Canadian Languages Act",
+      "Official English Act"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 385,
+    "question": "What is the government responsible for all of Canada called?",
+    "options": [
+      "The National Assembly",
+      "The Legislature",
+      "The Federal Government",
+      "The Council"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 386,
+    "question": "What is the most popular spectator sport of Canada?",
+    "options": [
+      "Soccer",
+      "Canadian football",
+      "Hockey",
+      "Basketball"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 387,
+    "question": "Which of the following represents protecting and enjoying the heritage and environment in Canada?",
+    "options": [
+      "Government responsibilities",
+      "Citizenship responsibilities and the laws of Canada",
+      "Laws of Canada",
+      "Citizenship responsibilities"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 388,
+    "question": "Who are the Quebecers?",
+    "options": [
+      "All the French-speaking people in Canada",
+      "They form a nation within a united Canada",
+      "They are descendants of British settlers who live in Quebec",
+      "They are the Canadians who only speak French"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 389,
+    "question": "Approximately how many Canadians served in the First World War?",
+    "options": [
+      "About 170,000",
+      "About 10,000",
+      "More than 60,000",
+      "More than 600,000"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 390,
+    "question": "When must federal elections be held?",
+    "options": [
+      "Whenever the prime minister calls the election",
+      "About every four years",
+      "When the MPs want a new prime minister",
+      "On the third Monday in October every four years following the most recent general election"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 391,
+    "question": "Which phrase embodied the vision for the dominion of Canada?",
+    "options": [
+      "The land of the strong and free",
+      "Dominion from sea to sea and from the river to the ends of the earth",
+      "Dominion from ocean to ocean",
+      "O Canada, my home and native land"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 392,
+    "question": "How are your rights and freedoms protected?",
+    "options": [
+      "By the Charter of Rights and Freedoms",
+      "By the King",
+      "By citizenship",
+      "None of the above"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 393,
+    "question": "Which of the following statements is true regarding Canada's membership in international organizations?",
+    "options": [
+      "Canada is a founding member of the United Nations but not of NATO",
+      "Canada is a founding member of NATO but not of the United Nations",
+      "Canada is a founding member of both the United Nations and NATO",
+      "Canada is not a founding member of either"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 394,
+    "question": "Who do Canadians vote for in a federal election?",
+    "options": [
+      "A candidate whom they want to represent them in parliament",
+      "All candidates in their electoral district",
+      "The best speaker running the election campaign",
+      "Someone to become the premier of the province"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 395,
+    "question": "What year was Confederation?",
+    "options": [
+      "1867",
+      "1768",
+      "1876",
+      "1786"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 396,
+    "question": "Which of the following is the responsibility of the federal government?",
+    "options": [
+      "Highways",
+      "Currency",
+      "Health",
+      "Education"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 397,
+    "question": "What is an electoral district?",
+    "options": [
+      "A geographical area where the politicians reside",
+      "An area where politicians work",
+      "A geographical area represented by a member of the House of Commons",
+      "The area where voting takes place in your locality"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 398,
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "Ottawa",
+      "Victoria",
+      "Toronto",
+      "Ontario"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 399,
+    "question": "What did the fathers of Confederation do to establish Canada?",
+    "options": [
+      "They worked together to create a new country, the Dominion of Canada",
+      "They were explorers who organized an expedition to survey northern Canada",
+      "They formed a republic state in Canada",
+      "They were a group of politicians who attempted to join Canada to the United States"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 400,
+    "question": "Which province is the most easterly point in Canada?",
+    "options": [
+      "Prince Edward Island",
+      "New Brunswick",
+      "Nova Scotia",
+      "Newfoundland and Labrador"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 401,
+    "question": "Where is Canada's largest naval base located?",
+    "options": [
+      "Vancouver",
+      "Quebec City",
+      "Halifax",
+      "Toronto"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 402,
+    "question": "Which one of the following is the most populated province in Canada?",
+    "options": [
+      "Quebec",
+      "British Columbia",
+      "Ontario",
+      "Alberta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 403,
+    "question": "Why did thousands of miners come to the Yukon in the 1890s?",
+    "options": [
+      "To build the Yukon Railway",
+      "For the gold rush",
+      "Because of the discovery of oil",
+      "To build the Pacific Railway"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 404,
+    "question": "Julia is a descendant of French colonists in the maritime province. What is she called?",
+    "options": [
+      "M\u00e9tis",
+      "Acadian",
+      "Inuit",
+      "Indian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 405,
+    "question": "Which of the following symbolizes close ties between Canada and the US?",
+    "options": [
+      "The Peace Arch in Blaine, Washington",
+      "Statue of Liberty in New York",
+      "International Peace Garden crossing between Canada and the United States",
+      "White Pass in Yukon"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 406,
+    "question": "When did Canada's modern energy industry begin?",
+    "options": [
+      "The economic boom of the 1890s and early 1900s",
+      "After the War of 1812",
+      "Since the discovery of oil in Alberta in 1947",
+      "After the Second World War"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 407,
+    "question": "Who was the first female member of Parliament?",
+    "options": [
+      "Agnes Macphail",
+      "Mary Ann Shadd Cary",
+      "Laura Secord",
+      "Alice Munro"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 408,
+    "question": "The Peace Tower was built in memory of:",
+    "options": [
+      "The First World War",
+      "The Second World War",
+      "The Korean War",
+      "The Battle of the Plains of Abraham"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 409,
+    "question": "In 1939, Canada joined with its democratic allies to fight:",
+    "options": [
+      "The USA",
+      "Japan",
+      "The Nazis",
+      "Korea"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 410,
+    "question": "How many Canadians have died in wars till now?",
+    "options": [
+      "60,000",
+      "110,000",
+      "More than 1 million",
+      "40,000"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 411,
+    "question": "Name a Canadian heroine who warned James FitzGibbon of a planned American attack during the War of 1812.",
+    "options": [
+      "Agnes Macphail",
+      "Mary Ann Shadd Cary",
+      "Laura Secord",
+      "Alice Munro"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 412,
+    "question": "In what year did Newfoundland and Labrador join Canada?",
+    "options": [
+      "1867",
+      "1955",
+      "1949",
+      "1880"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 413,
+    "question": "What was made in 1927 after World War I?",
+    "options": [
+      "The National War Memorial in Ottawa",
+      "The Peace Arch between the United States and Canada",
+      "The CN Tower in Toronto",
+      "The Peace Tower"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 414,
+    "question": "Can you send someone else or skip your duty if you are called to serve on a jury?",
+    "options": [
+      "Yes, you can send your spouse to serve on your behalf",
+      "No. Jury duty is a responsibility of citizenship that cannot be transferred or skipped",
+      "Yes, you can skip jury duty if you inform the court in advance",
+      "No, but you can hire someone to serve on the jury for you"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
