@@ -2,6 +2,7 @@ import SwiftUI
 
 struct QuizView: View {
     @EnvironmentObject var viewModel: QuizViewModel
+    @State private var showExplanation = false
     
     var body: some View {
         VStack {
@@ -65,6 +66,14 @@ struct QuizView: View {
                                     Image(systemName: viewModel.isBookmarked(questionId: question.id) ? "bookmark.fill" : "bookmark")
                                         .foregroundColor(viewModel.isBookmarked(questionId: question.id) ? .yellow : .gray)
                                         .font(.title2)
+                                }
+                                
+                                if let explanation = question.explanation, !explanation.isEmpty {
+                                    Button(action: { showExplanation = true }) {
+                                        Image(systemName: "info.circle")
+                                            .foregroundColor(.blue)
+                                            .font(.title2)
+                                    }
                                 }
                             }
                             
@@ -131,6 +140,26 @@ struct QuizView: View {
             .shadow(radius: 2)
         }
         .background(Color(UIColor.systemGroupedBackground))
+        .sheet(isPresented: $showExplanation) {
+            if let question = currentQuestion, let explanation = question.explanation {
+                VStack(spacing: 20) {
+                    Text("Explanation")
+                        .font(.headline)
+                        .padding(.top)
+                    
+                    ScrollView {
+                        Text(explanation)
+                            .padding()
+                    }
+                    
+                    Button("Close") {
+                        showExplanation = false
+                    }
+                    .padding()
+                }
+                .presentationDetents([.medium, .large])
+            }
+        }
     }
     
     var currentQuestion: Question? {

@@ -8,7 +8,8 @@
       "Within 5 years of the last election.",
       "The prime minister can call the election any time at his own will."
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Federal elections are fixed by law to take place on the third Monday in October every four years. Tip: Remember 'Fixed Four'—federal elections are fixed to a four-year cycle."
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
       "Education",
       "Interprovincial trade and communications"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The federal government handles issues that affect the whole country or cross borders, like trade, defense, and currency. Tip: If it crosses a provincial border, it's likely Federal."
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
       "Canadian Confederation",
       "Dominion of Canada"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "In 1867, the Fathers of Confederation chose 'Dominion of Canada', inspired by Psalm 72 in the Bible ('He shall have dominion also from sea to sea'). Tip: Remember 'Dominion from sea to sea'."
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
       "Prairies",
       "Central Canada"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Central Canada (Ontario and Quebec) is the industrial heartland and home to over 50% of the population. Tip: The region around the Great Lakes and St. Lawrence is the population engine."
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
       "Sir Wilfrid Laurier",
       "Sir John Alexander Macdonald"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Sir George-\u00c9tienne Cartier was a key Father of Confederation from Quebec who negotiated to protect French language and civil code. Tip: Cartier = Confederation (for Quebec)."
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
       "Provided ammunition.",
       "Sent 130,000 soldiers to take France back from the Germans."
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Canada hosted the British Commonwealth Air Training Plan (BCATP) because of its vast open spaces safe from enemy attack. Tip: Canada was known as the 'Aerodrome of Democracy'."
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
       "If a majority of the MPs vote against a major government decision.",
       "If a minority of the MPs vote against a major government decision."
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "This is a 'vote of non-confidence.' If the government loses a vote on a major bill (like the budget), they must resign or call an election. Tip: The government needs the Confidence of the House."
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
       "Education, foreign policy, natural resources and policing.",
       "National defense, foreign policy, highways, and Aboriginal affairs."
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Provinces handle direct services: schools, healthcare, and resources. Tip: Things you use daily (schools, hospitals, roads) are usually Provincial."
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
       "A network fur traders used to transport beaver pelts to the United States.",
       "The first underground subway tunnel in Toronto."
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "It wasn't a real train; it was a secret network of safe houses for escaping slaves. Tip: Canada was the 'North Star' of freedom."
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
       "North region",
       "Southern Territories"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Northern Territories (Yukon, NWT, Nunavut) are massive land masses covering 1/3 of Canada but have a small population. Tip: The 'Great White North' is the top third of the map."
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
       "God save the queen (or king)",
       "O Canada"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "'O Canada' is the National Anthem; 'God Save the King' is the Royal Anthem. Tip: We sing to the Country (O Canada) and save the King (Royal)."
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
       "To provide national security intelligence to the government.",
       "To conduct or support land warfare, peacekeeping, or humanitarian missions."
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Police enforce laws and ensure safety. They do not interpret the law; that is the job of the courts. Tip: Police Enforce, Courts Interpret."
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
       "Ontario",
       "New Brunswick"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Quebec has the highest number of bilingual (French/English) speakers. (Note: New Brunswick is the only officially bilingual province, but Quebec has more bilingual people)."
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
       "British Columbia",
       "Alberta"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Saskatchewan is known as the 'breadbasket of the world' for its massive wheat production. Tip: Saskatchewan = Seeds/Wheat."
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
       "October 1st",
       "July 4th"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Canada Day celebrates the anniversary of Confederation on July 1, 1867. Tip: 1st of July = Birthday of Canada."
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
       "1786",
       "1678"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The British North America Act established the Dominion of Canada in 1867. Tip: Memorize 1-8-6-7."
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
       "English and French",
       "Mandarin and English"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "English and French are the official languages, guaranteed by the Official Languages Act. Tip: These are the languages of the two main European founding nations."
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
       "North America",
       "South America"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada occupies the northern half of the North American continent. Tip: We are the 'Great White North' of North America."
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
       "Lake Michigan, Lake Victoria, Lake Mexico, Lake Ontario, Lake St. Louis",
       "None of the above"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The lakes are Superior, Michigan, Huron, Erie, and Ontario. Tip: Remember the acronym HOMES."
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
       "Lieutenant Governor",
       "Governor General"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Governor General = Federal (All Canada). Lieutenant Governor = Provincial (Specific Province). Tip: Lieutenant is a lower rank than General, so it fits the smaller area."
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
       "Chosen by the king",
       "Elected by Canadian citizens"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "MPs are elected by Canadian citizens in their local electoral districts. Tip: Parliament is the 'voice of the people'."
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
       "Building housing",
       "Fishing"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The M\u00e9tis (mixed Aboriginal and European ancestry) were crucial to the fur trade as guides and interpreters. Tip: They bridged the two cultures."
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
       "Database of all Canadian citizens",
       "Database of Canadian taxpayers"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "This is the database used by Elections Canada to know who can vote. Tip: You must be a Citizen and 18+ to be on this list."
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
       "Free trade between Canada and the UK",
       "Free trade between Canada and Japan"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "NAFTA (now CUSMA) eliminated trade barriers between the three North American countries. Tip: NA = North America (Canada, US, Mexico)."
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
       "First Nations people speaking the Michif dialect",
       "A distinct people of mixed Aboriginal and European ancestry"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "M\u00e9tis means 'mixed' in French. They are a distinct Aboriginal people with both Indigenous and European roots. Tip: M\u00e9tis = Mixed."
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
       "The Constitutional Act of 1791",
       "The Constitutional Act of 1972"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Constitutional Act of 1791 divided Quebec into Upper and Lower Canada and created elected assemblies. Tip: 1791 brought Democracy (voting)."
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
       "Other judges",
       "The people"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Technically appointed by the Governor General, but on the advice of the Prime Minister. Tip: The GG signs the paper, but the PM picks the person."
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
       "A national motto, \"A Mari Usque Ad Mare\", which in Latin means \"from sea to sea\"",
       "The crown reflects the Greco-Roman heritage of Western civilization in which democracy originated"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Crown is the symbol of the state's authority. It represents the government, police, and courts, not just the King himself. Tip: The Crown = The State."
   },
   {
     "id": 29,
@@ -327,7 +355,8 @@
       "Late 1700s",
       "Early 1600s"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Pierre de Monts and Samuel de Champlain settled in the early 1600s (e.g., Quebec City in 1608). Tip: Early 1600s = Early French Roots."
   },
   {
     "id": 31,
@@ -338,7 +367,8 @@
       "Central Canada",
       "West Coast"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Central Canada (Ontario and Quebec) produces more than 3/4 of Canada's manufactured goods. Tip: Central = Center of Industry."
   },
   {
     "id": 32,
@@ -349,7 +379,8 @@
       "Tourism and government",
       "All answers are correct"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Service industries are jobs that provide a service rather than make a product. This includes retail, health, education, and government. Tip: 75% of Canadians work in services."
   },
   {
     "id": 33,
@@ -360,7 +391,8 @@
       "Canada is a free country and home of the brave",
       "Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "These are the opening words of the Charter (1982). Tip: Remember 'God and Law' are the two foundational principles."
   },
   {
     "id": 34,
@@ -371,7 +403,8 @@
       "Obeying the law",
       "Taking responsibility for oneself and one's family"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Bilingualism is encouraged but not mandatory for citizens. Responsibilities include voting, obeying laws, and helping the community. Tip: You don't HAVE to speak both to be a citizen."
   },
   {
     "id": 35,
@@ -382,7 +415,8 @@
       "Canadian victory in World War II",
       "Sacrifices made by Canadian veterans and brave soldiers in wars"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "We honor all veterans and those who gave their lives in all wars, not just a specific victory. Tip: Remembrance is about Sacrifice, not just winning."
   },
   {
     "id": 36,
@@ -393,7 +427,8 @@
       "To provide a spectacular tourist excursion across precipitous passes and bridges",
       "So British Columbia could handle the trade of goods worth billions of dollars all around the world"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "BC only agreed to join Canada if they were connected by rail to the rest of the country. Tip: No Railway = No BC."
   },
   {
     "id": 37,
@@ -404,7 +439,8 @@
       "Canada has become a member of the World Trade Organization",
       "The French and Aboriginal people collaborated with Canada in the vast fur trade economy"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Canada is a trading nation. Selling goods (like oil and timber) abroad maintains our high quality of life. Tip: Trade = Wealth/Standard of Living."
   },
   {
     "id": 38,
@@ -415,7 +451,8 @@
       "To run the federal government departments",
       "To focus on citizenship and allegiance, be a symbol of Canadian sovereignty and a guardian of constitutional freedoms"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The King is a symbolic head of state, not a political decision-maker. Tip: He reigns but does not rule."
   },
   {
     "id": 39,
@@ -426,7 +463,8 @@
       "Canada's head of state is a hereditary sovereign queen or king who reigns in accordance with the constitution",
       "The sovereign queen or king is the lawmaker of Canada"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "We have a Monarch (King/Queen), but their power is limited and defined by the Constitution. Tip: Monarchy (King) + Constitution (Rules)."
   },
   {
     "id": 40,
@@ -437,7 +475,8 @@
       "November 11th",
       "November 20th"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Celebrated on the 11th hour of the 11th day of the 11th month (end of WWI). Tip: 11-11-11."
   },
   {
     "id": 41,
@@ -448,7 +487,8 @@
       "Quebec and New Brunswick",
       "Alberta and Saskatchewan"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Central Canada consists of Ontario and Quebec. Tip: Look for the two biggest provinces in the middle."
   },
   {
     "id": 42,
@@ -459,7 +499,8 @@
       "Prairie provinces",
       "The Maritimes"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The M\u00e9tis Nation developed historically in the West, specifically the Prairie provinces. Tip: M\u00e9tis = Prairies."
   },
   {
     "id": 43,
@@ -470,7 +511,8 @@
       "The United Kingdom",
       "Mexico"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The USA is our neighbor and we share the largest undefended border. Over 75% of exports go there. Tip: Closest neighbor = Biggest partner."
   },
   {
     "id": 44,
@@ -481,7 +523,8 @@
       "Basic living rights and obey laws",
       "Aboriginal people's rights and to volunteer"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Charter protects fundamental freedoms like Conscience, Religion, Thought, Belief, Expression, and Assembly. Tip: Religion and Belief are 'Fundamental'."
   },
   {
     "id": 45,
@@ -492,7 +535,8 @@
       "Member of the Patriots",
       "Master of the province"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "MP stands for Member of Parliament. They sit in the House of Commons. Tip: MP = Member of Parliament."
   },
   {
     "id": 46,
@@ -503,7 +547,8 @@
       "Newfoundland",
       "Yukon"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Newfoundland (now Newfoundland and Labrador) joined in 1949. Tip: They were the final piece of the puzzle."
   },
   {
     "id": 47,
@@ -514,7 +559,8 @@
       "The descendants of the first Australian immigrants to Canada",
       "The first inhabitants of Canada"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Aboriginal peoples (First Nations, Inuit, M\u00e9tis) were here before European settlers. Tip: 'Ab-original' means 'from the beginning'."
   },
   {
     "id": 48,
@@ -525,7 +571,8 @@
       "The ministers of the crown must have the support of a majority of the elected representatives in order to govern",
       "All Canadians are responsible for each other"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The government is 'responsible' to the people's representatives (MPs). If they lose the MPs' support (confidence), they must resign. Tip: Responsible to the House."
   },
   {
     "id": 49,
@@ -536,7 +583,8 @@
       "Saskatchewan",
       "Ontario"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Quebec has vast forests and hydroelectric power, making it a leader in pulp and paper. Tip: Quebec = Paper."
   },
   {
     "id": 50,
@@ -547,7 +595,8 @@
       "You should assume you were not chosen to vote",
       "Contact Elections Canada"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Elections Canada runs federal elections. If you don't get a card, contact them to update your address. Tip: Elections Canada is the boss of voting."
   },
   {
     "id": 51,
@@ -558,7 +607,8 @@
       "Rival parties",
       "Opponent parties"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Parties that are not in power are called Opposition parties. Their role is to peacefully oppose or try to improve government proposals. Tip: They 'oppose' the government."
   },
   {
     "id": 52,
@@ -569,7 +619,8 @@
       "Alberta",
       "Newfoundland and Labrador"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Newfoundland had English settlements as early as 1610, making it the oldest colony, even though it was the last to join Canada (1949). Tip: 'New'foundland is actually the 'Old'est."
   },
   {
     "id": 53,
@@ -580,7 +631,8 @@
       "The Governor General of Canada",
       "The Prime Minister"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Governor General represents the Sovereign (King/Queen) at the federal level. Tip: General = General (All) of Canada."
   },
   {
     "id": 54,
@@ -591,7 +643,8 @@
       "Serve in the Canadian Army, obey the law, and take responsibility for oneself and one's family",
       "Obey the law, serve on a jury, vote in elections, and help others in the community"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Key responsibilities: Obeying the law, taking responsibility for oneself/family, serving on a jury, voting, and helping others. Tip: 'Jury, Vote, Help'."
   },
   {
     "id": 55,
@@ -602,7 +655,8 @@
       "Prairie Provinces",
       "Maritime Provinces"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Prairie Provinces (Alberta, Saskatchewan, Manitoba) are famous for farming (grains) and energy (oil/gas). Tip: Prairies = Food and Fuel."
   },
   {
     "id": 56,
@@ -613,7 +667,8 @@
       "They provide waterways",
       "They are tourist attractions"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Great Lakes provide a massive source of fresh water and are crucial shipping lanes (St. Lawrence Seaway) for trade. Tip: H2O and Trade."
   },
   {
     "id": 57,
@@ -624,7 +679,8 @@
       "Alberta",
       "New Brunswick"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Prince Edward Island (PEI) is the smallest province in both area and population. Tip: It's an island, so it is limited in size."
   },
   {
     "id": 58,
@@ -635,7 +691,8 @@
       "John Cabot (John Kat in transcript)",
       "Jacques Cartier"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "John Cabot (Giovanni Caboto) was an Italian explorer who mapped the coast in 1497 for England. Tip: Cabot = Coast."
   },
   {
     "id": 59,
@@ -646,7 +703,8 @@
       "Apply for financial aid from the government to pay for legal fees",
       "Do not go to a court"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Legal Aid services are available in most communities to ensure everyone has access to the justice system regardless of income. Tip: 'Aid' means help is free or low cost."
   },
   {
     "id": 60,
@@ -657,7 +715,8 @@
       "Place where the number of votes is counted",
       "Member of parliament's constituency"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "A polling station is the specific location (often a school or community center) where you go to cast your ballot. Tip: Polls = Votes."
   },
   {
     "id": 61,
@@ -668,7 +727,8 @@
       "MP selected by the prime minister to run federal departments",
       "MP selected by the king to make laws"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Cabinet ministers are MPs chosen by the Prime Minister to lead major departments like Finance, Defense, or Health. Tip: Cabinet = The PM's inner circle."
   },
   {
     "id": 62,
@@ -679,7 +739,8 @@
       "Sir Frederick Banting and Charles Best",
       "Dr. John A. Hopps"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Banting and Best discovered insulin in 1921, saving millions of diabetics. Tip: Remember 'B&B' (Banting & Best)."
   },
   {
     "id": 63,
@@ -690,7 +751,8 @@
       "Fraser River",
       "St. Lawrence River"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The St. Lawrence River is the vital waterway connecting the Great Lakes to the Atlantic, passing through Quebec. Tip: The 'Main Street' of early Canada."
   },
   {
     "id": 64,
@@ -701,7 +763,8 @@
       "Terry Fox",
       "Gerhard Herzberg"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Rick Hansen is the 'Man in Motion' who circled the globe in his wheelchair in the 1980s. Tip: Hansen = Hero in Motion."
   },
   {
     "id": 65,
@@ -712,7 +775,8 @@
       "Sir John Alexander Macdonald",
       "Sir William Riel"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Louis Riel led the Red River Resistance which led to the creation of Manitoba. Tip: Riel = Resistance/Manitoba."
   },
   {
     "id": 66,
@@ -723,7 +787,8 @@
       "Take the Canada citizenship test",
       "Vote in federal and provincial elections"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Voting is a specific right reserved only for Canadian citizens. Tip: No Passport = No Ballot."
   },
   {
     "id": 67,
@@ -734,7 +799,8 @@
       "It is night most of the time",
       "Summer daylight can last up to 24 hours"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "In the Arctic summer, the sun does not set for long periods due to the Earth's tilt. Tip: The sun shines even at midnight."
   },
   {
     "id": 68,
@@ -745,7 +811,8 @@
       "Alberta",
       "Ontario"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Ontario is the most populous province, with more than 1/3 (approx 38%) of the total population. Tip: Ontario is 'On' top for population."
   },
   {
     "id": 69,
@@ -756,7 +823,8 @@
       "Your local MP",
       "The prime minister"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Voting is by secret ballot. No one has the right to insist you tell them how you voted. Tip: Your vote is your secret."
   },
   {
     "id": 70,
@@ -767,7 +835,8 @@
       "Early 1700s",
       "Late 1700s"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Loyalists fled the US during and after the American Revolution (1775-1783). Tip: Late 1700s = Flight from US Independence."
   },
   {
     "id": 71,
@@ -778,7 +847,8 @@
       "The prime minister loses his job",
       "The prime minister is no longer the leader of his party"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "If the government loses the support (confidence) of the House, the Prime Minister must resign or ask the Governor General to call an election. Tip: No Confidence = New Election."
   },
   {
     "id": 72,
@@ -789,7 +859,8 @@
       "The British defeated the French, marking the end of France's empire in America",
       "The French defeated the British in a battle for Quebec"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "In 1759, the British (Wolfe) defeated the French (Montcalm) at Quebec City. Tip: This was the pivotal battle for the continent."
   },
   {
     "id": 73,
@@ -800,7 +871,8 @@
       "Any immigrant who has stayed a minimum of 3 years in Canada",
       "Wealthy citizens"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "A passport is a document proving citizenship. Only citizens can get one. Tip: Passport = Proof of Citizenship."
   },
   {
     "id": 74,
@@ -811,7 +883,8 @@
       "A group of cowboys who defended Canada",
       "A group of Canadian landscape painters in the 1920s"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "They developed a distinct style of painting based on the rugged Canadian wilderness. Tip: Painters of the Wild."
   },
   {
     "id": 75,
@@ -822,7 +895,8 @@
       "A government that is against corruption",
       "The government must resign if it loses a confidence vote in the assembly"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Responsible Government means the executive (PM/Cabinet) is accountable to the elected representatives (House). Tip: They are 'Responsible' to the voters' reps."
   },
   {
     "id": 76,
@@ -833,7 +907,8 @@
       "Canada protected its independence from the United States",
       "Canada became an independent country"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada (with British help) successfully resisted US invasion, ensuring Canada remained separate from the USA. Tip: We stayed Canadian."
   },
   {
     "id": 77,
@@ -844,7 +919,8 @@
       "Federal",
       "Senators"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Municipal (city/town) governments pass local rules called 'bylaws' (e.g., parking, noise). Tip: By-laws are for Your Town."
   },
   {
     "id": 78,
@@ -855,7 +931,8 @@
       "From land to sea",
       "From sea to sea"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "It is Latin for 'From Sea to Sea'. Tip: Think of the Atlantic and Pacific oceans bounding the country."
   },
   {
     "id": 79,
@@ -866,7 +943,8 @@
       "A socialist country, a parliamentary democracy, and a constitutional monarchy",
       "A federal country, a constitutional democracy, and a parliamentary monarchy"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Canada is a Federal State (provinces + federal), a Parliamentary Democracy (we vote for MPs), and a Constitutional Monarchy (King is head of state). Tip: Federal, Democratic, Monarchy."
   },
   {
     "id": 80,
@@ -877,7 +955,8 @@
       "Gold mining",
       "Hunting"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The demand for beaver pelts in Europe drove the early economy and exploration. Tip: The Beaver is a national symbol for this reason."
   },
   {
     "id": 81,
@@ -888,7 +967,8 @@
       "By the voters",
       "By the senators"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Prime Minister selects MPs to be in the Cabinet. Tip: The Captain (PM) picks the Team (Cabinet)."
   },
   {
     "id": 82,
@@ -899,7 +979,8 @@
       "French-speaking Catholics who live in Ontario",
       "Aboriginal people of the Arctic"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Acadians are the descendants of the original French settlers in the Atlantic region (Acadia). Tip: Acadians = Atlantic French."
   },
   {
     "id": 83,
@@ -910,7 +991,8 @@
       "The king appoints the prime minister",
       "The leader of the party with the most elected members of parliament"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The PM is the leader of the party that wins the most seats in the election. Tip: Most seats = The Driver's Seat."
   },
   {
     "id": 84,
@@ -921,7 +1003,8 @@
       "Member of the national airline",
       "Member of the National Assembly"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "In Quebec, the provincial parliament is called the 'National Assembly', so members are MNAs. Tip: Quebec = National Assembly."
   },
   {
     "id": 85,
@@ -932,7 +1015,8 @@
       "The people of Canada",
       "The Prime Minister"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Queen Elizabeth II signed the Constitution Act, 1982, in Ottawa. Tip: The Queen brought the Constitution home."
   },
   {
     "id": 86,
@@ -943,7 +1027,8 @@
       "Military rule",
       "Communism"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "We govern through a Parliament comprising elected representatives. Tip: We have a Parliament Hill, so we have a Parliamentary government."
   },
   {
     "id": 87,
@@ -954,7 +1039,8 @@
       "Green and white",
       "Red and blue"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Red and White became Canada's official colors in 1921 (King George V). Tip: Think of the Maple Leaf flag."
   },
   {
     "id": 88,
@@ -965,7 +1051,8 @@
       "France",
       "Iceland"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "While Vikings (Iceland) came briefly earlier, the first settlers who established permanent communities came from France (Quebec/Acadia). Tip: French = First Settlers."
   },
   {
     "id": 89,
@@ -976,7 +1063,8 @@
       "Signs bills to make them law after they have been passed by parliament",
       "A and C"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Opposition party is determined by election results (the party with the second most votes), not chosen by the Governor General. Tip: The GG is neutral."
   },
   {
     "id": 90,
@@ -987,7 +1075,8 @@
       "By booking an appointment over the phone",
       "By waiting outside of the Parliament building"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "You can write a letter to your MP at the House of Commons. Tip: It is postage-free to write to your MP!"
   },
   {
     "id": 91,
@@ -998,7 +1087,8 @@
       "The first head of a responsible government",
       "Canada's first prime minister"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Cartier was a key Father of Confederation from Quebec and a close ally of John A. Macdonald. Tip: Cartier = Confederation & Railways."
   },
   {
     "id": 92,
@@ -1009,7 +1099,8 @@
       "Donovan Bailey",
       "Terry Fox"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Wayne Gretzky is widely considered the greatest hockey player of all time. Tip: The Great One."
   },
   {
     "id": 93,
@@ -1020,7 +1111,8 @@
       "Canada exports very few goods to the USA",
       "The relationship between Canada and the USA is the closest and the most extensive in the world"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "It is NOT true that Canada exports 'very few' goods. In fact, over 75% of our exports go to the USA. Tip: We are massive trading partners."
   },
   {
     "id": 94,
@@ -1031,7 +1123,8 @@
       "War, order, and good government",
       "Mobility rights, order, and good government"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The BNA Act (1867) defines the goal of the government as 'Peace, Order, and Good Government'. Tip: Remember P-O-G-G."
   },
   {
     "id": 95,
@@ -1042,7 +1135,8 @@
       "Canada won a gold medal in 2008's Olympics in this event",
       "None of these"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Hockey is the National Winter Sport and the most popular spectator sport. Tip: Canada = Ice = Hockey."
   },
   {
     "id": 96,
@@ -1053,7 +1147,8 @@
       "The supremacy of law and the rule of God",
       "Mobility right and the rule of law"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "These are the opening words of the Charter of Rights and Freedoms: 'founded upon principles that recognize the supremacy of God and the rule of law'. Tip: God and Law."
   },
   {
     "id": 97,
@@ -1064,7 +1159,8 @@
       "Boxing Day",
       "Canada Day"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "December 26 is Boxing Day, historically when servants received 'boxes' of gifts. Tip: The day after Christmas."
   },
   {
     "id": 98,
@@ -1075,7 +1171,8 @@
       "1885",
       "1972"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Constitution Act of 1982 established a clear formula for amending the constitution (usually 7 provinces + 50% population). Tip: 1982 = Charter & Amending Formula."
   },
   {
     "id": 99,
@@ -1086,7 +1183,8 @@
       "Hockey",
       "Golf"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Ice Hockey is the official winter sport. Lacrosse is the official summer sport. Tip: Winter = Ice = Hockey."
   },
   {
     "id": 100,
@@ -1097,7 +1195,8 @@
       "Sam Steele",
       "George-\u00c9tienne Cartier"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Louis Riel led the M\u00e9tis at Red River (Manitoba) and seized Fort Garry in 1869. Tip: Riel = Rebellion."
   },
   {
     "id": 101,
@@ -1108,7 +1207,8 @@
       "To prepare the budget and propose new laws to be implemented",
       "Defense"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Cabinet (PM + Ministers) decides government policy, drafts laws, and prepares the budget. Tip: The Cabinet is the 'steering committee' of the government."
   },
   {
     "id": 102,
@@ -1119,7 +1219,8 @@
       "Canadian citizens",
       "British citizens"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Mobility rights in the Charter guarantee that only Canadian citizens have the absolute right to enter and remain in Canada forever. Tip: Citizens have the 'Right of Return'."
   },
   {
     "id": 103,
@@ -1130,7 +1231,8 @@
       "Do nothing",
       "Resign"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "In a responsible government, if you lose the support of the majority (confidence), you must resign or call an election. Tip: No Confidence = Game Over."
   },
   {
     "id": 104,
@@ -1141,7 +1243,8 @@
       "Nova Scotia",
       "Manitoba"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Manitoba was the leader in the suffrage movement, granting women the vote in 1916. Tip: Dr. Emily Stowe and the movement succeeded there first."
   },
   {
     "id": 105,
@@ -1152,7 +1255,8 @@
       "Canadian Constitution",
       "Magna Carta"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Signed in 1215, the Magna Carta is the 'Great Charter' that established the rule of law. Tip: Magna = Great, Carta = Charter."
   },
   {
     "id": 106,
@@ -1163,7 +1267,8 @@
       "Visiting the province of Quebec",
       "Going on a vacation"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "An 'electoral district' (or riding) is the specific geographic area an MP represents. Tip: She goes home to the neighborhood that elected her."
   },
   {
     "id": 107,
@@ -1174,7 +1279,8 @@
       "The party with the most elected representatives becomes the party in power. The leader of this party becomes the prime minister.",
       "The party with the most elected representatives becomes the party in power. The king chooses the prime minister from this party."
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The party that wins the most seats (Ridings) in the House of Commons forms the government. Tip: The winner takes the reins."
   },
   {
     "id": 108,
@@ -1185,7 +1291,8 @@
       "The governor general",
       "The prime minister"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Sovereign (King/Queen) is the Head of State; the Prime Minister is the Head of Government. Tip: State = Symbolic Crown."
   },
   {
     "id": 109,
@@ -1196,7 +1303,8 @@
       "Queen Victoria",
       "Queen Anne"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Queen Victoria chose Ottawa in 1857 because it was located safely between French and English Canada. Tip: Victoria picked the Capital."
   },
   {
     "id": 110,
@@ -1207,7 +1315,8 @@
       "1949",
       "1892"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Red and White Maple Leaf flag was raised on February 15, 1965. Tip: 1965 is the birth year of the Flag."
   },
   {
     "id": 111,
@@ -1218,7 +1327,8 @@
       "The House of Commons",
       "The Senate"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The PM plus his chosen Ministers form the Cabinet. Tip: Think of them as the 'Executive' team."
   },
   {
     "id": 112,
@@ -1229,7 +1339,8 @@
       "Quebec",
       "Manitoba"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Quebec (specifically Montreal) is a global hub for aerospace (e.g., Bombardier). Tip: Quebec = Aerospace."
   },
   {
     "id": 113,
@@ -1240,7 +1351,8 @@
       "An explorer of Western Canada",
       "A military leader of the M\u00e9tis in the 19th century"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Sir Arthur Currie commanded the Canadian Corps in WWI. He is celebrated for his tactical brilliance (e.g., Vimy Ridge). Tip: Currie = Corps Commander."
   },
   {
     "id": 114,
@@ -1251,7 +1363,8 @@
       "Upper Canada",
       "The Province of Canada"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The 'Province of Canada' was split back into Ontario (Upper) and Quebec (Lower) in 1867. Tip: One province became two."
   },
   {
     "id": 115,
@@ -1262,7 +1375,8 @@
       "Northwest Territories (Yellowknife)",
       "Alaska (Juneau) and Yukon (Whitehorse)"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Yukon = Whitehorse; NWT = Yellowknife; Nunavut = Iqaluit. Tip: Memorize the trio: Whitehorse, Yellowknife, Iqaluit."
   },
   {
     "id": 116,
@@ -1273,7 +1387,8 @@
       "\"The people\" in the Inuktitut language",
       "The Arctic land in the Inuktitut language"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Inuit means 'The People' in the Inuktitut language. Tip: Use 'Inuit', not 'Eskimo'."
   },
   {
     "id": 117,
@@ -1284,7 +1399,8 @@
       "The party with the second most votes",
       "Any independent candidate"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The party with the second-highest number of elected MPs becomes the Official Opposition. Tip: The runner-up gets a special job."
   },
   {
     "id": 118,
@@ -1295,7 +1411,8 @@
       "American railroad engineers",
       "Chinese railroad workers"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Thousands of Chinese workers were recruited to build the dangerous section through the Rockies. Tip: They faced great danger and discrimination (Head Tax)."
   },
   {
     "id": 119,
@@ -1306,7 +1423,8 @@
       "Manitoba and Quebec",
       "Manitoba and Alberta"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Ontario is sandwiched between Manitoba (West) and Quebec (East). Tip: Look at the map of Central Canada."
   },
   {
     "id": 120,
@@ -1317,7 +1435,8 @@
       "Everyone who lives in his or her province",
       "Everyone in northern Canada"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "MPs represent *everyone* in their riding, even those who voted for someone else. Tip: They are the voice of the District."
   },
   {
     "id": 121,
@@ -1328,7 +1447,8 @@
       "To oppose or try to improve government proposals",
       "To regulate government proposals"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Their job is to critique the government's plans and suggest improvements. Tip: 'Constructive Criticism'."
   },
   {
     "id": 122,
@@ -1339,7 +1459,8 @@
       "July 1st, 1867",
       "July 31st, 1820"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Nunavut separated from the Northwest Territories on April 1, 1999. Tip: The map changed in '99."
   },
   {
     "id": 123,
@@ -1350,7 +1471,8 @@
       "The Aboriginal people signed the act",
       "It made confederation legal"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The BNA Act (1867) is the law that created the Dominion of Canada. Tip: It is Canada's birth certificate."
   },
   {
     "id": 124,
@@ -1361,7 +1483,8 @@
       "It features a blue cross with four thistles and shamrocks and was adopted in 1948",
       "It features a white cross with four fleur-de-lis and was adopted in 1867"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Quebec flag (Fleurdelis\u00e9) has a white cross on a blue background with four white fleurs-de-lis. Tip: Adopted in 1948."
   },
   {
     "id": 125,
@@ -1372,7 +1495,8 @@
       "Pierre Le Moyne and Sieur d'Iberville",
       "Great Britain"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Jean Talon (Intendant), Bishop Laval (Church), and Count Frontenac (Governor) were the leaders of New France. Tip: The Administrator, The Bishop, and The Governor."
   },
   {
     "id": 126,
@@ -1383,7 +1507,8 @@
       "New Brunswick",
       "British Columbia"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "British Columbia is Canada's westernmost province, bordering the Pacific Ocean. Tip: BC = West Coast."
   },
   {
     "id": 127,
@@ -1394,7 +1519,8 @@
       "6",
       "7"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "There are 5 Great Lakes (Superior, Michigan, Huron, Erie, Ontario). Tip: High Five for the Lakes."
   },
   {
     "id": 128,
@@ -1405,7 +1531,8 @@
       "Canadian police",
       "RCMP"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Royal Canadian Mounted Police (RCMP) or 'Mounties' are famous worldwide for their Red Serge uniforms. Tip: The National Police."
   },
   {
     "id": 129,
@@ -1416,7 +1543,8 @@
       "First Nations",
       "Inuit"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Inuit are the Indigenous people of the Arctic. Nunavut literally means 'Our Land' in Inuktitut. Tip: North = Inuit."
   },
   {
     "id": 130,
@@ -1427,7 +1555,8 @@
       "London",
       "Ottawa"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Parliament Hill is in Ottawa, the capital city of Canada. Tip: Laws are made in Ottawa."
   },
   {
     "id": 131,
@@ -1438,7 +1567,8 @@
       "Judges",
       "Citizens"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "A jury is made up of ordinary citizens chosen to decide the guilt or innocence of a person on trial. Tip: Being on a jury is a duty of Citizenship."
   },
   {
     "id": 132,
@@ -1449,7 +1579,8 @@
       "Canada's tolerance of religious tradition under the law",
       "It gave the French more power"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Quebec Act allowed French Catholics to keep their religion and civil law. Tip: It set the foundation for religious tolerance in Canada."
   },
   {
     "id": 133,
@@ -1460,7 +1591,8 @@
       "Anyone with the necessary qualifications",
       "Foreigners"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "While others can apply, Canadian citizens get preference for federal civil service jobs. Tip: Citizens First."
   },
   {
     "id": 134,
@@ -1471,7 +1603,8 @@
       "People who do not speak English as a first language",
       "People who speak English as a first language"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Anglophones have English as their first language. Francophones have French. Tip: Anglo = English."
   },
   {
     "id": 135,
@@ -1482,7 +1615,8 @@
       "Explorers searching for the Northwest Passage",
       "Geographers who first charted the coastline of British Columbia"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Voyageurs were the 'travelers' of the fur trade who paddled canoes across the continent. Tip: Canoe + Fur Trade."
   },
   {
     "id": 136,
@@ -1493,7 +1627,8 @@
       "France and China",
       "America and British"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The battle was between the British (Wolfe) and the French (Montcalm) in 1759. Tip: The fight for Quebec."
   },
   {
     "id": 137,
@@ -1504,7 +1639,8 @@
       "1982",
       "1782"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Charter was added to the Constitution in 1982 by Queen Elizabeth II. Tip: 1982 is the year of Rights."
   },
   {
     "id": 138,
@@ -1515,7 +1651,8 @@
       "Indigenous peoples",
       "M\u00e9tis"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "First Nations (formerly 'Indians') are the largest distinct group, followed by M\u00e9tis and Inuit. Tip: First Nations are about 65% of Indigenous people."
   },
   {
     "id": 139,
@@ -1526,7 +1663,8 @@
       "It lets Canadians enjoy more freedom",
       "It made changes to the Citizenship Act"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Before 1982, we had to ask Britain to change our Constitution. Now we can do it ourselves. Tip: We brought the Constitution home."
   },
   {
     "id": 140,
@@ -1537,7 +1675,8 @@
       "Quebec",
       "British Columbia"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "BC is famous for its massive trees and lumber industry. Tip: BC = Big Timber."
   },
   {
     "id": 141,
@@ -1548,7 +1687,8 @@
       "The official summer sport",
       "The most popular sport in Canada"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Lacrosse, an Indigenous game, is the official Summer sport. Hockey is the Winter sport. Tip: Summer = Lacrosse."
   },
   {
     "id": 142,
@@ -1559,7 +1699,8 @@
       "A new law",
       "A proposal of a law"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Before it gets Royal Assent, a proposed law is called a 'Bill'. Tip: It is just a Bill on Parliament Hill."
   },
   {
     "id": 143,
@@ -1570,7 +1711,8 @@
       "Alexander Graham Bell",
       "Harold Innis"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Gerhard Herzberg, a refugee from Nazi Germany, won the Nobel Prize in Chemistry (1971). Tip: Herzberg = Chemistry."
   },
   {
     "id": 144,
@@ -1581,7 +1723,8 @@
       "Freedom of religion",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Charter protects Religion, Thought, Belief, Expression, Press, and Assembly. Tip: You are free to think and speak."
   },
   {
     "id": 145,
@@ -1592,7 +1735,8 @@
       "1901",
       "1876"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "July 1, 1867. This is the date of Confederation. Tip: The BNA Act = The Start of Canada."
   },
   {
     "id": 146,
@@ -1603,7 +1747,8 @@
       "Victoria Medal",
       "Victoria Cross"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The V.C. is the highest honor for conspicuous bravery in the presence of the enemy. Tip: Victoria Cross = Bravery."
   },
   {
     "id": 147,
@@ -1614,7 +1759,8 @@
       "Edmonton",
       "Vancouver"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Vancouver is Canada's busiest port and handles billions in trade with Asia. Tip: Vancouver = Gateway to the Pacific."
   },
   {
     "id": 148,
@@ -1625,7 +1771,8 @@
       "His discovery of insulin saves millions of people's lives",
       "He was a brilliant soldier"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Terry Fox ran the 'Marathon of Hope' on one leg to raise money for cancer research. Tip: A national hero of perseverance."
   },
   {
     "id": 149,
@@ -1636,7 +1783,8 @@
       "Zinc, gold, and bronze",
       "Zinc, lead, and aluminum"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The North is rich in resources. Gold, lead, and zinc are key exports. Tip: Gold Rush history + modern mining."
   },
   {
     "id": 150,
@@ -1647,7 +1795,8 @@
       "Atlantic, North, Central, Prairies, and West Coast",
       "Rockies, Ontario, Quebec, and Prairies"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada is divided into 5 regions: Atlantic, Central, Prairies, West Coast, and North. Tip: Memorize the five distinct geographical areas."
   },
   {
     "id": 151,
@@ -1658,7 +1807,8 @@
       "Alderman",
       "Premier"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The head of a municipal government (city or town) is the Mayor. Tip: M = Municipal/Mayor."
   },
   {
     "id": 152,
@@ -1669,7 +1819,8 @@
       "Farming",
       "Natural resources"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "More than 75% of working Canadians have jobs in the service industry (transportation, education, retail, etc.). Tip: We are a service economy."
   },
   {
     "id": 153,
@@ -1680,7 +1831,8 @@
       "The date and time you are allowed to vote",
       "Where you should vote"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The ballot lists the candidates running in your specific riding. Tip: You mark an 'X' next to the name you choose."
   },
   {
     "id": 154,
@@ -1691,7 +1843,8 @@
       "Nova Scotia",
       "New Brunswick"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "New Brunswick is the only province that is officially bilingual (English and French). Tip: NB = Two Languages."
   },
   {
     "id": 155,
@@ -1702,7 +1855,8 @@
       "Ontario",
       "New Brunswick"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "While Francophones live across Canada, the vast majority live in Quebec. Tip: Quebec is the heart of French Canada."
   },
   {
     "id": 156,
@@ -1713,7 +1867,8 @@
       "Dr. Emily Stowe",
       "Madeleine Parent"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Dr. Emily Stowe, the first Canadian woman to practice medicine, founded the movement. Tip: Stowe started the Suffrage."
   },
   {
     "id": 157,
@@ -1724,7 +1879,8 @@
       "Promise to obey the Constitution of Canada",
       "Pledge loyalty to the Queen or King, observe the laws, and fulfill the duties of a Canadian"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Oath involves pledging allegiance to the Sovereign, observing laws, and fulfilling duties. Tip: Loyalty, Laws, Duties."
   },
   {
     "id": 158,
@@ -1735,7 +1891,8 @@
       "Permitted Catholics to hold public office",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Act accommodated French sensibilities by allowing religious freedom and the use of French civil law. Tip: Tolerance in 1774."
   },
   {
     "id": 159,
@@ -1746,7 +1903,8 @@
       "The Prairies",
       "The Maritimes"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "In the height of summer in the North, daylight can last up to 24 hours. Tip: North = Midnight Sun."
   },
   {
     "id": 160,
@@ -1757,7 +1915,8 @@
       "To generate electricity",
       "To hold the nuclear button"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The party with the most seats (elected representatives) in the House of Commons forms the government. Tip: Most seats wins."
   },
   {
     "id": 161,
@@ -1768,7 +1927,8 @@
       "Ontario and Quebec",
       "Alberta and Ontario"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Central Canada (Ontario and Quebec) is the industrial engine of the country. Tip: The center makes the goods."
   },
   {
     "id": 162,
@@ -1779,7 +1939,8 @@
       "Keeping your property well-maintained",
       "Volunteering"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Volunteering is an excellent way to give back and is a core value of Canadian citizenship. Tip: Helping others without pay."
   },
   {
     "id": 163,
@@ -1790,7 +1951,8 @@
       "Muslim",
       "Hindu"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Historically and statistically, the majority of Canadians identify as Christian (Catholic or Protestant). Tip: Canada has a strong Christian heritage."
   },
   {
     "id": 164,
@@ -1801,7 +1963,8 @@
       "Ontario",
       "Alberta"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Alberta is famous for the Oil Sands and is the energy province. Tip: Alberta = Energy."
   },
   {
     "id": 165,
@@ -1812,7 +1975,8 @@
       "Nova Scotia",
       "Prince Edward Island"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Newfoundland Standard Time is unique (30 minutes ahead of Atlantic time). Tip: The sun rises there first."
   },
   {
     "id": 166,
@@ -1823,7 +1987,8 @@
       "Secret ballot",
       "Open ballot"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "By law, no one can watch you vote or ask how you voted. Tip: Your vote is your secret."
   },
   {
     "id": 167,
@@ -1834,7 +1999,8 @@
       "Nova Scotia",
       "Alberta"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Ontario has more than 1/3 of Canada's total population. Tip: Big O = Big Population."
   },
   {
     "id": 168,
@@ -1845,7 +2011,8 @@
       "A black tie",
       "A white shirt"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The red poppy symbolizes the flowers that grew on the battlefields of Flanders. Tip: Wear it on the left (over the heart)."
   },
   {
     "id": 169,
@@ -1856,7 +2023,8 @@
       "Canadian Public Road",
       "Canadian People Resource"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Canadian Pacific Railway connected the country from sea to sea in 1885. Tip: The 'Pacific' connection."
   },
   {
     "id": 170,
@@ -1867,7 +2035,8 @@
       "5 years",
       "6 years"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Lieutenant Governors (provincial representatives of the King) serve for approximately 5 years. Tip: Same term length as the Governor General."
   },
   {
     "id": 171,
@@ -1878,7 +2047,8 @@
       "Canadian festivals",
       "English culture"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Multiculturalism means Canadians celebrate their varied backgrounds while living together. Tip: A mosaic, not a melting pot."
   },
   {
     "id": 172,
@@ -1889,7 +2059,8 @@
       "The 1st Monday of September",
       "The first Monday of July"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Canadian Thanksgiving is earlier than the US version because harvest comes earlier in the north. Tip: October Harvest."
   },
   {
     "id": 173,
@@ -1900,7 +2071,8 @@
       "The National Flag",
       "The Snowbirds"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Crown symbolizes the government, the courts, police, and the armed forces. Tip: The Crown = The State."
   },
   {
     "id": 174,
@@ -1911,7 +2083,8 @@
       "The Suffrage Movement",
       "The Industrial Revolution"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Quiet Revolution was a time of rapid social/political change and secularization in Quebec. Tip: 'Quiet' because it was peaceful but powerful."
   },
   {
     "id": 175,
@@ -1922,7 +2095,8 @@
       "Sir Sandford Fleming",
       "Alexander Graham Bell"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Sir Sandford Fleming proposed standard time to help railways run on schedule. Tip: Fleming fixed the clock."
   },
   {
     "id": 176,
@@ -1933,7 +2107,8 @@
       "Europe",
       "Australia"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "It is believed they crossed the Bering Strait land bridge from Asia thousands of years ago. Tip: From Asia to Arctic."
   },
   {
     "id": 177,
@@ -1944,7 +2119,8 @@
       "Garbage removal",
       "Highways"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Municipalities handle local needs: garbage, snow removal, water, and sidewalks. Tip: If it's outside your house, it's municipal."
   },
   {
     "id": 178,
@@ -1955,7 +2131,8 @@
       "The commissioner",
       "The governor general"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Premier is the head of government for a Province, just as the Prime Minister is for the country. Tip: Premier = Province."
   },
   {
     "id": 179,
@@ -1966,7 +2143,8 @@
       "The Arctic Ocean to the north",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Canada is known as the land 'from sea to sea to sea' (Atlantic, Pacific, Arctic). Tip: Three oceans."
   },
   {
     "id": 180,
@@ -1977,7 +2155,8 @@
       "The premier",
       "The commissioner"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Sovereign is Head of State; the Prime Minister is Head of Government. Tip: The PM runs the government."
   },
   {
     "id": 181,
@@ -1988,7 +2167,8 @@
       "Ballot paper",
       "None of these"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "You need proof of identity and address. The voter card helps but isn't strictly mandatory if you have other ID. Tip: ID + Address."
   },
   {
     "id": 182,
@@ -1999,7 +2179,8 @@
       "France",
       "USA"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Migration patterns shifted from Europe to Asia (e.g., China, India, Philippines) in recent decades. Tip: Asia is the new primary source."
   },
   {
     "id": 183,
@@ -2010,7 +2191,8 @@
       "Fur trade",
       "Fish trade"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Hudson's Bay Company and others fought for control of the fur trade (beaver pelts). Tip: Fur came First."
   },
   {
     "id": 184,
@@ -2021,7 +2203,8 @@
       "200,000",
       "70,000"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "60,000 Canadians died and 170,000 were wounded. Tip: 60k is the number for WWI."
   },
   {
     "id": 185,
@@ -2032,7 +2215,8 @@
       "2",
       "1,222"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "96 Canadians have received this highest honor since 1854. Tip: Just under 100 heroes."
   },
   {
     "id": 186,
@@ -2043,7 +2227,8 @@
       "The Netherlands",
       "Japan"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada played a key role in liberating the Netherlands (Holland). Tip: The Dutch royal family sought refuge in Ottawa."
   },
   {
     "id": 187,
@@ -2054,7 +2239,8 @@
       "Sir John Alexander Macdonald",
       "Sir Sandford Fleming"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Dr. Penfield was a pioneering brain surgeon. (Note: He passed away in 1976, but was often cited in older citizenship materials as 'Greatest Living'). Tip: Penfield = Brains."
   },
   {
     "id": 188,
@@ -2065,7 +2251,8 @@
       "Nova Scotia",
       "Alberta"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Manitoba has a very high proportion/concentration of Indigenous people compared to other provinces. Tip: Manitoba/Saskatchewan are key hubs."
   },
   {
     "id": 189,
@@ -2076,7 +2263,8 @@
       "About 11 million km\u00b2",
       "About 9 million km\u00b2"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Canada is approx 10 million square km, making it the 2nd largest country in the world. Tip: 10 Million."
   },
   {
     "id": 190,
@@ -2087,7 +2275,8 @@
       "Halifax",
       "Quebec"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Halifax (Nova Scotia) is a massive ice-free port and naval base on the Atlantic. Tip: Halifax = Atlantic Gateway."
   },
   {
     "id": 191,
@@ -2098,7 +2287,8 @@
       "Sir John Alexander Macdonald",
       "Rick Hansen"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Sir Arthur Currie commanded the Canadian Corps in WWI and is celebrated for his success at Vimy Ridge. Tip: Currie = Corps Commander."
   },
   {
     "id": 192,
@@ -2109,7 +2299,8 @@
       "Pacific, Indian, and Atlantic",
       "Atlantic, Arctic, and Pacific"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Canada is bordered by the Atlantic (East), Pacific (West), and Arctic (North). Tip: The three big oceans."
   },
   {
     "id": 193,
@@ -2120,7 +2311,8 @@
       "The Responsibilities Act",
       "The Constitution Act"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Constitution Act, 1867 (BNA Act) defines who does what (Sections 91 and 92). Tip: The Constitution is the rulebook."
   },
   {
     "id": 194,
@@ -2131,18 +2323,20 @@
       "A Trial Court",
       "A Provincial Court"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Small Claims Courts handle civil disputes involving smaller amounts of money. Tip: Small money = Small claims."
   },
   {
     "id": 195,
     "question": "What is a voter information card?",
     "options": [
-      "A list that tells you who the candidates are in your electoral district",
+      "A list that tells you who the candidates are in your election district",
       "A letter that lets you know the voting schedule",
       "A form that tells you where and when to vote",
       "A card to let you register for voting"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Mailed to you by Elections Canada, it tells you exactly where and when to cast your vote. Tip: It's your voting invitation."
   },
   {
     "id": 196,
@@ -2153,7 +2347,8 @@
       "A tax imposed on beer beginning in 1867",
       "Fee charged for moving westward in the early 1900s"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "It was a discriminatory tax imposed on Chinese immigrants from 1885 to 1923. Tip: Canada apologized for this in 2006."
   },
   {
     "id": 197,
@@ -2164,7 +2359,8 @@
       "Highways, Policing, International Trade, and Criminal Justice",
       "Education, Foreign Policy, Recycling Programs, and Aboriginal Affairs"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Federal government handles 'big picture' items: Defense, Foreign Policy, and Trade. Tip: Healthcare and Education are provincial."
   },
   {
     "id": 198,
@@ -2175,7 +2371,8 @@
       "Everyone is innocent until proven guilty",
       "The judge can determine who is guilty without evidence"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The state must prove guilt beyond a reasonable doubt. You don't have to prove your innocence. Tip: Innocent until proven guilty."
   },
   {
     "id": 199,
@@ -2186,7 +2383,8 @@
       "A list of people who voted for the opposition party in the previous election",
       "A list of people who are not allowed to vote"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "This is the national database of eligible voters (Citizens 18+). Tip: The 'Who Can Vote' list."
   },
   {
     "id": 200,
@@ -2197,7 +2395,8 @@
       "The courts enforce laws and the police settle disputes",
       "The courts settle disputes and the police enforce the laws"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Police enforce the laws; Courts interpret the law and settle disputes. Tip: Police catch, Courts decide."
   },
   {
     "id": 201,
@@ -2208,7 +2407,8 @@
       "Canada wishes to remain independent of the United States",
       "To prevent war between the two countries"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The border defines Canada as a distinct, independent nation, separate from the USA. Tip: We are neighbors, but separate families."
   },
   {
     "id": 202,
@@ -2219,7 +2419,8 @@
       "The Provincial Court",
       "The Small Claims Court"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "In many provinces, the superior trial court is called the Court of King's (or Queen's) Bench. Tip: Named after the Monarch's seat of justice."
   },
   {
     "id": 203,
@@ -2230,7 +2431,8 @@
       "19",
       "21"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "You must be at least 18 years old on election day to vote. Tip: 18 is the age of majority for voting."
   },
   {
     "id": 204,
@@ -2241,7 +2443,8 @@
       "6 years",
       "7 years"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Governor General is appointed typically for a term of approximately 5 years. Tip: Five years is the standard term."
   },
   {
     "id": 205,
@@ -2252,7 +2455,8 @@
       "Inequality of men and women",
       "Equality of men"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "After WWII, social values shifted towards greater equality between men and women. Tip: The modern era brought equal rights."
   },
   {
     "id": 206,
@@ -2263,7 +2467,8 @@
       "Aboriginal people's rights, voting rights, and official language rights",
       "Employment rights, mobility rights, and freedom rights"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Key Charter rights include Mobility (move anywhere), Official Languages (French/English), and Aboriginal rights. Tip: Move, Speak, Indigenous."
   },
   {
     "id": 207,
@@ -2274,7 +2479,8 @@
       "French, American, and Indian",
       "British, American, and Aboriginal"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Canada was formed by the partnership of Aboriginal peoples, the French, and the British. Tip: The First People + The Two Colonizers."
   },
   {
     "id": 208,
@@ -2285,7 +2491,8 @@
       "Labrador Sea",
       "Arctic"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Newfoundland is located in the Atlantic Ocean on the east coast. Tip: It is the most easterly part of North America."
   },
   {
     "id": 209,
@@ -2296,7 +2503,8 @@
       "Canada participated in the UN operation defending South Korea in the Korean War",
       "Canadians volunteered to fight in the South African war"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada sent troops to the Korean War as part of a UN force to defend South Korea. Tip: The 'Forgotten War' in the 50s."
   },
   {
     "id": 210,
@@ -2307,7 +2515,8 @@
       "British colonists who began settling in what are now the Maritime Provinces in 1604",
       "French colonists who began settling in what are now the Maritime Provinces in 1604"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Acadians are descendants of the first French settlers in the Maritimes (1604). Tip: French roots in the East."
   },
   {
     "id": 211,
@@ -2318,7 +2527,8 @@
       "Canadian citizens",
       "Job seekers"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Mobility rights in the Charter guarantee citizens the right to enter, remain in, and leave Canada. Tip: Only citizens have the absolute right."
   },
   {
     "id": 212,
@@ -2329,7 +2539,8 @@
       "It results in the forcible relocation of Canadians of Japanese origin",
       "It led to the establishment of the Juno Awards"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "On D-Day, Canadians stormed Juno Beach, helping to liberate Europe from Nazi Germany. Tip: D-Day = Defeat of Nazism."
   },
   {
     "id": 213,
@@ -2340,7 +2551,8 @@
       "To be like anyone else in Canada",
       "To be the same as anywhere in the world"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "It means everyone is entitled to equal protection and benefit of the law without discrimination. Tip: Justice is blind to differences."
   },
   {
     "id": 214,
@@ -2351,7 +2563,8 @@
       "Being able to live and fish anywhere in Canada",
       "Being able to play hockey anywhere in Canada"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Mobility rights allow citizens and permanent residents to move to and work in any province. Tip: Mobile = Move."
   },
   {
     "id": 215,
@@ -2362,7 +2575,8 @@
       "Fruit orchards",
       "Sunrise and sunset"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Located in BC, the Okanagan Valley is famous for its warm climate, fruit orchards, and wineries. Tip: Okanagan = Orchards."
   },
   {
     "id": 216,
@@ -2373,7 +2587,8 @@
       "By the 1550s",
       "By the 1650s"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "After Jacques Cartier heard the word 'Kanata', the name 'Canada' started appearing on maps by the 1550s. Tip: Very early—mid-16th century."
   },
   {
     "id": 217,
@@ -2384,7 +2599,8 @@
       "The party in power holds at least half of the seats in the House of Commons",
       "The party in power holds at least half of the seats in the Senate"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "If the winning party has fewer than 50% of the seats, they need help from other parties to pass laws. Tip: Minority = Less than half."
   },
   {
     "id": 218,
@@ -2395,7 +2611,8 @@
       "Between Ontario and the United States",
       "Northern Quebec"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Great Lakes form the southern border between Ontario and the USA. Tip: Shared waters."
   },
   {
     "id": 219,
@@ -2406,7 +2623,8 @@
       "The sovereign is head of state. The prime minister oversees provincial policies",
       "The sovereign is the guardian of constitutional freedoms. The prime minister selects the cabinet ministers and is responsible for operations and policy of government"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Sovereign = Head of State (symbolic/guardian). Prime Minister = Head of Government (policy/operations). Tip: King reigns, PM rules."
   },
   {
     "id": 220,
@@ -2417,7 +2635,8 @@
       "To honor prime ministers who have died",
       "To celebrate Confederation"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The red poppy is worn to honor the sacrifices of veterans and those who died in service. Tip: Remember the fallen."
   },
   {
     "id": 221,
@@ -2428,7 +2647,8 @@
       "Sick and physically disabled",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Advance polls are open to everyone, including those who are busy, traveling, sick, or elderly. Tip: Any reason is a valid reason."
   },
   {
     "id": 222,
@@ -2439,7 +2659,8 @@
       "The members of the provincial parliament",
       "The Lieutenant Governor"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Lieutenant Governor gives 'Royal Assent' to provincial laws. Tip: The King's provincial rep signs the law."
   },
   {
     "id": 223,
@@ -2450,7 +2671,8 @@
       "Member of the Provincial Parliament",
       "Member of the provincial publication"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "MPP stands for Member of Provincial Parliament (used in Ontario). Tip: Provincial Parliament."
   },
   {
     "id": 224,
@@ -2461,7 +2683,8 @@
       "Appointed by the governor general on the advice of the prime minister",
       "Appointed by the king"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Senators are appointed, not elected. The PM picks them, and the GG makes it official. Tip: Appointed Upper House."
   },
   {
     "id": 225,
@@ -2472,7 +2695,8 @@
       "Pierre Elliott Trudeau",
       "Sir John Macdonald"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Sir John A. Macdonald was the primary architect of Confederation and the first PM. Tip: He is on the $10 bill (historically) and celebrated on Jan 11."
   },
   {
     "id": 226,
@@ -2483,7 +2707,8 @@
       "The beaver",
       "The snowbird"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The beaver was the center of the fur trade that built the economy. Tip: The industrious beaver."
   },
   {
     "id": 227,
@@ -2494,7 +2719,8 @@
       "A sticker",
       "A thumbprint"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "You mark a simple 'X' in the circle beside the name of the candidate. Tip: X marks the spot."
   },
   {
     "id": 228,
@@ -2505,7 +2731,8 @@
       "Our judicial system is founded on the presumption of innocence in criminal matters",
       "None of these"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The blindfold means justice is impartial and objective, ignoring status or wealth. Tip: Justice is blind."
   },
   {
     "id": 229,
@@ -2516,7 +2743,8 @@
       "1780s",
       "1890s"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Klondike Gold Rush began in 1896. Tip: The 'Gay 90s' Gold Rush."
   },
   {
     "id": 230,
@@ -2527,7 +2755,8 @@
       "22nd of November",
       "2nd of November"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "November 20 is Sir Wilfrid Laurier Day, honoring the first French-Canadian PM. Tip: Late November."
   },
   {
     "id": 231,
@@ -2538,7 +2767,8 @@
       "It helped the treatment of heart diseases",
       "It was an important medicine to save soldiers' lives during World War II"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Discovered by Banting and Best in 1921, it turned a fatal disease (diabetes) into a manageable one. Tip: A medical miracle for millions."
   },
   {
     "id": 232,
@@ -2549,7 +2779,8 @@
       "Defense and health",
       "Natural resources"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Both levels of government care about farming (Agriculture) and newcomers (Immigration). Tip: Shared Responsibilities."
   },
   {
     "id": 233,
@@ -2560,7 +2791,8 @@
       "Sir",
       "Lieutenant Governor"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "In the territories, the federal government appoints a Commissioner (similar to a Lt. Gov). Tip: Territories get Commissioners."
   },
   {
     "id": 234,
@@ -2571,7 +2803,8 @@
       "Nova Scotia, Newfoundland, New Brunswick, and Prince Edward Island",
       "New Brunswick, Nova Scotia, Ontario, and Quebec"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The 4 Atlantic provinces are NB, NS, PEI, and Newfoundland and Labrador. Tip: East of Quebec."
   },
   {
     "id": 235,
@@ -2582,7 +2815,8 @@
       "It was an important victory in the Boer War",
       "Out of it was formed the Canadian Corps"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "In 1917, all four divisions of the Canadian Corps fought together for the first time and won. Tip: The 'Birth of the Nation'."
   },
   {
     "id": 236,
@@ -2593,7 +2827,8 @@
       "From the Inuit word meaning home",
       "From the First Nations word meaning land"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "'Kanata' is the Huron-Iroquois word for 'village' or 'settlement'. Tip: Kanata = Village."
   },
   {
     "id": 237,
@@ -2604,7 +2839,8 @@
       "Oil, tourism, and manufacturing",
       "Fishery, tourism, and services"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The economy is built on: Service (75%), Manufacturing, and Natural Resources. Tip: The Big Three Sectors."
   },
   {
     "id": 238,
@@ -2615,7 +2851,8 @@
       "Michigan",
       "United States of America"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The USA is Canada's only land neighbor to the South (and Northwest). Tip: Our southern neighbor."
   },
   {
     "id": 239,
@@ -2626,7 +2863,8 @@
       "Saskatchewan, Alberta, and Manitoba",
       "Saskatchewan and Alberta"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The flat, fertile provinces in the middle: Alberta, Saskatchewan, and Manitoba. Tip: ALSAMA (AL-SA-MA)."
   },
   {
     "id": 240,
@@ -2637,18 +2875,20 @@
       "In the Parliament of Canada",
       "At the city hall"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Constitution guarantees equal status in Parliament and federal courts. Tip: The heart of the Federal Government is bilingual."
   },
   {
     "id": 241,
     "question": "What is a majority government?",
     "options": [
-      "The party in power holds at least half of the seats in the House of Commons and the Senate",
+      "The party in power holds at least half of the seats in the House of Commons",
       "The party in power holds at least half of the seats in the House of Commons",
       "The party in power holds less than half of the seats in the House of Commons",
       "The party in power holds at least half of the seats in the Senate"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "If a party wins more than 50% of the seats (170+ out of 338), they have a majority. Tip: 50% + 1 = Control."
   },
   {
     "id": 242,
@@ -2659,7 +2899,8 @@
       "Canada and United States of America",
       "France, Great Britain, and United States of America"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "It was a conflict between the USA and the British Empire (which included Canada). Tip: US vs UK (in Canada)."
   },
   {
     "id": 243,
@@ -2670,7 +2911,8 @@
       "Working for the government at least 18 years old and Canadian citizen",
       "Canadian citizen at least 16 years old and on the list of voters"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Citizen + 18 years old + On the list. Tip: The golden rules of voting."
   },
   {
     "id": 244,
@@ -2681,7 +2923,8 @@
       "Newfoundland and British Columbia",
       "Prince Edward Island and Ontario"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Nova Scotia and New Brunswick are on the Atlantic. (Note: NFLD and PEI are too, but NS/NB is the correct option pair). Tip: Maritime provinces."
   },
   {
     "id": 245,
@@ -2692,7 +2935,8 @@
       "Nine provinces and two territories",
       "10 provinces and three territories"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "10 Provinces (South) + 3 Territories (North). Tip: 10 + 3 = 13."
   },
   {
     "id": 246,
@@ -2703,7 +2947,8 @@
       "The schools were welcomed by the Aboriginal people",
       "Aboriginal language and cultural practices were mostly prohibited"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "They were NOT welcomed. Children were forcibly removed from families to erase their culture. Tip: A dark chapter of history."
   },
   {
     "id": 247,
@@ -2714,7 +2959,8 @@
       "Provincial and territorial governments",
       "Federal government"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Band Chiefs and Councilors act as the local government for First Nations reserves. Tip: Local Indigenous leadership."
   },
   {
     "id": 248,
@@ -2725,7 +2971,8 @@
       "Fishery",
       "Fur"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The HBC controlled the Fur Trade (specifically beaver pelts) across vast areas of Canada. Tip: Fur = HBC."
   },
   {
     "id": 249,
@@ -2736,7 +2983,8 @@
       "Any adult applicants who are 55 years of age and over",
       "No one"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Applicants 55+ (and under 18) do not need to take the language or knowledge test. Tip: Seniors get an exemption."
   },
   {
     "id": 250,
@@ -2747,7 +2995,8 @@
       "Chief Tecumseh",
       "Major General Robert Ross"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Tecumseh was a Shawnee Chief who allied with the British to defend against the Americans. Tip: A hero of 1812."
   },
   {
     "id": 251,
@@ -2758,7 +3007,8 @@
       "National defense, health care, and transportation",
       "Social and community health, snow removal, and transportation"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Municipalities handle local services like snow removal, garbage collection, and public transit. Tip: Local needs = Local government."
   },
   {
     "id": 252,
@@ -2769,7 +3019,8 @@
       "White with a red border on each end and a red maple leaf in the center",
       "Red and white with provincial emblems"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "It consists of a white square containing a red maple leaf, with red bars on both sides. Tip: Red-White-Red."
   },
   {
     "id": 253,
@@ -2780,7 +3031,8 @@
       "The combination of neighborhoods to build a larger community",
       "The merger of colonies to form a province"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Confederation (1867) was the political process where British North American colonies joined to form the Dominion of Canada. Tip: Coming together."
   },
   {
     "id": 254,
@@ -2791,7 +3043,8 @@
       "1950",
       "1632"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Indigenous people were granted the unrestricted right to vote in federal elections in 1960. Tip: 1960 = Full Franchise."
   },
   {
     "id": 255,
@@ -2802,7 +3055,8 @@
       "1920s",
       "1860s"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "This was the era of the 'Wheat Boom' and massive immigration to the West. Tip: The turn of the century boom."
   },
   {
     "id": 256,
@@ -2813,7 +3067,8 @@
       "The Queen or King, the House of Commons, and the Senate",
       "The House of Commons, the Legislative Assembly, and the Senate"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Parliament consists of the Sovereign (King), the Senate (Upper House), and the House of Commons (Lower House). Tip: King, Senate, Commons."
   },
   {
     "id": 257,
@@ -2824,7 +3079,8 @@
       "Michigan and Okanagan",
       "Huron and Erie"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Huron and Erie are both Great Lakes. (Okanagan is a valley/lake in BC; St. Lawrence is a river). Tip: Remember HOMES."
   },
   {
     "id": 258,
@@ -2835,7 +3091,8 @@
       "The election law",
       "The women's suffrage movement"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The movement to gain the vote was called the Suffrage Movement. Tip: Suffrage = The Right to Vote."
   },
   {
     "id": 259,
@@ -2846,7 +3103,8 @@
       "Plan for the celebration of Canada Day",
       "Work with the local governments"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Parties are groups of people who share similar ideas about policy and how to govern. Tip: Shared ideas."
   },
   {
     "id": 260,
@@ -2857,7 +3115,8 @@
       "First Nations and British settlers",
       "Settlers from the United States during the American Revolution"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "They were Americans loyal to the British Crown who fled north during the US Revolution (1776). Tip: Loyal to the King."
   },
   {
     "id": 261,
@@ -2868,7 +3127,8 @@
       "Only the candidate you vote for can watch your marked ballot",
       "No one can watch you vote or look at your marked ballot"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Privacy is guaranteed. You vote behind a screen and fold your ballot. Tip: It's your secret."
   },
   {
     "id": 262,
@@ -2879,7 +3139,8 @@
       "Ontario",
       "Quebec"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Quebec produces vast amounts of 'Hydro' thanks to its many rivers. Tip: In Quebec, electricity is often called 'Hydro'."
   },
   {
     "id": 263,
@@ -2890,7 +3151,8 @@
       "Northwest Territories",
       "Yukon Territory"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Yukon borders the US state of Alaska. Tip: Yukon is next to Alaska."
   },
   {
     "id": 264,
@@ -2901,7 +3163,8 @@
       "Ontario, Nova Scotia, New Brunswick, and British Columbia",
       "Ontario, Quebec, Manitoba, and Nova Scotia"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "In 1867, Ontario, Quebec, Nova Scotia, and New Brunswick united. Tip: The original four."
   },
   {
     "id": 265,
@@ -2912,7 +3175,8 @@
       "Late 1800s",
       "Early 1700s"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The 'Last Spike' was driven in 1885. Tip: Late 19th century (1800s)."
   },
   {
     "id": 266,
@@ -2923,7 +3187,8 @@
       "Canadian citizens and landed immigrants",
       "A Canadian citizen who is 16 years or older"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Any Canadian citizen aged 18+ can run for office. Tip: Same requirements as voting."
   },
   {
     "id": 267,
@@ -2934,7 +3199,8 @@
       "Only their conduct, not their function",
       "If you consider this measure necessary (Note: The actual phrase is \"if you feel you have been treated unfairly\", answer D is closest in this context or implies the right exists)"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Police are not above the law. You can complain to review boards if you feel treated unfairly. Tip: Police are accountable."
   },
   {
     "id": 268,
@@ -2945,7 +3211,8 @@
       "Must be signed by the Queen or King",
       "Must be approved by the members of the Parliament"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Pass House -> Pass Senate -> Royal Assent (GG). Tip: Three steps to law."
   },
   {
     "id": 269,
@@ -2956,7 +3223,8 @@
       "Descendants of the Anglophones",
       "People of Quebec"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Quebecers are the people of Quebec. Parliament recognized them as a 'nation within a united Canada' in 2006. Tip: The residents of Quebec."
   },
   {
     "id": 270,
@@ -2967,7 +3235,8 @@
       "Because of the equality of women and men in Canada",
       "Because she has a university degree"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "In Canada, men and women are equal under the law. Tip: Gender equality is a Canadian value."
   },
   {
     "id": 271,
@@ -2978,7 +3247,8 @@
       "Because many people of Asian origin live there",
       "Because it attracts many tourists all year round"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Port of Vancouver handles massive trade with Asia (China, Japan, etc.). Tip: Gateway to Asian trade."
   },
   {
     "id": 272,
@@ -2989,7 +3259,8 @@
       "1425",
       "1615"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Great Charter was signed in 1215 in England. Tip: It started the timeline of freedoms."
   },
   {
     "id": 273,
@@ -3000,7 +3271,8 @@
       "Freedom of conscience and religion",
       "Freedom from taxes"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "It includes Freedom of Conscience and Religion (also found in the Charter). Tip: Freedom to believe (or not)."
   },
   {
     "id": 274,
@@ -3011,7 +3283,8 @@
       "The right to speak freely",
       "The right to challenge unlawful detention by the state"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Habeas Corpus (Latin for 'produce the body') means the state cannot hold you in jail without a legal reason. Tip: No unlawful imprisonment."
   },
   {
     "id": 275,
@@ -3022,7 +3295,8 @@
       "Sir Sandford Fleming",
       "Matthew Evans and Henry Woodward"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Quebec inventor Joseph-Armand Bombardier invented the snowmobile. Tip: Bombardier = Snowmobile/Planes/Trains."
   },
   {
     "id": 276,
@@ -3033,7 +3307,8 @@
       "Politicians",
       "No one"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Under the Rule of Law, no one is exempt. Even the King or PM must obey the law. Tip: Everyone is equal under the law."
   },
   {
     "id": 277,
@@ -3044,7 +3319,8 @@
       "Executive, Police, and Judicial",
       "Executive, Legislative, and Judicial"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Executive (Decides), Legislative (Makes Laws), Judicial (Interprets Laws). Tip: The three arms of governance."
   },
   {
     "id": 278,
@@ -3055,7 +3331,8 @@
       "Freedom of thought, belief, opinion, and expression",
       "To guarantee the due legal process under the law"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Presumption of innocence is a core element of due process. The state has the burden of proof. Tip: Fair trial protection."
   },
   {
     "id": 279,
@@ -3066,7 +3343,8 @@
       "The King",
       "The Prime Minister"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Prime Minister (and Cabinet) runs the day-to-day operations of the country. Tip: The PM is the 'Manager'."
   },
   {
     "id": 280,
@@ -3077,7 +3355,8 @@
       "RCMP",
       "Canada is a constitutional monarchy"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Crown is the symbol of the Monarchy, the State, and the rule of law. Tip: Crown = King/Queen = Monarchy."
   },
   {
     "id": 281,
@@ -3088,7 +3367,8 @@
       "Best innovation of the year",
       "A Canadian showing conspicuous bravery or self-sacrifice"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The VC is the highest military honor for bravery in the face of the enemy. Tip: Bravery."
   },
   {
     "id": 282,
@@ -3099,7 +3379,8 @@
       "The Member of Parliament",
       "The Senator"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "We vote for an MP for our local riding. The MPs then form the government. We do not vote directly for the PM. Tip: You vote for your MP."
   },
   {
     "id": 283,
@@ -3110,7 +3391,8 @@
       "Rule of law",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Our system inherits English Common Law and French Civil Law traditions protecting freedom and due process. Tip: All these protect your rights."
   },
   {
     "id": 284,
@@ -3121,7 +3403,8 @@
       "Montreal",
       "Calgary"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Toronto (Ontario) is the biggest city and home to the main stock exchange. Tip: Toronto is the financial hub."
   },
   {
     "id": 285,
@@ -3132,7 +3415,8 @@
       "National defense and highways",
       "Education and healthcare"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Schools (Education) and Hospitals (Healthcare) are the biggest provincial responsibilities. Tip: Schools and Hospitals."
   },
   {
     "id": 286,
@@ -3143,7 +3427,8 @@
       "In scattered communities across the Arctic",
       "Prairie provinces"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Inuit live in the northern regions (Nunavut, NWT, Northern Quebec, Labrador). Tip: Arctic communities."
   },
   {
     "id": 287,
@@ -3154,7 +3439,8 @@
       "Mike Lazaridis",
       "Matthew Evans"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Reginald Fessenden was a pioneer of radio. Tip: Fessenden = Frequency (Radio)."
   },
   {
     "id": 288,
@@ -3165,7 +3451,8 @@
       "London",
       "Paris"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Canadians were assigned Juno Beach during the Normandy invasion. Tip: J for Juno."
   },
   {
     "id": 289,
@@ -3176,7 +3463,8 @@
       "Germans",
       "Americans"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "James Naismith, a Canadian, invented basketball in 1891 (though he was in the US at the time). Tip: Naismith was Canadian."
   },
   {
     "id": 290,
@@ -3187,7 +3475,8 @@
       "Fathers of Canada",
       "Fathers of Constitution"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The politicians who negotiated the BNA Act (1864-1867) are the Fathers of Confederation. Tip: The Founding Fathers."
   },
   {
     "id": 291,
@@ -3198,7 +3487,8 @@
       "Citizenship and maintaining highways",
       "Healthcare and education"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Feds handle the Army (Defense) and relations with other countries (Foreign Policy). Tip: International and National security."
   },
   {
     "id": 292,
@@ -3209,7 +3499,8 @@
       "1807",
       "1833"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The slave *trade* was abolished in 1807. Slavery itself was abolished throughout the Empire in 1833. Tip: 1807 stopped the trade."
   },
   {
     "id": 293,
@@ -3220,7 +3511,8 @@
       "Sir George-\u00c9tienne Cartier",
       "Sir Leonard Tilley"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Sir Wilfrid Laurier (PM 1896-1911) was the first Francophone PM. Tip: Laurier is on the $5 bill."
   },
   {
     "id": 294,
@@ -3231,7 +3523,8 @@
       "The Supreme Court",
       "The federal court"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Supreme Court of Canada is the final court of appeal. Tip: Supreme means highest."
   },
   {
     "id": 295,
@@ -3242,7 +3535,8 @@
       "The lieutenant governor",
       "A member of parliament"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "An MP (Member of Parliament) represents one district (riding). Tip: One Riding = One MP."
   },
   {
     "id": 296,
@@ -3253,7 +3547,8 @@
       "Telephone",
       "Internet"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Bell invented the telephone in Brantford, Ontario (and Boston). Tip: Bell = Telephone."
   },
   {
     "id": 297,
@@ -3264,7 +3559,8 @@
       "Curling",
       "Basketball"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Soccer has the highest participation rates among children and adults. Tip: More people play Soccer than Hockey."
   },
   {
     "id": 298,
@@ -3275,7 +3571,8 @@
       "Thanksgiving Day",
       "Boxing Day"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "April 9 commemorates the Battle of Vimy Ridge (1917). Tip: Vimy Victory."
   },
   {
     "id": 299,
@@ -3286,7 +3583,8 @@
       "1940",
       "1965"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Unemployment Insurance (now EI) was introduced in 1940. Tip: Wartime social safety net."
   },
   {
     "id": 300,
@@ -3297,7 +3595,8 @@
       "States where you vote",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "It tells you: You are registered, Where to go, and When to go. Tip: The complete guide for voting day."
   },
   {
     "id": 301,
@@ -3308,7 +3607,8 @@
       "The snowbirds",
       "The arms"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Snowbirds are the Royal Canadian Air Force's famous aerobatics flight demonstration team. Tip: They fly in formation with red and white jets."
   },
   {
     "id": 302,
@@ -3319,7 +3619,8 @@
       "The impartial manner in which the laws are administered",
       "None of these"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Due process is the principle that the government must respect all legal rights owed to a person. Tip: Fair treatment through the judicial system."
   },
   {
     "id": 303,
@@ -3330,7 +3631,8 @@
       "Members of Parliament",
       "The police"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Lawyers are trained to interpret the law and represent you in court. Tip: You have the right to a lawyer."
   },
   {
     "id": 304,
@@ -3341,7 +3643,8 @@
       "Geopolitical entities",
       "The Canadian Constitution"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "In Canada, loyalty is pledged to the Sovereign (King or Queen), who embodies the country. Tip: We pledge to the Person, not the Flag."
   },
   {
     "id": 305,
@@ -3352,7 +3655,8 @@
       "O Canada, our home and native land",
       "O Canada, we stand on guard for thee"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The anthem ends with the repetition of 'O Canada, we stand on guard for thee.' Tip: It's the final promise of protection."
   },
   {
     "id": 306,
@@ -3363,7 +3667,8 @@
       "Red maple leaves",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Coat of Arms features the three lions of England, the lion of Scotland, the harp of Ireland, and the fleur-de-lis of France. Tip: The four founding nations + Maple Leaves."
   },
   {
     "id": 307,
@@ -3374,7 +3679,8 @@
       "Members of the provincial parliament",
       "None of these"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Those elected to the federal House of Commons are MPs. Tip: MP = Member of Parliament."
   },
   {
     "id": 308,
@@ -3385,7 +3691,8 @@
       "British colonies",
       "Aboriginal peoples"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "They were settlers who fled the US Revolution because they remained loyal to the British King. Tip: Loyal to the Empire."
   },
   {
     "id": 309,
@@ -3396,7 +3703,8 @@
       "Provincial and territorial governments",
       "None of these"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Education is a provincial responsibility. Tip: Schools are run by the Province."
   },
   {
     "id": 310,
@@ -3407,7 +3715,8 @@
       "Late 18th and early 19th centuries",
       "Early 18th century"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Bank of Montreal was founded in 1817. Tip: Banking started around the War of 1812 era."
   },
   {
     "id": 311,
@@ -3418,7 +3727,8 @@
       "Sir Louis-Hippolyte La Fontaine",
       "Alec Baldwin"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "La Fontaine (along with Robert Baldwin) established the principle that the government must have the confidence of the legislature. Tip: La Fontaine led the way."
   },
   {
     "id": 312,
@@ -3429,7 +3739,8 @@
       "People who are learning French",
       "People speaking French as a secondary language"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "A Francophone is someone whose mother tongue is French. Tip: Franco = French."
   },
   {
     "id": 313,
@@ -3440,7 +3751,8 @@
       "Sir Louis-Hippolyte La Fontaine",
       "Sir George-\u00c9tienne Cartier"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "After the 1837 rebellions, Lord Durham wrote a report recommending the union of the Canadas. Tip: The Durham Report."
   },
   {
     "id": 314,
@@ -3451,7 +3763,8 @@
       "About 900,000",
       "About 500,000"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Out of a small population (11 million), over 1 million served. Tip: 1 in 10 Canadians served."
   },
   {
     "id": 315,
@@ -3462,7 +3775,8 @@
       "German as their first language",
       "English as their first language"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Quebec is the heart of French Canada, with the vast majority speaking French as their primary language. Tip: Quebec = French First."
   },
   {
     "id": 316,
@@ -3473,7 +3787,8 @@
       "The Military Police",
       "The Northwest Mounted Police"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The RCMP (Mounties) enforce federal laws across Canada. Tip: The Red Serge."
   },
   {
     "id": 317,
@@ -3484,7 +3799,8 @@
       "1791",
       "1867"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Constitutional Act of 1791 created two provinces: Upper Canada and Lower Canada. This was the first official use of 'Canada'. Tip: 1791 put Canada on the map."
   },
   {
     "id": 318,
@@ -3495,7 +3811,8 @@
       "13",
       "3"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "1. Federal, 2. Provincial/Territorial, 3. Municipal. Tip: The Rule of Three."
   },
   {
     "id": 319,
@@ -3506,7 +3823,8 @@
       "1818",
       "1918"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Women obtained the right to vote in federal elections in 1918 (end of WWI). Tip: 1918 = Women's Vote."
   },
   {
     "id": 320,
@@ -3517,7 +3835,8 @@
       "50 years",
       "200 years"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "From 1867 until around the 1980s (approx 100 years), 'Dominion' was commonly used. Tip: A century of Dominion."
   },
   {
     "id": 321,
@@ -3528,7 +3847,8 @@
       "10",
       "5"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "There are 9 judges (3 from Quebec). Tip: An odd number prevents a tie vote."
   },
   {
     "id": 322,
@@ -3539,7 +3859,8 @@
       "The first prime minister of Canada",
       "The father of Manitoba"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Sam Steele was a legendary Mountie who maintained order during the Gold Rush. Tip: Steele = Man of Steel (Mountie)."
   },
   {
     "id": 323,
@@ -3550,7 +3871,8 @@
       "Muslim",
       "Jewish"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Roman Catholicism is the single largest denomination, largely due to French and Irish heritage. Tip: Catholic."
   },
   {
     "id": 324,
@@ -3561,7 +3883,8 @@
       "La Fontaine",
       "Sir John Alexander Macdonald"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Sir Leonard Tilley of New Brunswick suggested it from Psalm 72. Tip: Tilley found the Title."
   },
   {
     "id": 325,
@@ -3572,7 +3895,8 @@
       "It was the largest navy in the world",
       "It was the second largest navy in the world"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "By 1945, Canada had a massive fleet protecting convoys, making it the 3rd largest. Tip: Only US and UK were bigger."
   },
   {
     "id": 326,
@@ -3583,7 +3907,8 @@
       "The BlackBerry",
       "The iPhone"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The BlackBerry revolutionized mobile communication. Tip: Made in Waterloo, Ontario."
   },
   {
     "id": 327,
@@ -3594,7 +3919,8 @@
       "American and Indian ancestry",
       "Inuit and Indian ancestry"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "M\u00e9tis means 'mixed'. They are descendants of First Nations women and European men (mostly French/Scottish traders). Tip: Two worlds combined."
   },
   {
     "id": 328,
@@ -3605,7 +3931,8 @@
       "Donovan Bailey",
       "John Cabot"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Donovan Bailey won the 100m sprint in Atlanta. Tip: Fastest man on earth (1996)."
   },
   {
     "id": 329,
@@ -3616,7 +3943,8 @@
       "North America",
       "Lower Canada"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Lt. Governor John Graves Simcoe passed the act in Upper Canada (Ontario) in 1793. Tip: Upper Canada = Freedom First."
   },
   {
     "id": 330,
@@ -3627,7 +3955,8 @@
       "The right to travel, to live anywhere, to work anywhere, and to get married",
       "The right to have a job, to vote, to drive, and to go to school"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "These are specific Charter/Citizenship rights: Language, Vote, Passport, Mobility. Tip: Look for 'Passport' and 'Vote'."
   },
   {
     "id": 331,
@@ -3638,7 +3967,8 @@
       "Alberta",
       "Ontario"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Confederation Bridge (12.9 km) connects PEI to New Brunswick. Tip: PEI is no longer just a ferry ride away."
   },
   {
     "id": 332,
@@ -3649,7 +3979,8 @@
       "Dr. John A. Hopps",
       "Alexander Graham Bell"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Dr. John Hopps invented the first external pacemaker. Tip: Hopps helped the Heart."
   },
   {
     "id": 333,
@@ -3660,7 +3991,8 @@
       "They make up one-third of all Canadians",
       "They make up half of all Canadians"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Ontario is the most populous province with over 1/3 of the population. Tip: 1 in 3 Canadians lives in Ontario."
   },
   {
     "id": 334,
@@ -3671,7 +4003,8 @@
       "An elections Canada official",
       "No one"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Your vote is secret. You never have to tell anyone. Tip: It's your business only."
   },
   {
     "id": 335,
@@ -3682,7 +4015,8 @@
       "Prince Edward Island",
       "Ontario"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Nova Scotia is known for the Cape Breton coal mines, lumber, and Annapolis Valley farms. Tip: NS = Coal and Apples."
   },
   {
     "id": 336,
@@ -3693,7 +4027,8 @@
       "French and Chinese",
       "First Nations and Inuits"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The First Nations and Inuit (and later M\u00e9tis) are the Indigenous peoples. Tip: They were here First."
   },
   {
     "id": 337,
@@ -3704,7 +4039,8 @@
       "Vote the next day after the election",
       "Vote a week later"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "You can vote at Advance Polls or by Special Ballot (mail) before election day. Tip: Vote Early."
   },
   {
     "id": 338,
@@ -3715,7 +4051,8 @@
       "O Canada, we stand on guard for thee",
       "O Canada, glorious and free"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "It begins with 'O Canada, our home and native land'. Tip: Start at the beginning."
   },
   {
     "id": 339,
@@ -3726,7 +4063,8 @@
       "Oh Canada",
       "Great Canada"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "'O Canada' was proclaimed the anthem in 1980 (written much earlier). Tip: O Canada."
   },
   {
     "id": 340,
@@ -3737,7 +4075,8 @@
       "Alexander Mackenzie",
       "Sir John Alexander Macdonald"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Sir John A. Macdonald was the dominant figure of Confederation and first PM. Tip: The First Father."
   },
   {
     "id": 341,
@@ -3748,7 +4087,8 @@
       "Over three-quarters of Canadian exports are destined for the USA",
       "Millions of Canadians and Americans cross the border every year in safety"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "It refers to the peace between Canada and the USA. Tip: Friends don't need fences (or armies)."
   },
   {
     "id": 342,
@@ -3759,7 +4099,8 @@
       "1889",
       "1609"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Nova Scotia elected the first assembly in 1758. Tip: 1758 = Democracy Begins (in NS)."
   },
   {
     "id": 343,
@@ -3770,7 +4111,8 @@
       "Currency",
       "Education"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Education is a strictly provincial matter. There is no federal department of education. Tip: Schools are Provincial."
   },
   {
     "id": 344,
@@ -3781,7 +4123,8 @@
       "It is the third largest country on Earth",
       "It is the seventh largest country on Earth"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Russia is #1, Canada is #2. Tip: We are the second biggest land mass."
   },
   {
     "id": 345,
@@ -3792,7 +4135,8 @@
       "The 1st of May",
       "The 3rd Monday of October"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Labor Day honors workers and marks the end of summer. Tip: September Start."
   },
   {
     "id": 346,
@@ -3803,7 +4147,8 @@
       "Built a highway across the prairies",
       "A and C"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Canadian Pacific Railway (CPR) opened the west to settlement. Tip: The train brought the people."
   },
   {
     "id": 347,
@@ -3814,7 +4159,8 @@
       "Early French settlers, M\u00e9tis and Indian",
       "M\u00e9tis, First Nations and Inuit"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Constitution recognizes three groups: First Nations, M\u00e9tis, and Inuit. Tip: F.M.I."
   },
   {
     "id": 348,
@@ -3825,7 +4171,8 @@
       "Lumber",
       "Gold"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "From the 1600s to 1800s, fur was king. Tip: The Beaver is the symbol of this era."
   },
   {
     "id": 349,
@@ -3836,7 +4183,8 @@
       "All of the above",
       "None of the above"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The GG has ceremonial duties like asking the winner to form government and signing laws. Tip: The GG does the official formalities."
   },
   {
     "id": 350,
@@ -3847,7 +4195,8 @@
       "1982",
       "2000"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Act guaranteeing French and English services was passed in 1969. Tip: Summer of '69 (Languages)."
   },
   {
     "id": 351,
@@ -3858,7 +4207,8 @@
       "Black Nation Alliance",
       "Bank of National Association"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The British North America Act (1867) is the law that created Canada. Tip: BNA = British North America."
   },
   {
     "id": 352,
@@ -3869,7 +4219,8 @@
       "13",
       "3"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Federal, Provincial/Territorial, and Municipal. Tip: Three levels for three types of tasks."
   },
   {
     "id": 353,
@@ -3880,7 +4231,8 @@
       "Read by the Senate three times",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "A bill must pass three readings in the Commons, three in the Senate, and get Royal Assent. Tip: House -> Senate -> Crown."
   },
   {
     "id": 354,
@@ -3891,7 +4243,8 @@
       "All languages have equal status in Canada's government",
       "French and English have equal status in Parliament and throughout the government"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Both languages are equal in federal institutions. You can be served in either. Tip: Equality of English and French."
   },
   {
     "id": 355,
@@ -3902,7 +4255,8 @@
       "Terry Fox",
       "Wayne Gretzky"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Mount Logan in the Yukon is named after Sir William Logan, a famous geologist. Tip: Logan = Highest Peak."
   },
   {
     "id": 356,
@@ -3913,7 +4267,8 @@
       "The premier",
       "The prime minister"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Governor General grants 'Royal Assent' on behalf of the Sovereign. Tip: The final signature."
   },
   {
     "id": 357,
@@ -3924,7 +4279,8 @@
       "Belong to a union",
       "Learn both official languages"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Serving in the Canadian Armed Forces is considered a noble way to contribute. Tip: Protect and serve Canada."
   },
   {
     "id": 358,
@@ -3935,7 +4291,8 @@
       "Alberta",
       "Saskatchewan"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Saskatchewan produces the most wheat. Tip: The 'Breadbasket' of Canada."
   },
   {
     "id": 359,
@@ -3946,7 +4303,8 @@
       "He or she works for the governor general",
       "He or she liaises with the municipal government"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "MPs connect their local constituents (you) to the national government in Ottawa. Tip: Your link to Ottawa."
   },
   {
     "id": 360,
@@ -3957,7 +4315,8 @@
       "Joy Kogawa, Michael Ondaatje and Rohinton Mistry",
       "Emily Carr and Louis-Philippe H\u00e9bert"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Kogawa, Ondaatje, and Mistry are celebrated authors. (Carr is a painter; Henderson is hockey). Tip: Memorize the writers' names."
   },
   {
     "id": 361,
@@ -3968,7 +4327,8 @@
       "The first head of state",
       "The first French-speaking prime minister"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "La Fontaine championed Responsible Government and the use of French. Tip: The partner of Robert Baldwin."
   },
   {
     "id": 362,
@@ -3979,7 +4339,8 @@
       "The Citizenship Act",
       "The Charter of Rights and Freedoms"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The BNA Act of 1867 (passed by British Parliament) made Canada a legal country. Tip: The legal birth certificate."
   },
   {
     "id": 363,
@@ -3990,7 +4351,8 @@
       "The Port of Vancouver",
       "The Port of Victoria"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Vancouver processes the most cargo, linking Canada to Asian markets. Tip: West Coast = Busiest."
   },
   {
     "id": 364,
@@ -4001,7 +4363,8 @@
       "Unity",
       "Ribbons of steel"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The railway physically connected the country, symbolizing national unity. Tip: Steel spine of the nation."
   },
   {
     "id": 365,
@@ -4012,7 +4375,8 @@
       "The Canadian Charter of Rights and Freedoms",
       "The Canadian Charter of Rights and Free Will"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Canadian Charter of Rights and Freedoms (1982) is the specific part of the Constitution. Tip: 'Charter of Rights'."
   },
   {
     "id": 366,
@@ -4023,7 +4387,8 @@
       "Sir Steele",
       "Terry Fox"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Terry Fox began his run in 1980 to raise money for cancer research. Tip: Marathon of Hope = Terry Fox."
   },
   {
     "id": 367,
@@ -4034,7 +4399,8 @@
       "The right to enter, remain in, or leave Canada",
       "All of the above"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Citizens have the full package: Voting, Running for Office, and Mobility (Passport). Tip: The 'All Inclusive' citizenship."
   },
   {
     "id": 368,
@@ -4045,7 +4411,8 @@
       "2",
       "1"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "One person, one vote. Tip: Equality at the ballot box."
   },
   {
     "id": 369,
@@ -4056,7 +4423,8 @@
       "2/3",
       "Half"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "More than 75% of our exports go to the US. Tip: We are heavily integrated with the US economy."
   },
   {
     "id": 370,
@@ -4067,7 +4435,8 @@
       "Police station",
       "Fire station"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "You go to the Polling Station listed on your voter card. Tip: Polls."
   },
   {
     "id": 371,
@@ -4078,7 +4447,8 @@
       "The Great Dominion",
       "The land of the brave"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada was historically known as 'The Great Dominion'. Tip: Dominion is the key historical title."
   },
   {
     "id": 372,
@@ -4089,7 +4459,8 @@
       "Northern Canada",
       "Eastern and Central Canada"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Early settlement began in the East (Maritimes) and Central Canada (St. Lawrence/Great Lakes). Tip: East to West migration."
   },
   {
     "id": 373,
@@ -4100,7 +4471,8 @@
       "Capitalism",
       "Individualism"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Pluralism means respecting different cultures and beliefs living together in harmony. Tip: Many (Plural) cultures, one country."
   },
   {
     "id": 374,
@@ -4111,7 +4483,8 @@
       "Peace, order, and good government",
       "Discipline, education, and good public"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The BNA Act grants power to make laws for the 'Peace, Order, and Good Government' of Canada. Tip: POGG."
   },
   {
     "id": 375,
@@ -4122,7 +4495,8 @@
       "Towns",
       "Mountains"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Major cities like Toronto, Vancouver, and Montreal are the most multicultural. Tip: Cities = Diversity."
   },
   {
     "id": 376,
@@ -4133,7 +4507,8 @@
       "Member of Land Association",
       "Member of Land Aid"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "In most provinces, elected officials are MLAs (Member of the Legislative Assembly). Tip: Provincial Legislature."
   },
   {
     "id": 377,
@@ -4144,7 +4519,8 @@
       "Everyone who lives in the provincial or territorial electoral district",
       "Everyone who lives in the municipal electoral district"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "They represent the people in their specific provincial riding. Tip: Provincial Member = Provincial District."
   },
   {
     "id": 378,
@@ -4155,7 +4531,8 @@
       "A form for voting",
       "A form to count the number of votes"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The ballot is the piece of paper where you mark your choice. Tip: Paper vote."
   },
   {
     "id": 379,
@@ -4166,7 +4543,8 @@
       "The prime minister",
       "The people"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Canadian citizens (the people) vote to elect these members. Tip: Democracy means rule by the people."
   },
   {
     "id": 380,
@@ -4177,7 +4555,8 @@
       "The Canadian Charter of Rights and Freedoms and Magna Carta",
       "Laws passed by Parliament and English Common Law"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Magna Carta (1215) and the Charter (1982) are the key documents protecting rights. Tip: The Old (Magna Carta) and the New (Charter)."
   },
   {
     "id": 381,
@@ -4188,7 +4567,8 @@
       "Approved by the Governor General (Royal Assent)",
       "Approved by a judge"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Royal Assent by the Governor General is the final stage. Tip: The Royal Signature."
   },
   {
     "id": 382,
@@ -4199,7 +4579,8 @@
       "Go to the voting station, take your voter's card with ID, highlight choice, deposit it",
       "Go to the voting station, take voter card and ID, mark an X next to candidate, fold ballot, present to official to tear off number, deposit in box"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The procedure is strict: ID check, mark X, fold, verify, deposit. Tip: Follow the official's instructions."
   },
   {
     "id": 383,
@@ -4210,7 +4591,8 @@
       "Having a driver's license",
       "Being an immigrant"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "You must be on the National Register of Electors (voters' list) to cast a ballot. Tip: Get on the List."
   },
   {
     "id": 384,
@@ -4221,7 +4603,8 @@
       "Canadian Languages Act",
       "Official English Act"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Constitution (Charter) and the Official Languages Act provide these protections. Tip: Constitution + Act."
   },
   {
     "id": 385,
@@ -4232,7 +4615,8 @@
       "The Federal Government",
       "The Council"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The Federal Government in Ottawa governs the entire nation. Tip: Federal = National."
   },
   {
     "id": 386,
@@ -4243,7 +4627,8 @@
       "Hockey",
       "Basketball"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Hockey is the sport Canadians watch the most. Tip: We love our Hockey."
   },
   {
     "id": 387,
@@ -4254,7 +4639,8 @@
       "Laws of Canada",
       "Citizenship responsibilities"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "It is a responsibility of citizenship to protect the environment and heritage. Tip: Good citizens take care of the land."
   },
   {
     "id": 388,
@@ -4265,7 +4651,8 @@
       "They are descendants of British settlers who live in Quebec",
       "They are the Canadians who only speak French"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "In 2006, Parliament recognized that Quebecers form a nation within a united Canada. Tip: Nation within Canada."
   },
   {
     "id": 389,
@@ -4276,7 +4663,8 @@
       "More than 60,000",
       "More than 600,000"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Over 600,000 Canadians served in WWI (out of a population of 8 million). Tip: A huge contribution."
   },
   {
     "id": 390,
@@ -4287,7 +4675,8 @@
       "When the MPs want a new prime minister",
       "On the third Monday in October every four years following the most recent general election"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The law sets a fixed date: 3rd Monday in October, 4 years after the last one. Tip: Fixed Election Dates."
   },
   {
     "id": 391,
@@ -4298,7 +4687,8 @@
       "Dominion from ocean to ocean",
       "O Canada, my home and native land"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "This phrase from Psalm 72 inspired the name 'Dominion of Canada'. Tip: From Sea to Sea."
   },
   {
     "id": 392,
@@ -4309,7 +4699,8 @@
       "By citizenship",
       "None of the above"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Canadian Charter of Rights and Freedoms is the highest law protecting these rights. Tip: The Charter is the shield."
   },
   {
     "id": 393,
@@ -4320,7 +4711,8 @@
       "Canada is a founding member of both the United Nations and NATO",
       "Canada is not a founding member of either"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Canada is a committed international citizen and helped found both the UN and NATO. Tip: We were there at the start."
   },
   {
     "id": 394,
@@ -4331,7 +4723,8 @@
       "The best speaker running the election campaign",
       "Someone to become the premier of the province"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "You vote for one candidate to be your MP. Tip: Pick your representative."
   },
   {
     "id": 395,
@@ -4342,7 +4735,8 @@
       "1876",
       "1786"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "1867 is the year Canada became a country. Tip: 1-8-6-7."
   },
   {
     "id": 396,
@@ -4353,7 +4747,8 @@
       "Health",
       "Education"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Money (Currency) is federal. The others (highways, health, education) are provincial. Tip: Money is national."
   },
   {
     "id": 397,
@@ -4364,7 +4759,8 @@
       "A geographical area represented by a member of the House of Commons",
       "The area where voting takes place in your locality"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Also called a 'riding', it is the specific area an MP represents. Tip: One District = One Seat."
   },
   {
     "id": 398,
@@ -4375,7 +4771,8 @@
       "Toronto",
       "Ontario"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Ottawa is the national capital chosen by Queen Victoria. Tip: Ottawa is the boss city."
   },
   {
     "id": 399,
@@ -4386,7 +4783,8 @@
       "They formed a republic state in Canada",
       "They were a group of politicians who attempted to join Canada to the United States"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "They negotiated the union of the colonies into a new country. Tip: They birthed the nation."
   },
   {
     "id": 400,
@@ -4397,7 +4795,8 @@
       "Nova Scotia",
       "Newfoundland and Labrador"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "Newfoundland and Labrador is the furthest east (Cape Spear). Tip: The sun rises there first."
   },
   {
     "id": 401,
@@ -4408,7 +4807,8 @@
       "Halifax",
       "Toronto"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Halifax is the home of the Atlantic fleet and the largest base. Tip: Halifax = Navy."
   },
   {
     "id": 402,
@@ -4419,7 +4819,8 @@
       "Ontario",
       "Alberta"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Ontario has the most people (approx 15 million). Tip: The giant of population."
   },
   {
     "id": 403,
@@ -4430,7 +4831,8 @@
       "Because of the discovery of oil",
       "To build the Pacific Railway"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "The Klondike Gold Rush (1896) attracted 100,000 prospectors. Tip: Gold Fever."
   },
   {
     "id": 404,
@@ -4441,7 +4843,8 @@
       "Inuit",
       "Indian"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Acadians are the distinct French-speaking people of the Maritimes. Tip: Not Quebecois, but Acadian."
   },
   {
     "id": 405,
@@ -4452,7 +4855,8 @@
       "International Peace Garden crossing between Canada and the United States",
       "White Pass in Yukon"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Peace Arch stands on the border (BC/Washington) inscribed 'Children of a Common Mother'. Tip: Arch of Peace."
   },
   {
     "id": 406,
@@ -4463,7 +4867,8 @@
       "Since the discovery of oil in Alberta in 1947",
       "After the Second World War"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "The discovery at Leduc, Alberta in 1947 launched the modern oil industry. Tip: 1947 = Oil Boom."
   },
   {
     "id": 407,
@@ -4474,7 +4879,8 @@
       "Laura Secord",
       "Alice Munro"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "Agnes Macphail was elected in 1921, the first election where women could run. Tip: Macphail = First Female MP."
   },
   {
     "id": 408,
@@ -4485,7 +4891,8 @@
       "The Korean War",
       "The Battle of the Plains of Abraham"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 0,
+    "explanation": "The Peace Tower in Ottawa honors the Canadians who died in WWI. Tip: Built for Peace after the Great War."
   },
   {
     "id": 409,
@@ -4496,7 +4903,8 @@
       "The Nazis",
       "Korea"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "WWII (1939-1945) was fought against Nazi Germany and the Axis powers. Tip: 1939 = Fight against Hitler."
   },
   {
     "id": 410,
@@ -4507,7 +4915,8 @@
       "More than 1 million",
       "40,000"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Approximately 110,000 Canadians have given their lives in service. Tip: Remember the 110k sacrifice."
   },
   {
     "id": 411,
@@ -4518,7 +4927,8 @@
       "Laura Secord",
       "Alice Munro"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "Laura Secord walked 30km to warn the British, helping to win the Battle of Beaver Dams. Tip: Secord saved the day."
   },
   {
     "id": 412,
@@ -4529,7 +4939,8 @@
       "1949",
       "1880"
     ],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 2,
+    "explanation": "They were the last province to join, in 1949. Tip: 1949 = The final province."
   },
   {
     "id": 413,
@@ -4540,7 +4951,8 @@
       "The CN Tower in Toronto",
       "The Peace Tower"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 3,
+    "explanation": "The Peace Tower (replacing the old tower destroyed by fire) was completed in 1927. Tip: 1927 = Peace Tower."
   },
   {
     "id": 414,
@@ -4551,6 +4963,7 @@
       "Yes, you can skip jury duty if you inform the court in advance",
       "No, but you can hire someone to serve on the jury for you"
     ],
-    "correctAnswerIndex": 1
+    "correctAnswerIndex": 1,
+    "explanation": "Jury duty is a mandatory responsibility. You cannot send a substitute. Tip: It's your personal duty."
   }
 ]

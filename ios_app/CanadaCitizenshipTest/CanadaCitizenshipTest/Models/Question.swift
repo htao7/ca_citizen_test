@@ -5,4 +5,5 @@ struct Question: Identifiable, Codable {
     let question: String
     let options: [String]
     let correctAnswerIndex: Int
+    let explanation: String?
 }

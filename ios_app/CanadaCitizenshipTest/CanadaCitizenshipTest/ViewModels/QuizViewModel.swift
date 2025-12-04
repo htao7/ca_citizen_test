@@ -62,7 +62,7 @@ class QuizViewModel: ObservableObject {
     }
     
     func loadQuestions() {
-        guard let url = Bundle.main.url(forResource: "questions", withExtension: "json") else {
+        guard let url = Bundle.main.url(forResource: "questions_with_explanations", withExtension: "json") else {
             print("Questions file not found")
             return
         }
