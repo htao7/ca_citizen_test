@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ContentView: View {
     @EnvironmentObject var viewModel: QuizViewModel
+    @State private var showAllSubcategorySelection = false
     
     var body: some View {
         if viewModel.gameState.mode == .menu {
@@ -70,14 +71,22 @@ struct MenuView: View {
                         MenuButton(
                             icon: "book.fill",
                             title: "All Questions",
-                            subtitle: viewModel.progressPercent > 0 ? "Resume at #\(viewModel.savedProgressIndex + 1)" : "Systematically go through the entire bank",
-                            color: .green,
-                            progress: viewModel.progressPercent,
-                            resetAction: {
-                                viewModel.resetProgress()
-                            }
+                            subtitle: "Practice by category: Year, People, Others",
+                            color: .green
                         ) {
-                            viewModel.startQuiz(type: .all)
+                            showAllSubcategorySelection = true
+                        }
+                        .confirmationDialog("Select Category", isPresented: $showAllSubcategorySelection, titleVisibility: .visible) {
+                            Button("Year Questions \(viewModel.getSubcategoryProgressText(for: .year))") {
+                                viewModel.startQuiz(type: .all, subcategory: .year)
+                            }
+                            Button("People Questions \(viewModel.getSubcategoryProgressText(for: .people))") {
+                                viewModel.startQuiz(type: .all, subcategory: .people)
+                            }
+                            Button("Other Questions \(viewModel.getSubcategoryProgressText(for: .others))") {
+                                viewModel.startQuiz(type: .all, subcategory: .others)
+                            }
+                            Button("Cancel", role: .cancel) { }
                         }
                         
                         // Weakest

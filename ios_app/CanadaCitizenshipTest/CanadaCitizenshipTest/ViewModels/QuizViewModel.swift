@@ -32,9 +32,47 @@ class QuizViewModel: ObservableObject {
     
     // Persistent State
     @AppStorage("canada_prep_progress") var savedProgressIndex: Int = 0
+    @AppStorage("canada_prep_subcategory_progress_json") private var savedSubcategoryProgressJson: String = "{}"
     @AppStorage("canada_prep_wrong_ids_json") private var savedWrongIdsJson: String = "[]"
     @AppStorage("canada_prep_bookmarks_json") private var savedBookmarksJson: String = "[]"
     
+    var subcategoryProgress: [String: Int] {
+        get {
+            guard let data = savedSubcategoryProgressJson.data(using: .utf8) else { return [:] }
+            return (try? JSONDecoder().decode([String: Int].self, from: data)) ?? [:]
+        }
+        set {
+            guard let data = try? JSONEncoder().encode(newValue) else { return }
+            savedSubcategoryProgressJson = String(data: data, encoding: .utf8) ?? "{}"
+        }
+    }
+    
+    func getProgress(for subcategory: QuestionSubcategory) -> Int {
+        return subcategoryProgress[String(describing: subcategory)] ?? 0
+    }
+    
+    func setProgress(for subcategory: QuestionSubcategory, index: Int) {
+        var current = subcategoryProgress
+        current[String(describing: subcategory)] = index
+        subcategoryProgress = current
+    }
+    
+    func getTotalQuestions(for subcategory: QuestionSubcategory) -> Int {
+        switch subcategory {
+        case .year: return yearQuestionIds.count
+        case .people: return peopleQuestionIds.count
+        case .others: return allQuestions.count - yearQuestionIds.count - peopleQuestionIds.count
+        }
+    }
+    
+    func getSubcategoryProgressText(for subcategory: QuestionSubcategory) -> String {
+        let current = getProgress(for: subcategory)
+        let total = getTotalQuestions(for: subcategory)
+        guard total > 0 else { return "" }
+        let percent = Int((Double(current) / Double(total)) * 100)
+        return "(\(percent)%)"
+    }
+
     var globalWrongIds: [Int] {
         get {
             guard let data = savedWrongIdsJson.data(using: .utf8) else { return [] }
@@ -59,6 +97,7 @@ class QuizViewModel: ObservableObject {
     
     init() {
         loadQuestions()
+        loadSubcategoryIds()
     }
     
     func loadQuestions() {
@@ -91,17 +130,74 @@ class QuizViewModel: ObservableObject {
         return bookmarkedIds.contains(questionId)
     }
     
-    func startQuiz(type: QuizType) {
+    // Subcategory Logic
+    enum QuestionSubcategory: CustomStringConvertible {
+        case year
+        case people
+        case others
+        
+        var description: String {
+            switch self {
+            case .year: return "year"
+            case .people: return "people"
+            case .others: return "others"
+            }
+        }
+    }
+    
+    struct SubcategoryData: Codable {
+        let year: [Int]
+        let people: [Int]
+    }
+    
+    private var yearQuestionIds: Set<Int> = []
+    private var peopleQuestionIds: Set<Int> = []
+    
+    func loadSubcategoryIds() {
+        guard let url = Bundle.main.url(forResource: "subcategory_ids", withExtension: "json") else {
+            print("Subcategory IDs file not found")
+            return
+        }
+        
+        do {
+            let data = try Data(contentsOf: url)
+            let subcategoryData = try JSONDecoder().decode(SubcategoryData.self, from: data)
+            yearQuestionIds = Set(subcategoryData.year)
+            peopleQuestionIds = Set(subcategoryData.people)
+            print("Loaded subcategory IDs: Year=\(yearQuestionIds.count), People=\(peopleQuestionIds.count)")
+        } catch {
+            print("Failed to load subcategory IDs: \(error)")
+        }
+    }
+    
+    // Track current subcategory in game state to know where to save progress
+    var currentSubcategory: QuestionSubcategory?
+
+    func startQuiz(type: QuizType, subcategory: QuestionSubcategory? = nil) {
         var selectedQuestions: [Question] = []
         var startIndex = 0
+        
+        currentSubcategory = subcategory
         
         switch type {
         case .random:
             selectedQuestions = Array(allQuestions.shuffled().prefix(20))
             
         case .all:
-            selectedQuestions = allQuestions
-            startIndex = savedProgressIndex >= allQuestions.count ? 0 : savedProgressIndex
+            guard let subcategory = subcategory else { return }
+            
+            switch subcategory {
+            case .year:
+                selectedQuestions = allQuestions.filter { yearQuestionIds.contains($0.id) }
+            case .people:
+                selectedQuestions = allQuestions.filter { peopleQuestionIds.contains($0.id) }
+            case .others:
+                selectedQuestions = allQuestions.filter { !yearQuestionIds.contains($0.id) && !peopleQuestionIds.contains($0.id) }
+            }
+            
+            // Resume progress
+            let savedIndex = getProgress(for: subcategory)
+            startIndex = savedIndex >= selectedQuestions.count ? 0 : savedIndex
             
         case .errorGlobal:
             selectedQuestions = allQuestions.filter { globalWrongIds.contains($0.id) }.shuffled()
@@ -158,10 +254,10 @@ class QuizViewModel: ObservableObject {
             }
         }
         
-        // 2. Update Progress for 'All' mode
-        if gameState.quizType == .all {
-            if gameState.currentQuestionIndex >= savedProgressIndex {
-                savedProgressIndex = gameState.currentQuestionIndex + 1
+        // 2. Update Progress for 'All' mode (and subcategories)
+        if gameState.quizType == .all, let subcategory = currentSubcategory {
+            if gameState.currentQuestionIndex >= getProgress(for: subcategory) {
+                setProgress(for: subcategory, index: gameState.currentQuestionIndex + 1)
             }
         }
         
@@ -202,5 +298,9 @@ class QuizViewModel: ObservableObject {
     
     func resetProgress() {
         savedProgressIndex = 0
+        // Also reset subcategories? Or keep separate? 
+        // User asked for "all subcategories under 'all' mode", usually implies independent tracking.
+        // But the main "All Questions" button has a reset. 
+        // Let's keep the main reset for the main "All" progress.
     }
 }

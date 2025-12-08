@@ -30,11 +30,14 @@ struct ResultsView: View {
                 .padding(.horizontal)
             
             // Stats Grid
-            HStack(spacing: 16) {
-                StatBox(title: "Score", value: "\(viewModel.gameState.score)/\(viewModel.gameState.questions.count)", color: .primary)
-                StatBox(title: "Incorrect", value: "\(wrongCount)", color: .red)
+            if viewModel.gameState.quizType == .random {
+                HStack(spacing: 16) {
+                    StatBox(title: "Percentage", value: "\(percentage)%", color: passed ? .green : .red)
+                    StatBox(title: "Score", value: "\(viewModel.gameState.score)/\(viewModel.gameState.questions.count)", color: .primary)
+                    StatBox(title: "Incorrect", value: "\(wrongCount)", color: .red)
+                }
+                .padding(.horizontal)
             }
-            .padding(.horizontal)
             
             Spacer()
             
@@ -88,6 +91,8 @@ struct ResultsView: View {
     
     var message: String {
         switch viewModel.gameState.quizType {
+        case .all:
+            return "Session Completed. Keep up the good work!"
         case .errorGlobal:
             return "You reviewed your weakest questions. Correct answers have been removed from your study list."
         case .bookmark:
