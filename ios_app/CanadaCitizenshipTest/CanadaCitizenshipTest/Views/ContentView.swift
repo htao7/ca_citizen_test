@@ -2,7 +2,7 @@ import SwiftUI
 
 struct ContentView: View {
     @EnvironmentObject var viewModel: QuizViewModel
-    @State private var showAllSubcategorySelection = false
+
     
     var body: some View {
         if viewModel.gameState.mode == .menu {
@@ -17,6 +17,7 @@ struct ContentView: View {
 
 struct MenuView: View {
     @EnvironmentObject var viewModel: QuizViewModel
+    @State private var showAllSubcategorySelection = false
     
     var body: some View {
         NavigationView {
@@ -74,19 +75,11 @@ struct MenuView: View {
                             subtitle: "Practice by category: Year, People, Others",
                             color: .green
                         ) {
+                        ) {
                             showAllSubcategorySelection = true
                         }
-                        .confirmationDialog("Select Category", isPresented: $showAllSubcategorySelection, titleVisibility: .visible) {
-                            Button("Year Questions \(viewModel.getSubcategoryProgressText(for: .year))") {
-                                viewModel.startQuiz(type: .all, subcategory: .year)
-                            }
-                            Button("People Questions \(viewModel.getSubcategoryProgressText(for: .people))") {
-                                viewModel.startQuiz(type: .all, subcategory: .people)
-                            }
-                            Button("Other Questions \(viewModel.getSubcategoryProgressText(for: .others))") {
-                                viewModel.startQuiz(type: .all, subcategory: .others)
-                            }
-                            Button("Cancel", role: .cancel) { }
+                        .sheet(isPresented: $showAllSubcategorySelection) {
+                            SubcategorySelectionView()
                         }
                         
                         // Weakest

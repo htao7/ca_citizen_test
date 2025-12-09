@@ -57,6 +57,12 @@ class QuizViewModel: ObservableObject {
         subcategoryProgress = current
     }
     
+    func resetSubcategoryProgress(for subcategory: QuestionSubcategory) {
+        var current = subcategoryProgress
+        current[String(describing: subcategory)] = 0
+        subcategoryProgress = current
+    }
+    
     func getTotalQuestions(for subcategory: QuestionSubcategory) -> Int {
         switch subcategory {
         case .year: return yearQuestionIds.count
