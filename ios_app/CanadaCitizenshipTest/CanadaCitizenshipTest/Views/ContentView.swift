@@ -75,7 +75,7 @@ struct MenuView: View {
                             subtitle: "Practice by category: Year, People, Others",
                             color: .green
                         ) {
-                        ) {
+
                             showAllSubcategorySelection = true
                         }
                         .sheet(isPresented: $showAllSubcategorySelection) {

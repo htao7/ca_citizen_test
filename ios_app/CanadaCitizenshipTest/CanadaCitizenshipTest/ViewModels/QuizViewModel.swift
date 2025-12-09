@@ -309,4 +309,15 @@ class QuizViewModel: ObservableObject {
         // But the main "All Questions" button has a reset. 
         // Let's keep the main reset for the main "All" progress.
     }
+
+    
+    func isQuestionHistory(index: Int) -> Bool {
+        guard gameState.quizType == .all else { return false }
+        
+        if let subcategory = currentSubcategory {
+            return index < getProgress(for: subcategory)
+        } else {
+            return index < savedProgressIndex
+        }
+    }
 }

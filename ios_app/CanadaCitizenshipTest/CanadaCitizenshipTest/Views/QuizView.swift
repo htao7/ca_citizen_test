@@ -173,8 +173,7 @@ struct QuizView: View {
     }
     
     var isHistory: Bool {
-        return viewModel.gameState.quizType == .all && 
-               viewModel.gameState.currentQuestionIndex < viewModel.savedProgressIndex
+        return viewModel.isQuestionHistory(index: viewModel.gameState.currentQuestionIndex)
     }
     
     var canGoNext: Bool {
